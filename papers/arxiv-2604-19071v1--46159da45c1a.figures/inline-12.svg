@@ -1,0 +1,261 @@
+<svg id="A13.SS5.p1.pic1" class="ltx_picture" height="2520.05" overflow="visible" version="1.1" viewbox="0 0 653.15 2520.05" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,2520.05) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 2514.14 C 0 2517.41 2.64 2520.05 5.91 2520.05 L 647.24 2520.05 C 650.51 2520.05 653.15 2517.41 653.15 2514.14 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 2495.94 L 651.18 2495.94 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g style="--ltx-stroke-color:#404040;--ltx-fill-color:#404040;--ltx-fg-color:#404040;" color="#404040" fill="#404040" stroke="#404040" stroke-dasharray="2.84528pt,2.84528pt" stroke-dashoffset="1.42264pt" stroke-opacity="1.0"><path style="fill:none" d="M 1.97 2443.53 L 651.18 2443.53" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 2504.54)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS5.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS5.p1.pic1.1.1" class="ltx_p"><span id="A13.SS5.p1.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Plot Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 2458.03)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:1.89em;--ltx-fo-depth:0.19em;font-size:10pt;" height="28.79" overflow="visible" transform="matrix(1 0 0 -1 0 26.1)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS5.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS5.p1.pic1.2.1" class="ltx_p"><span id="A13.SS5.p1.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Input<span id="A13.SS5.p1.pic1.2.1.1.1" class="ltx_text ltx_font_medium">: Instruction, Reference, Content</span></span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.47)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:174.55em;--ltx-fo-depth:0.19em;font-size:10pt;" height="2417.97" overflow="visible" transform="matrix(1 0 0 -1 0 2415.28)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS5.p1.pic1.3" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS5.p1.pic1.3.1" class="ltx_p"><span id="A13.SS5.p1.pic1.3.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please act as a professional writing evaluator and assess the appropriateness of the plot design and development in the &quot;Writing to Be Evaluated&quot; and the &quot;Reference Writing.&quot; Your task is to analyze the strengths and weaknesses of the &quot;Writing to Be Evaluated&quot; based on the provided evaluation criteria, then assign a score from 1 to 10, and briefly explain your reasoning.</span></span>
+<span id="A13.SS5.p1.pic1.3.2" class="ltx_p"><span id="A13.SS5.p1.pic1.3.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will receive the following content:</span></span>
+<span id="A13.I26" class="ltx_itemize">
+<span id="A13.I26.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I26.i1.p1" class="ltx_para">
+<span id="A13.I26.i1.p1.1" class="ltx_p"><span id="A13.I26.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Criteria</span><span id="A13.I26.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Explanation of plot design and development, divided into good and bad scenarios.</span></span>
+</span></span>
+<span id="A13.I26.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I26.i2.p1" class="ltx_para">
+<span id="A13.I26.i2.p1.1" class="ltx_p"><span id="A13.I26.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Writing Instructions</span><span id="A13.I26.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Requirements, background, and central themes for both pieces of writing.</span></span>
+</span></span>
+<span id="A13.I26.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I26.i3.p1" class="ltx_para">
+<span id="A13.I26.i3.p1.1" class="ltx_p"><span id="A13.I26.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Reference Writing and Writing to Be Evaluated</span><span id="A13.I26.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Two writing samples for comparison.</span></span>
+</span></span>
+</span>
+<span id="A13.SS5.p1.pic1.3.3" class="ltx_p"><span id="A13.SS5.p1.pic1.3.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Evaluation Criteria Start]</span></span>
+<span id="A13.SS5.p1.pic1.3.4" class="ltx_p"><span id="A13.SS5.p1.pic1.3.4.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">I. Good Scenarios<span id="A13.SS5.p1.pic1.3.4.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I27" class="ltx_enumerate">
+<span id="A13.I27.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A13.I27.i1.p1" class="ltx_para">
+<span id="A13.I27.i1.p1.1" class="ltx_p"><span id="A13.I27.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Structure &amp; Logic</span><span id="A13.I27.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I27.i1.I1" class="ltx_itemize">
+<span id="A13.I27.i1.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i1.I1.i1.p1" class="ltx_para">
+<span id="A13.I27.i1.I1.i1.p1.1" class="ltx_p"><span id="A13.I27.i1.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The overall structure is clear, well-organized, and logically sound.</span></span>
+</span></span>
+<span id="A13.I27.i1.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i1.I1.i2.p1" class="ltx_para">
+<span id="A13.I27.i1.I1.i2.p1.1" class="ltx_p"><span id="A13.I27.i1.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Paragraph transitions are smooth and coherent, using lively inter-sentence transitions instead of relying on mechanical connectors (e.g., &quot;firstly, secondly, then&quot;).</span></span>
+</span></span>
+<span id="A13.I27.i1.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i1.I1.i3.p1" class="ltx_para">
+<span id="A13.I27.i1.I1.i3.p1.1" class="ltx_p"><span id="A13.I27.i1.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The plot unfolds in an orderly manner with internal consistency, including foreshadowing that is later resolved or explained.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I27.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A13.I27.i2.p1" class="ltx_para">
+<span id="A13.I27.i2.p1.1" class="ltx_p"><span id="A13.I27.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Narrative Techniques</span><span id="A13.I27.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I27.i2.I1" class="ltx_itemize">
+<span id="A13.I27.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i2.I1.i1.p1" class="ltx_para">
+<span id="A13.I27.i2.I1.i1.p1.1" class="ltx_p"><span id="A13.I27.i2.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Skillful use of techniques such as flashbacks or insertions, resulting in a concise narrative with a clear focus.</span></span>
+</span></span>
+<span id="A13.I27.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i2.I1.i2.p1" class="ltx_para">
+<span id="A13.I27.i2.I1.i2.p1.1" class="ltx_p"><span id="A13.I27.i2.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Well-paced progression, demonstrating the ability to create tension at key plot points, capturing reader interest, or building suspense.</span></span>
+</span></span>
+<span id="A13.I27.i2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i2.I1.i3.p1" class="ltx_para">
+<span id="A13.I27.i2.I1.i3.p1.1" class="ltx_p"><span id="A13.I27.i2.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Narrative logic is reasonable and guided by causality or thematic relevance; the plot does not appear abrupt or forced.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I27.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A13.I27.i3.p1" class="ltx_para">
+<span id="A13.I27.i3.p1.1" class="ltx_p"><span id="A13.I27.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Thematic Value</span><span id="A13.I27.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I27.i3.I1" class="ltx_itemize">
+<span id="A13.I27.i3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i3.I1.i1.p1" class="ltx_para">
+<span id="A13.I27.i3.I1.i1.p1.1" class="ltx_p"><span id="A13.I27.i3.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The thematic content is novel and meaningful, able to resonate with readers or provoke deeper thought.</span></span>
+</span></span>
+<span id="A13.I27.i3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i3.I1.i2.p1" class="ltx_para">
+<span id="A13.I27.i3.I1.i2.p1.1" class="ltx_p"><span id="A13.I27.i3.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The narrative conveys insightful perspectives or elevated value orientations.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I27.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A13.I27.i4.p1" class="ltx_para">
+<span id="A13.I27.i4.p1.1" class="ltx_p"><span id="A13.I27.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Fit to Writing Type</span><span id="A13.I27.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I27.i4.I1" class="ltx_itemize">
+<span id="A13.I27.i4.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i4.I1.i1.p1" class="ltx_para">
+<span id="A13.I27.i4.I1.i1.p1.1" class="ltx_p"><span id="A13.I27.i4.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Argumentative essay</span><span id="A13.I27.i4.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Clear thesis, well-organized points, sufficient and relevant evidence.</span></span>
+</span></span>
+<span id="A13.I27.i4.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i4.I1.i2.p1" class="ltx_para">
+<span id="A13.I27.i4.I1.i2.p1.1" class="ltx_p"><span id="A13.I27.i4.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Fiction</span><span id="A13.I27.i4.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Characters and plot serve the theme; the narrative is tight and vivid.</span></span>
+</span></span>
+<span id="A13.I27.i4.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i4.I1.i3.p1" class="ltx_para">
+<span id="A13.I27.i4.I1.i3.p1.1" class="ltx_p"><span id="A13.I27.i4.I1.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Prose</span><span id="A13.I27.i4.I1.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Beautiful imagery, a unified theme, and lively, evocative language.</span></span>
+</span></span>
+<span id="A13.I27.i4.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I27.i4.I1.i4.p1" class="ltx_para">
+<span id="A13.I27.i4.I1.i4.p1.1" class="ltx_p"><span id="A13.I27.i4.I1.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Speech, Application, Report</span><span id="A13.I27.i4.I1.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Concise, focused, logically flowing, and persuasive.</span></span>
+</span></span>
+</span>
+</span></span>
+</span>
+<span id="A13.SS5.p1.pic1.3.5" class="ltx_p"><span id="A13.SS5.p1.pic1.3.5.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">II. Bad Scenarios<span id="A13.SS5.p1.pic1.3.5.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS5.p1.pic1.3.6" class="ltx_p"><span id="A13.SS5.p1.pic1.3.6.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">(Evaluation basis: Minor issues merit a 3-point deduction; significant or severe problems merit a 6-point deduction.)<span id="A13.SS5.p1.pic1.3.6.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I28" class="ltx_enumerate">
+<span id="A13.I28.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A13.I28.i1.p1" class="ltx_para">
+<span id="A13.I28.i1.p1.1" class="ltx_p"><span id="A13.I28.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Structure &amp; Organization Issues</span><span id="A13.I28.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I28.i1.I1" class="ltx_itemize">
+<span id="A13.I28.i1.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i1.I1.i1.p1" class="ltx_para">
+<span id="A13.I28.i1.I1.i1.p1.1" class="ltx_p"><span id="A13.I28.i1.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The structure is disorganized with no hierarchical progression.</span></span>
+</span></span>
+<span id="A13.I28.i1.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i1.I1.i2.p1" class="ltx_para">
+<span id="A13.I28.i1.I1.i2.p1.1" class="ltx_p"><span id="A13.I28.i1.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Paragraphs or sections lack transitions and connections, with abrupt jumps or content piling up, leading to confusion.</span></span>
+</span></span>
+<span id="A13.I28.i1.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i1.I1.i3.p1" class="ltx_para">
+<span id="A13.I28.i1.I1.i3.p1.1" class="ltx_p"><span id="A13.I28.i1.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Plot progression is flat and tedious, lacking attraction or logical coherence.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I28.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A13.I28.i2.p1" class="ltx_para">
+<span id="A13.I28.i2.p1.1" class="ltx_p"><span id="A13.I28.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Narrative Issues</span><span id="A13.I28.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I28.i2.I1" class="ltx_itemize">
+<span id="A13.I28.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i2.I1.i1.p1" class="ltx_para">
+<span id="A13.I28.i2.I1.i1.p1.1" class="ltx_p"><span id="A13.I28.i2.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Improper use of flashbacks/insertions, resulting in confusion or breaking reading immersion.</span></span>
+</span></span>
+<span id="A13.I28.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i2.I1.i2.p1" class="ltx_para">
+<span id="A13.I28.i2.I1.i2.p1.1" class="ltx_p"><span id="A13.I28.i2.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Plot design is loose or fragmented, failing to establish tension or draw interest.</span></span>
+</span></span>
+<span id="A13.I28.i2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i2.I1.i3.p1" class="ltx_para">
+<span id="A13.I28.i2.I1.i3.p1.1" class="ltx_p"><span id="A13.I28.i2.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Plot development lacks causality or necessary foreshadowing, presenting unconvincing or abrupt logic.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I28.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A13.I28.i3.p1" class="ltx_para">
+<span id="A13.I28.i3.p1.1" class="ltx_p"><span id="A13.I28.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Thematic Issues</span><span id="A13.I28.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I28.i3.I1" class="ltx_itemize">
+<span id="A13.I28.i3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i3.I1.i1.p1" class="ltx_para">
+<span id="A13.I28.i3.I1.i1.p1.1" class="ltx_p"><span id="A13.I28.i3.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The theme is cliché, dull, or lacks originality, failing to engage or resonate with readers.</span></span>
+</span></span>
+<span id="A13.I28.i3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i3.I1.i2.p1" class="ltx_para">
+<span id="A13.I28.i3.I1.i2.p1.1" class="ltx_p"><span id="A13.I28.i3.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The intention remains superficial, lacking depth or meaningful development.</span></span>
+</span></span>
+<span id="A13.I28.i3.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i3.I1.i3.p1" class="ltx_para">
+<span id="A13.I28.i3.I1.i3.p1.1" class="ltx_p"><span id="A13.I28.i3.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Lacks thematic unity; content is scattered, making it hard to consolidate into an overall viewpoint or main idea.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I28.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A13.I28.i4.p1" class="ltx_para">
+<span id="A13.I28.i4.p1.1" class="ltx_p"><span id="A13.I28.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Appropriateness Issues</span><span id="A13.I28.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I28.i4.I1" class="ltx_itemize">
+<span id="A13.I28.i4.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i4.I1.i1.p1" class="ltx_para">
+<span id="A13.I28.i4.I1.i1.p1.1" class="ltx_p"><span id="A13.I28.i4.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Argumentative essay</span><span id="A13.I28.i4.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Thesis deviates from the topic, points are simplistic or drawn out, and evidence is insufficient or weak.</span></span>
+</span></span>
+<span id="A13.I28.i4.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i4.I1.i2.p1" class="ltx_para">
+<span id="A13.I28.i4.I1.i2.p1.1" class="ltx_p"><span id="A13.I28.i4.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Fiction</span><span id="A13.I28.i4.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Characters are stiff and lack appeal; plot design has no bearing on the theme or is disconnected from character behavior.</span></span>
+</span></span>
+<span id="A13.I28.i4.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i4.I1.i3.p1" class="ltx_para">
+<span id="A13.I28.i4.I1.i3.p1.1" class="ltx_p"><span id="A13.I28.i4.I1.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Prose</span><span id="A13.I28.i4.I1.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Imagery is bland and lacks vividness; fragmented content fails to support the central theme.</span></span>
+</span></span>
+<span id="A13.I28.i4.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i4.I1.i4.p1" class="ltx_para">
+<span id="A13.I28.i4.I1.i4.p1.1" class="ltx_p"><span id="A13.I28.i4.I1.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Speech, Application, Report</span><span id="A13.I28.i4.I1.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Sentences are verbose or too casual, lack focus, and suffer from logical disconnections.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I28.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A13.I28.i5.p1" class="ltx_para">
+<span id="A13.I28.i5.p1.1" class="ltx_p"><span id="A13.I28.i5.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Language Issues</span><span id="A13.I28.i5.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A13.I28.i5.I1" class="ltx_itemize">
+<span id="A13.I28.i5.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i5.I1.i1.p1" class="ltx_para">
+<span id="A13.I28.i5.I1.i1.p1.1" class="ltx_p"><span id="A13.I28.i5.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Language is simplistic or monotonous, lacking vitality and expressiveness.</span></span>
+</span></span>
+<span id="A13.I28.i5.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i5.I1.i2.p1" class="ltx_para">
+<span id="A13.I28.i5.I1.i2.p1.1" class="ltx_p"><span id="A13.I28.i5.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Writing is obscure or hard to understand, or the style does not match the intent.</span></span>
+</span></span>
+<span id="A13.I28.i5.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I28.i5.I1.i3.p1" class="ltx_para">
+<span id="A13.I28.i5.I1.i3.p1.1" class="ltx_p"><span id="A13.I28.i5.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Excessive use of mechanical or formulaic sentences, lacking the writer’s individual voice.</span></span>
+</span></span>
+</span>
+</span></span>
+</span>
+<span id="A13.SS5.p1.pic1.3.7" class="ltx_p"><span id="A13.SS5.p1.pic1.3.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Evaluation Criteria End]</span></span>
+<span id="A13.SS5.p1.pic1.3.8" class="ltx_p"><span id="A13.SS5.p1.pic1.3.8.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Writing Instructions<span id="A13.SS5.p1.pic1.3.8.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS5.p1.pic1.3.9" class="ltx_p"><span id="A13.SS5.p1.pic1.3.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">{instruction}</span></span>
+<span id="A13.SS5.p1.pic1.3.10" class="ltx_p"><span id="A13.SS5.p1.pic1.3.10.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Reference Writing<span id="A13.SS5.p1.pic1.3.10.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS5.p1.pic1.3.11" class="ltx_p"><span id="A13.SS5.p1.pic1.3.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">{reference}</span></span>
+<span id="A13.SS5.p1.pic1.3.12" class="ltx_p"><span id="A13.SS5.p1.pic1.3.12.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Writing to Be Evaluated<span id="A13.SS5.p1.pic1.3.12.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS5.p1.pic1.3.13" class="ltx_p"><span id="A13.SS5.p1.pic1.3.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">{content}</span></span>
+<span id="A13.SS5.p1.pic1.3.14" class="ltx_p"><span id="A13.SS5.p1.pic1.3.14.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Process<span id="A13.SS5.p1.pic1.3.14.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS5.p1.pic1.3.15" class="ltx_p"><span id="A13.SS5.p1.pic1.3.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please strictly follow these steps for evaluation and avoid contradictory logic:</span></span>
+<span id="A13.I29" class="ltx_enumerate">
+<span id="A13.I29.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A13.I29.i1.p1" class="ltx_para">
+<span id="A13.I29.i1.p1.1" class="ltx_p"><span id="A13.I29.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Comparative Analysis</span><span id="A13.I29.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Using the evaluation criteria, analyze the strengths and weaknesses of the &quot;Writing to Be Evaluated&quot; in comparison to the &quot;Reference Writing,&quot; covering all relevant points.</span></span>
+</span></span>
+<span id="A13.I29.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A13.I29.i2.p1" class="ltx_para">
+<span id="A13.I29.i2.p1.1" class="ltx_p"><span id="A13.I29.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Scoring and Reference Baseline</span><span id="A13.I29.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Reference Writing&quot; is assigned a fixed score of </span><span id="A13.I29.i2.p1.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">6</span><span id="A13.I29.i2.p1.1.4" class="ltx_text" style="--ltx-fg-color:#000000;">, serving as the baseline for assessment. Based on the performance of the &quot;Writing to Be Evaluated,&quot; use the following rules to determine your score:</span></span>
+<span id="A13.I29.i2.I1" class="ltx_itemize">
+<span id="A13.I29.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I29.i2.I1.i1.p1" class="ltx_para">
+<span id="A13.I29.i2.I1.i1.p1.1" class="ltx_p"><span id="A13.I29.i2.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">1–2 Points</span><span id="A13.I29.i2.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Writing to Be Evaluated&quot; displays clearly more bad elements than good compared to the reference. The narrative is largely a dry recounting, lacking linguistic richness and rhetorical depth, with thin content, weak logic, and significant flaws.</span></span>
+</span></span>
+<span id="A13.I29.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I29.i2.I1.i2.p1" class="ltx_para">
+<span id="A13.I29.i2.I1.i2.p1.1" class="ltx_p"><span id="A13.I29.i2.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">3–4 Points</span><span id="A13.I29.i2.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Writing to Be Evaluated&quot; displays somewhat more bad elements than the reference. The narrative is plain and unengaging, the plot is relatively bland, with weak rhetorical and detailed descriptions, but the overall logic is basically coherent.</span></span>
+</span></span>
+<span id="A13.I29.i2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I29.i2.I1.i3.p1" class="ltx_para">
+<span id="A13.I29.i2.I1.i3.p1.1" class="ltx_p"><span id="A13.I29.i2.I1.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">5–6 Points</span><span id="A13.I29.i2.I1.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Writing to Be Evaluated&quot; and the &quot;Reference Writing&quot; have roughly equivalent numbers of good and bad elements. The language is mostly fluent, the plot is complete with no major flaws, and the structure is unified with some internal cohesion, but highlights are lacking.</span></span>
+</span></span>
+<span id="A13.I29.i2.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I29.i2.I1.i4.p1" class="ltx_para">
+<span id="A13.I29.i2.I1.i4.p1.1" class="ltx_p"><span id="A13.I29.i2.I1.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">7–8 Points</span><span id="A13.I29.i2.I1.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Writing to Be Evaluated&quot; displays a similar number of bad elements as the reference but clear strengths as well. There are highlights in language or plot, such as successfully catching the reader’s attention, engaging twists, tightly structured logical progression, and a layered, impactful narrative.</span></span>
+</span></span>
+<span id="A13.I29.i2.I1.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I29.i2.I1.i5.p1" class="ltx_para">
+<span id="A13.I29.i2.I1.i5.p1.1" class="ltx_p"><span id="A13.I29.i2.I1.i5.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">9–10 Points</span><span id="A13.I29.i2.I1.i5.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: The &quot;Writing to Be Evaluated&quot; displays obviously more good elements than the reference. The plot is full of tension, the logic is rigorous and concise, with distinctive strengths across multiple aspects, demonstrating high-level writing and artistry.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A13.I29.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A13.I29.i3.p1" class="ltx_para">
+<span id="A13.I29.i3.p1.1" class="ltx_p"><span id="A13.I29.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Output Format</span><span id="A13.I29.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Please present your evaluation in the following format:</span></span>
+</span></span>
+</span>
+<span id="A13.SS5.p1.pic1.3.16" class="ltx_p"><span id="A13.SS5.p1.pic1.3.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">Strengths and Weaknesses Analysis:</span></span>
+<span id="A13.SS5.p1.pic1.3.17" class="ltx_p"><span id="A13.SS5.p1.pic1.3.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. Comparison of Good Elements: Analysis…</span></span>
+<span id="A13.SS5.p1.pic1.3.18" class="ltx_p"><span id="A13.SS5.p1.pic1.3.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. Comparison of Bad Elements: Analysis…</span></span>
+<span id="A13.SS5.p1.pic1.3.19" class="ltx_p"><span id="A13.SS5.p1.pic1.3.19.1" class="ltx_text" style="--ltx-fg-color:#000000;">Score: [[X]]</span></span>
+<span id="A13.SS5.p1.pic1.3.20" class="ltx_p"><span id="A13.SS5.p1.pic1.3.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">Reason for Score: …</span></span>
+<span id="A13.SS5.p1.pic1.3.21" class="ltx_p"><span id="A13.SS5.p1.pic1.3.21.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Notes<span id="A13.SS5.p1.pic1.3.21.1.1" class="ltx_text ltx_font_medium">:</span></span></span>
+<span id="A13.I30" class="ltx_itemize">
+<span id="A13.I30.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I30.i1.p1" class="ltx_para">
+<span id="A13.I30.i1.p1.1" class="ltx_p"><span id="A13.I30.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Briefly summarize key points, ensuring logical clarity.</span></span>
+</span></span>
+<span id="A13.I30.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I30.i2.p1" class="ltx_para">
+<span id="A13.I30.i2.p1.1" class="ltx_p"><span id="A13.I30.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The score should be wrapped in double square brackets, e.g., [[6]]. The final score must be an integer between 1 and 10.</span></span>
+</span></span>
+</span>
+<span id="A13.SS5.p1.pic1.3.22" class="ltx_p"><span id="A13.SS5.p1.pic1.3.22.1" class="ltx_text" style="--ltx-fg-color:#000000;">Begin your evaluation.</span></span>
+</span></span></span></foreignobject></g></g></svg>

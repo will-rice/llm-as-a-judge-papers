@@ -1,0 +1,175 @@
+<svg id="A13.SS3.p1.pic1" class="ltx_picture" height="1965.23" overflow="visible" version="1.1" viewbox="0 0 653.15 1965.23" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1965.23) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 1959.33 C 0 1962.59 2.64 1965.23 5.91 1965.23 L 647.24 1965.23 C 650.51 1965.23 653.15 1962.59 653.15 1959.33 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 1941.28 L 651.18 1941.28 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g style="--ltx-stroke-color:#404040;--ltx-fill-color:#404040;--ltx-fg-color:#404040;" color="#404040" fill="#404040" stroke="#404040" stroke-dasharray="2.84528pt,2.84528pt" stroke-dashoffset="1.42264pt" stroke-opacity="1.0"><path style="fill:none" d="M 1.97 1888.87 L 651.18 1888.87" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 1949.87)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:0.68em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.15" overflow="visible" transform="matrix(1 0 0 -1 0 9.46)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS3.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS3.p1.pic1.1.1" class="ltx_p"><span id="A13.SS3.p1.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Logics Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 1903.37)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:1.89em;--ltx-fo-depth:0.19em;font-size:10pt;" height="28.79" overflow="visible" transform="matrix(1 0 0 -1 0 26.1)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS3.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS3.p1.pic1.2.1" class="ltx_p"><span id="A13.SS3.p1.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Input<span id="A13.SS3.p1.pic1.2.1.1.1" class="ltx_text ltx_font_medium">: Instruction, Reference, Content</span></span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.47)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:134.47em;--ltx-fo-depth:0.19em;font-size:10pt;" height="1863.3" overflow="visible" transform="matrix(1 0 0 -1 0 1860.61)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A13.SS3.p1.pic1.3" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A13.SS3.p1.pic1.3.1" class="ltx_p"><span id="A13.SS3.p1.pic1.3.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please act as a professional writing reviewer and evaluate the reasoning logic in the &quot;Writing to Be Evaluated&quot; and the &quot;Reference Writing&quot; provided below. Your task is to analyze the strengths and weaknesses of the &quot;Writing to Be Evaluated&quot; based on the evaluation criteria, provide a score between 1 and 10, and briefly explain your reasoning.</span></span>
+<span id="A13.SS3.p1.pic1.3.2" class="ltx_p"><span id="A13.SS3.p1.pic1.3.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will receive the following:</span></span>
+<span id="A13.I11" class="ltx_itemize">
+<span id="A13.I11.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I11.i1.p1" class="ltx_para">
+<span id="A13.I11.i1.p1.1" class="ltx_p"><span id="A13.I11.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Criteria</span><span id="A13.I11.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Descriptions of ideal scenarios and poor performances regarding logical reasoning.</span></span>
+</span></span>
+<span id="A13.I11.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I11.i2.p1" class="ltx_para">
+<span id="A13.I11.i2.p1.1" class="ltx_p"><span id="A13.I11.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Writing Instructions</span><span id="A13.I11.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Requirements, context, and main themes for the two pieces of writing.</span></span>
+</span></span>
+<span id="A13.I11.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I11.i3.p1" class="ltx_para">
+<span id="A13.I11.i3.p1.1" class="ltx_p"><span id="A13.I11.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Reference Writing and Writing to Be Evaluated</span><span id="A13.I11.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Two writing fragments for comparison.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.3" class="ltx_p"><span id="A13.SS3.p1.pic1.3.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Evaluation Criteria Start]</span></span>
+<span id="A13.SS3.p1.pic1.3.4" class="ltx_p"><span id="A13.SS3.p1.pic1.3.4.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">The core focus of content logic:<span id="A13.SS3.p1.pic1.3.4.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I12" class="ltx_enumerate">
+<span id="A13.I12.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A13.I12.i1.p1" class="ltx_para">
+<span id="A13.I12.i1.p1.1" class="ltx_p"><span id="A13.I12.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Consistency in Person/Point of View</span><span id="A13.I12.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Does the entire piece maintain a consistent narrative style and perspective, avoiding abrupt shifts? If there are changes in person or perspective, is there prior groundwork or subsequent explanation?</span></span>
+</span></span>
+<span id="A13.I12.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A13.I12.i2.p1" class="ltx_para">
+<span id="A13.I12.i2.p1.1" class="ltx_p"><span id="A13.I12.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Logical Coherence</span><span id="A13.I12.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Is the reasoning process internally consistent? Do the ideas naturally connect without abrupt breaks or gaps in logic?</span></span>
+</span></span>
+<span id="A13.I12.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A13.I12.i3.p1" class="ltx_para">
+<span id="A13.I12.i3.p1.1" class="ltx_p"><span id="A13.I12.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Consistency in Language Style and Tone</span><span id="A13.I12.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Does the expression retain a consistent tone and style throughout, ensuring a smooth and natural reasoning process?</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.5" class="ltx_p"><span id="A13.SS3.p1.pic1.3.5.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Note<span id="A13.SS3.p1.pic1.3.5.1.1" class="ltx_text ltx_font_upright">: Reasoning logic typically pertains to issues within a single paragraph or across a few adjacent paragraphs. The focus is on maintaining contextual continuity and logical consistency.</span></span></span>
+<span id="A13.SS3.p1.pic1.3.6" class="ltx_p"><span id="A13.SS3.p1.pic1.3.6.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">A. Ideal Scenarios (Exemplars of Excellent Reasoning Logic):<span id="A13.SS3.p1.pic1.3.6.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.7" class="ltx_p"><span id="A13.SS3.p1.pic1.3.7.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">1. Logical Reasoning in Argumentative Writing:<span id="A13.SS3.p1.pic1.3.7.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I13" class="ltx_itemize">
+<span id="A13.I13.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I13.i1.p1" class="ltx_para">
+<span id="A13.I13.i1.p1.1" class="ltx_p"><span id="A13.I13.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The reasoning process is tightly interconnected, with clearly defined logical layers. Ideas progress naturally from common knowledge to deeper analysis, enabling readers to follow the step-by-step reasoning.</span></span>
+</span></span>
+<span id="A13.I13.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I13.i2.p1" class="ltx_para">
+<span id="A13.I13.i2.p1.1" class="ltx_p"><span id="A13.I13.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The content includes both abstract theoretical analysis and concrete evidence to support conclusions, forming naturally persuasive arguments.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.8" class="ltx_p"><span id="A13.SS3.p1.pic1.3.8.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">2. Structure in Speeches or Addresses:<span id="A13.SS3.p1.pic1.3.8.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I14" class="ltx_itemize">
+<span id="A13.I14.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I14.i1.p1" class="ltx_para">
+<span id="A13.I14.i1.p1.1" class="ltx_p"><span id="A13.I14.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The logic is clear and straightforward: identify the core issue, present viewpoints for addressing the issue, and then explain steps or solutions with specificity.</span></span>
+</span></span>
+<span id="A13.I14.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I14.i2.p1" class="ltx_para">
+<span id="A13.I14.i2.p1.1" class="ltx_p"><span id="A13.I14.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Ideas transition from macro-level problem analysis to specific actionable methods, culminating in an inspiring conclusion with layered content.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.9" class="ltx_p"><span id="A13.SS3.p1.pic1.3.9.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">3. Writing in Application Letters or Summary Reports:<span id="A13.SS3.p1.pic1.3.9.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I15" class="ltx_itemize">
+<span id="A13.I15.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I15.i1.p1" class="ltx_para">
+<span id="A13.I15.i1.p1.1" class="ltx_p"><span id="A13.I15.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Reports unfold content logically following a structure like &quot;Objective </span><math id="A13.I15.i1.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A13.I15.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Problem Analysis </span><math id="A13.I15.i1.p1.m2" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A13.I15.i1.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Key Challenges </span><math id="A13.I15.i1.p1.m3" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A13.I15.i1.p1.1.4" class="ltx_text" style="--ltx-fg-color:#000000;"> Solutions </span><math id="A13.I15.i1.p1.m4" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A13.I15.i1.p1.1.5" class="ltx_text" style="--ltx-fg-color:#000000;"> Achieved Results,&quot; reflecting clear thought processes and reasoning.</span></span>
+</span></span>
+<span id="A13.I15.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I15.i2.p1" class="ltx_para">
+<span id="A13.I15.i2.p1.1" class="ltx_p"><span id="A13.I15.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Application letters discuss the attributes and significance of the requested entity while precisely aligning it with the applicant’s needs, forming a tight connection and enhancing the reasonableness and persuasiveness of the content.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.10" class="ltx_p"><span id="A13.SS3.p1.pic1.3.10.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">B. Poor Performances (Issues and Deduction Standards):<span id="A13.SS3.p1.pic1.3.10.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.11" class="ltx_p"><span id="A13.SS3.p1.pic1.3.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">If a piece displays the following logical problems, scores should be deducted accordingly:</span></span>
+<span id="A13.SS3.p1.pic1.3.12" class="ltx_p"><span id="A13.SS3.p1.pic1.3.12.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">1. Issues in Argumentative Writing:<span id="A13.SS3.p1.pic1.3.12.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I16" class="ltx_itemize">
+<span id="A13.I16.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I16.i1.p1" class="ltx_para">
+<span id="A13.I16.i1.p1.1" class="ltx_p"><span id="A13.I16.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The content merely lists opinions without reasoning or evidence (e.g., “We should XXXX, we must XXXX”), lacking justification or examples. This glaring lack of logic warrants at least a 3-point deduction.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.13" class="ltx_p"><span id="A13.SS3.p1.pic1.3.13.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">2. Problems in Speeches or Addresses:<span id="A13.SS3.p1.pic1.3.13.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I17" class="ltx_itemize">
+<span id="A13.I17.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I17.i1.p1" class="ltx_para">
+<span id="A13.I17.i1.p1.1" class="ltx_p"><span id="A13.I17.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analysis or solutions lack depth or breadth. For example, overly abstract discussions without actionable plans, or overly specific ideas without high-level insights. Deduct 3–6 points based on severity.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.14" class="ltx_p"><span id="A13.SS3.p1.pic1.3.14.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">3. Flaws in Application Letters or Summary Reports:<span id="A13.SS3.p1.pic1.3.14.1.1" class="ltx_text"></span></span></span>
+<span id="A13.I18" class="ltx_itemize">
+<span id="A13.I18.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I18.i1.p1" class="ltx_para">
+<span id="A13.I18.i1.p1.1" class="ltx_p"><span id="A13.I18.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Work summaries only state actions performed without analysis or reasoning, making the content superficial.</span></span>
+</span></span>
+<span id="A13.I18.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I18.i2.p1" class="ltx_para">
+<span id="A13.I18.i2.p1.1" class="ltx_p"><span id="A13.I18.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Application letters fail to establish alignment between the requester’s needs and the requested entity, resulting in vague or disconnected content. Deduct 3–6 points based on the severity of the issues.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.15" class="ltx_p"><span id="A13.SS3.p1.pic1.3.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Evaluation Criteria End]</span></span>
+<span id="A13.SS3.p1.pic1.3.16" class="ltx_p"><span id="A13.SS3.p1.pic1.3.16.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Writing Instructions Start]<span id="A13.SS3.p1.pic1.3.16.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.17" class="ltx_p"><span id="A13.SS3.p1.pic1.3.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">{instruction}</span></span>
+<span id="A13.SS3.p1.pic1.3.18" class="ltx_p"><span id="A13.SS3.p1.pic1.3.18.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Writing Instructions End]<span id="A13.SS3.p1.pic1.3.18.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.19" class="ltx_p"><span id="A13.SS3.p1.pic1.3.19.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Reference Writing Start]<span id="A13.SS3.p1.pic1.3.19.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.20" class="ltx_p"><span id="A13.SS3.p1.pic1.3.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">{reference}</span></span>
+<span id="A13.SS3.p1.pic1.3.21" class="ltx_p"><span id="A13.SS3.p1.pic1.3.21.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Reference Writing End]<span id="A13.SS3.p1.pic1.3.21.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.22" class="ltx_p"><span id="A13.SS3.p1.pic1.3.22.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Writing to Be Evaluated Start]<span id="A13.SS3.p1.pic1.3.22.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.23" class="ltx_p"><span id="A13.SS3.p1.pic1.3.23.1" class="ltx_text" style="--ltx-fg-color:#000000;">{content}</span></span>
+<span id="A13.SS3.p1.pic1.3.24" class="ltx_p"><span id="A13.SS3.p1.pic1.3.24.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">[Writing to Be Evaluated End]<span id="A13.SS3.p1.pic1.3.24.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.25" class="ltx_p"><span id="A13.SS3.p1.pic1.3.25.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Process<span id="A13.SS3.p1.pic1.3.25.1.1" class="ltx_text"></span></span></span>
+<span id="A13.SS3.p1.pic1.3.26" class="ltx_p"><span id="A13.SS3.p1.pic1.3.26.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please strictly follow the steps below to complete the evaluation, avoiding contradictions in logic:</span></span>
+<span id="A13.I19" class="ltx_enumerate">
+<span id="A13.I19.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A13.I19.i1.p1" class="ltx_para">
+<span id="A13.I19.i1.p1.1" class="ltx_p"><span id="A13.I19.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Comparative Analysis of Strengths and Weaknesses</span><span id="A13.I19.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Compare the performance of the &quot;Writing to Be Evaluated&quot; against the &quot;Reference Writing&quot; based on the evaluation criteria, gradually analyzing their relative strengths and weaknesses across all points.</span></span>
+</span></span>
+<span id="A13.I19.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A13.I19.i2.p1" class="ltx_para">
+<span id="A13.I19.i2.p1.1" class="ltx_p"><span id="A13.I19.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Scoring with Reference Baseline</span><span id="A13.I19.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Use the &quot;Reference Writing&quot; as the </span><span id="A13.I19.i2.p1.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">8-point standard of excellence</span><span id="A13.I19.i2.p1.1.4" class="ltx_text" style="--ltx-fg-color:#000000;">. Start with 8 points for the &quot;Writing to Be Evaluated&quot; and adjust the score as follows:</span></span>
+</span>
+<span id="A13.I19.i2.p2" class="ltx_para">
+<span id="A13.I19.i2.p2.1" class="ltx_p"><span id="A13.I19.i2.p2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Deduction Rules:</span></span>
+<span id="A13.I19.i2.I1" class="ltx_itemize">
+<span id="A13.I19.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I19.i2.I1.i1.p1" class="ltx_para">
+<span id="A13.I19.i2.I1.i1.p1.1" class="ltx_p"><span id="A13.I19.i2.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">For 0–1 minor weakness or logical flaw, deduct 0–3 points.</span></span>
+</span></span>
+<span id="A13.I19.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I19.i2.I1.i2.p1" class="ltx_para">
+<span id="A13.I19.i2.I1.i2.p1.1" class="ltx_p"><span id="A13.I19.i2.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">For 1–2 minor weaknesses, deduct 3–6 points.</span></span>
+</span></span>
+<span id="A13.I19.i2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I19.i2.I1.i3.p1" class="ltx_para">
+<span id="A13.I19.i2.I1.i3.p1.1" class="ltx_p"><span id="A13.I19.i2.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">For 2 or more minor weaknesses, or 1 significant logical problem, deduct 6–8 points. Severe issues may justify further deductions.</span></span>
+</span></span>
+</span>
+</span>
+<span id="A13.I19.i2.p3" class="ltx_para">
+<span id="A13.I19.i2.p3.1" class="ltx_p"><span id="A13.I19.i2.p3.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Additional Points:</span></span>
+<span id="A13.I19.i2.I2" class="ltx_itemize">
+<span id="A13.I19.i2.I2.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I19.i2.I2.i1.p1" class="ltx_para">
+<span id="A13.I19.i2.I2.i1.p1.1" class="ltx_p"><span id="A13.I19.i2.I2.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">If the evaluated writing demonstrates clear advantages over the reference writing, you can award additional points, up to a maximum of 2 points.</span></span>
+</span></span>
+</span>
+</span>
+<span id="A13.I19.i2.p4" class="ltx_para">
+<span id="A13.I19.i2.p4.1" class="ltx_p"><span id="A13.I19.i2.p4.1.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Other Notes</span><span id="A13.I19.i2.p4.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: A score between 1–4 does not necessarily mean poor reasoning logic overall. Simply base your score strictly on the weaknesses analyzed.</span></span>
+</span></span>
+<span id="A13.I19.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A13.I19.i3.p1" class="ltx_para">
+<span id="A13.I19.i3.p1.1" class="ltx_p"><span id="A13.I19.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Output Format</span><span id="A13.I19.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Deliver your evaluation result in the following format:</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.27" class="ltx_p"><span id="A13.SS3.p1.pic1.3.27.1" class="ltx_text" style="--ltx-fg-color:#000000;">Strengths and Weaknesses Analysis:</span></span>
+<span id="A13.SS3.p1.pic1.3.28" class="ltx_p"><span id="A13.SS3.p1.pic1.3.28.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. Comparison of Positive Aspects: Analysis content…</span></span>
+<span id="A13.SS3.p1.pic1.3.29" class="ltx_p"><span id="A13.SS3.p1.pic1.3.29.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. Comparison of Negative Aspects: Analysis content…</span></span>
+<span id="A13.SS3.p1.pic1.3.30" class="ltx_p"><span id="A13.SS3.p1.pic1.3.30.1" class="ltx_text" style="--ltx-fg-color:#000000;">Score: [[X]]</span></span>
+<span id="A13.SS3.p1.pic1.3.31" class="ltx_p"><span id="A13.SS3.p1.pic1.3.31.1" class="ltx_text" style="--ltx-fg-color:#000000;">Reason for Score: …</span></span>
+<span id="A13.SS3.p1.pic1.3.32" class="ltx_p"><span id="A13.SS3.p1.pic1.3.32.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Notes<span id="A13.SS3.p1.pic1.3.32.1.1" class="ltx_text ltx_font_medium">:</span></span></span>
+<span id="A13.I20" class="ltx_itemize">
+<span id="A13.I20.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I20.i1.p1" class="ltx_para">
+<span id="A13.I20.i1.p1.1" class="ltx_p"><span id="A13.I20.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Briefly summarize key points while ensuring logical rigor.</span></span>
+</span></span>
+<span id="A13.I20.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A13.I20.i2.p1" class="ltx_para">
+<span id="A13.I20.i2.p1.1" class="ltx_p"><span id="A13.I20.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The &quot;Score&quot; section must use double square brackets to enclose the number (e.g., [[6]]). The final score must be a whole number between 1 and 10.</span></span>
+</span></span>
+</span>
+<span id="A13.SS3.p1.pic1.3.33" class="ltx_p"><span id="A13.SS3.p1.pic1.3.33.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please begin your evaluation.</span></span>
+</span></span></span></foreignobject></g></g></svg>

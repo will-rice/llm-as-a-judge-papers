@@ -1,0 +1,33 @@
+<svg id="A1.F10.pic3" class="ltx_picture ltx_centering" height="467.84" overflow="visible" style="vertical-align:-467.84px" version="1.1" viewbox="0 0 460.67 467.84" width="460.67"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,467.84) matrix(1 0 0 -1 0 0) translate(230.34,0) translate(0,233.92)"><g style="--ltx-stroke-color:#BFBFBF;--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" stroke="#BFBFBF"><path d="M 221.75 233.65 L -221.75 233.65 C -226.34 233.65 -230.06 229.93 -230.06 225.34 L -230.06 -225.34 C -230.06 -229.93 -226.34 -233.65 -221.75 -233.65 L 221.75 -233.65 C 226.34 -233.65 230.06 -229.93 230.06 -225.34 L 230.06 225.34 C 230.06 229.93 226.34 233.65 221.75 233.65 Z M -230.06 -233.65" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" transform="matrix(1.0 0.0 0.0 1.0 -224.52 220.52)"><foreignobject style="--ltx-fo-width:18.05em;--ltx-fo-height:0.69em;--ltx-fo-depth:40.53em;font-size:8pt;" height="456.23" overflow="visible" transform="matrix(1 0 0 -1 0 7.6)" width="199.81"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F10.pic3.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:18.05em;">
+<span id="A1.F10.pic3.1.1" class="ltx_p ltx_align_center"><span id="A1.F10.pic3.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">STS
+<br class="ltx_break" style="--ltx-break-space:-2.0pt;"></span><span id="A1.F10.pic3.1.1.2" class="ltx_text" style="font-size:80%;">
+</span><span id="A1.F10.pic3.1.1.3" class="ltx_text ltx_font_bold" style="font-size:80%;">(Scale: 0–100)
+<br class="ltx_break" style="--ltx-break-space:-2.0pt;"></span><span id="A1.F10.pic3.1.1.4" class="ltx_text" style="font-size:80%;">
+</span><span class="ltx_rule" style="width:107.4pt;height:0.4pt;--ltx-bg-color:black;display:inline-block;"> </span></span>
+<span id="A1.F10.pic3.1.2" class="ltx_p ltx_parbox ltx_align_center ltx_align_middle" style="width:145.8pt;"><span id="A1.F10.pic3.1.2.1" class="ltx_text ltx_font_italic" style="font-size:80%;">Score the degree to which two text documents are semantically similar, using the following six-level scale.</span></span>
+<span id="A1.F10.pic3.1.3" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.3.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#FFCCCC;">
+<span id="A1.F10.pic3.1.3.1.1" class="ltx_p"><span id="A1.F10.pic3.1.3.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">0–16 (Level 0):</span><span id="A1.F10.pic3.1.3.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are completely dissimilar.</span></span>
+</span></span>
+<span id="A1.F10.pic3.1.4" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.4.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#FFE6CC;">
+<span id="A1.F10.pic3.1.4.1.1" class="ltx_p"><span id="A1.F10.pic3.1.4.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">17–33 (Level 1):</span><span id="A1.F10.pic3.1.4.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are not equivalent, but are on the same topic.</span></span>
+</span></span>
+<span id="A1.F10.pic3.1.5" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.5.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#FFFFCC;">
+<span id="A1.F10.pic3.1.5.1.1" class="ltx_p"><span id="A1.F10.pic3.1.5.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">34–49 (Level 2):</span><span id="A1.F10.pic3.1.5.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are not equivalent, but share some details.</span></span>
+</span></span>
+<span id="A1.F10.pic3.1.6" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.6.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#F2FFCC;">
+<span id="A1.F10.pic3.1.6.1.1" class="ltx_p"><span id="A1.F10.pic3.1.6.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">50–66 (Level 3):</span><span id="A1.F10.pic3.1.6.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are roughly equivalent, but some important information differs or is missing.</span></span>
+</span></span>
+<span id="A1.F10.pic3.1.7" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.7.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#D9FFD9;">
+<span id="A1.F10.pic3.1.7.1.1" class="ltx_p"><span id="A1.F10.pic3.1.7.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">67–83 (Level 4):</span><span id="A1.F10.pic3.1.7.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are mostly equivalent, but some unimportant details differ.</span></span>
+</span></span>
+<span id="A1.F10.pic3.1.8" class="ltx_p ltx_align_center">
+<span id="A1.F10.pic3.1.8.1" class="ltx_inline-block ltx_parbox ltx_align_middle" style="width:145.8pt;--ltx-bg-color:#B3FFB3;">
+<span id="A1.F10.pic3.1.8.1.1" class="ltx_p"><span id="A1.F10.pic3.1.8.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">84–100 (Level 5):</span><span id="A1.F10.pic3.1.8.1.1.2" class="ltx_text" style="font-size:80%;"> The two documents are completely equivalent, as they mean the same thing.</span></span>
+</span></span>
+</span></span></span></foreignobject></g></g></svg>

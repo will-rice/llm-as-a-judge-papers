@@ -1,0 +1,58 @@
+<svg id="A2.SS3.p4.pic1" class="ltx_picture" height="795.14" overflow="visible" version="1.1" viewbox="0 0 550 795.14" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,795.14) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000099;" fill="#000099" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 789.24 C 0 792.5 2.64 795.14 5.91 795.14 L 544.09 795.14 C 547.36 795.14 550 792.5 550 789.24 L 550 5.91 C 550 2.64 547.36 0 544.09 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#E6E6FF;" fill="#E6E6FF" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 771.03 L 548.03 771.03 L 548.03 5.91 C 548.03 3.73 546.27 1.97 544.09 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 779.63)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS3.p4.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A2.SS3.p4.pic1.1.1" class="ltx_p"><span id="A2.SS3.p4.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Cross Evaluation Rubric: Reasoning Quality</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 256.28)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:36.72em;--ltx-fo-depth:17.89em;font-size:10pt;" height="755.66" overflow="visible" transform="matrix(1 0 0 -1 0 508.05)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS3.p4.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A2.SS3.p4.pic1.2.1" class="ltx_p"><span id="A2.SS3.p4.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Criteria<span id="A2.SS3.p4.pic1.2.1.1.1" class="ltx_text"></span></span></span>
+<span id="A2.SS3.p4.pic1.2.2" class="ltx_p"><span id="A2.SS3.p4.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Given the model’s full response, evaluate the quality of its <span id="A2.SS3.p4.pic1.2.2.1.1" class="ltx_text" style="--ltx-fg-color:#0000FF;">Reasoning Process</span> based on the logical validity, coherence, relevance, and completeness of the explanation that supports the final answer. The reasoning score should reflect <span id="A2.SS3.p4.pic1.2.2.1.2" class="ltx_text ltx_font_bold">how well the model reasons</span>, rather than simply on whether the final answer is correct.</span></span>
+<span id="A2.SS3.p4.pic1.2.3" class="ltx_p"><span id="A2.SS3.p4.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assign a reasoning quality score on a 0–5 scale:</span></span>
+<span id="A2.I4" class="ltx_itemize">
+<span id="A2.I4.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i1.p1" class="ltx_para ltx_noindent">
+<span id="A2.I4.i1.p1.1" class="ltx_p"><span id="A2.I4.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">5</span><span id="A2.I4.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i1.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i1.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Fully correct, clear, logically sound, and well-supported reasoning with no hallucinations or unnecessary steps</span></span>
+</span></span>
+<span id="A2.I4.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i2.p1" class="ltx_para ltx_noindent">
+<span id="A2.I4.i2.p1.1" class="ltx_p"><span id="A2.I4.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">4</span><span id="A2.I4.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i2.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i2.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Mostly correct and coherent reasoning with only minor issues, omissions, or inefficiencies</span></span>
+</span></span>
+<span id="A2.I4.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i3.p1" class="ltx_para ltx_noindent">
+<span id="A2.I4.i3.p1.1" class="ltx_p"><span id="A2.I4.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">3</span><span id="A2.I4.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i3.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i3.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Partially correct reasoning with some weak, unclear, incomplete, or loosely justified steps</span></span>
+</span></span>
+<span id="A2.I4.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i4.p1" class="ltx_para ltx_noindent">
+<span id="A2.I4.i4.p1.1" class="ltx_p"><span id="A2.I4.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">2</span><span id="A2.I4.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i4.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i4.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Reasoning contains major flaws, missing key logical steps, or substantial unsupported claims</span></span>
+</span></span>
+<span id="A2.I4.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i5.p1" class="ltx_para ltx_noindent">
+<span id="A2.I4.i5.p1.1" class="ltx_p"><span id="A2.I4.i5.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">1</span><span id="A2.I4.i5.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i5.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i5.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Mostly incorrect, confused, or poorly connected reasoning with minimal valid support</span></span>
+</span></span>
+<span id="A2.I4.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i6.p1" class="ltx_para">
+<span id="A2.I4.i6.p1.1" class="ltx_p"><span id="A2.I4.i6.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000FF;">0</span><span id="A2.I4.i6.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><math id="A2.I4.i6.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i6.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> No meaningful reasoning, completely nonsensical content, or irrelevant response</span></span>
+</span></span>
+</span>
+<span id="A2.SS3.p4.pic1.2.4" class="ltx_p"><span id="A2.SS3.p4.pic1.2.4.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Rules<span id="A2.SS3.p4.pic1.2.4.1.1" class="ltx_text"></span></span></span>
+<span id="A2.I5" class="ltx_itemize">
+<span id="A2.I5.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I5.i1.p1" class="ltx_para ltx_noindent">
+<span id="A2.I5.i1.p1.1" class="ltx_p"><span id="A2.I5.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">A correct final answer with poor reasoning can still receive a low reasoning score.</span></span>
+</span></span>
+<span id="A2.I5.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I5.i2.p1" class="ltx_para ltx_noindent">
+<span id="A2.I5.i2.p1.1" class="ltx_p"><span id="A2.I5.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">An incorrect final answer may still receive a moderate reasoning score if the reasoning is largely logical but contains a critical mistake.</span></span>
+</span></span>
+<span id="A2.I5.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I5.i3.p1" class="ltx_para ltx_noindent">
+<span id="A2.I5.i3.p1.1" class="ltx_p"><span id="A2.I5.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Focus on whether each step follows logically from the previous one and whether the reasoning is relevant to the question.</span></span>
+</span></span>
+<span id="A2.I5.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I5.i4.p1" class="ltx_para ltx_noindent">
+<span id="A2.I5.i4.p1.1" class="ltx_p"><span id="A2.I5.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do </span><span id="A2.I5.i4.p1.1.2" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">not</span><span id="A2.I5.i4.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> reward verbosity, repetition, or persuasive language. Penalize hallucinated facts, logical gaps, invalid assumptions, or unsupported claims.</span></span>
+</span></span>
+<span id="A2.I5.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I5.i5.p1" class="ltx_para">
+<span id="A2.I5.i5.p1.1" class="ltx_p"><span id="A2.I5.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Use a </span><span id="A2.I5.i5.p1.1.2" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">strict but fair</span><span id="A2.I5.i5.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> standard: high scores should only be given when the reasoning is both logically sound and clearly articulated.</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>

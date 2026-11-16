@@ -1,0 +1,149 @@
+<svg id="A1.SS11.SSS1.p7.pic1" class="ltx_picture" height="1687.63" overflow="visible" version="1.1" viewbox="0 0 653.15 1687.63" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1687.63) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#29CCCC;" fill="#29CCCC" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 1687.63 L 653.15 1687.63 L 653.15 0 Z" /></g><g style="--ltx-fill-color:#E6FFFF;" fill="#E6FFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.38 1.38 L 1.38 1664.54 L 651.77 1664.54 L 651.77 1.38 Z" /></g><g style="--ltx-fill-color:#80FFFF;" fill="#80FFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.38 1664.54 L 1.38 1686.25 L 651.77 1686.25 L 651.77 1664.54 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.07 1671.93)"><foreignobject style="--ltx-fo-width:38.4em;--ltx-fo-height:0.75em;--ltx-fo-depth:0.25em;font-size:10pt;" height="13.84" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="531.35"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS11.SSS1.p7.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.4em;">
+<span id="A1.SS11.SSS1.p7.pic1.1.1" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Agent-as-a-Judge Prompt (Deep)</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.07 15.89)"><foreignobject style="--ltx-fo-width:44.16em;--ltx-fo-height:118.3em;--ltx-fo-depth:0.19em;font-size:10pt;" height="1639.55" overflow="visible" transform="matrix(1 0 0 -1 0 1636.86)" width="611.05"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS11.SSS1.p7.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.16em;">
+<span id="A1.SS11.SSS1.p7.pic1.2.1" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;"># Agent-as-a-Judge Task
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.2" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will verify the factual correctness and rubric compliance of ONE Single-Row extracted from a Response.
+<br class="ltx_break">You MUST follow all instructions precisely and avoid any interpretation that goes beyond what is explicitly required.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.3" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Provided Inputs
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.4" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Query
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.5" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Query]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.6" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">{query}
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.7" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Query]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.8" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Response
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.9" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Response]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.10" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">{response}
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.11" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Response]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.12" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Rubric
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.13" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Rubric]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.14" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">{rubric}
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.15" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Rubric]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.16" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Single-Row (One extracted item)
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.17" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Single-Row]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.18" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">{single_row}
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.19" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.19.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Single-Row]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.20" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Core Principle
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.21" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.21.1" class="ltx_text" style="--ltx-fg-color:#000000;">**Your task is NOT to evaluate whether the Single-Row answers the entire Query. Your task IS ONLY to evaluate whether THIS extracted Single-Row:**
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.22" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.22.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. **Directly corresponds to exactly ONE scoring unit in the Rubric;**
+<br class="ltx_break">2. **Correctly reflects the part of the Response it was extracted from;**
+<br class="ltx_break">3. **Is factually correct according to verification tools;**
+<br class="ltx_break">4. **Meets ALL requirements of the corresponding Rubric scoring unit;**
+<br class="ltx_break">5. **Contains at least one claim relevant to the Query.**
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.23" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.23.1" class="ltx_text" style="--ltx-fg-color:#000000;">You MUST ignore completeness.
+<br class="ltx_break">You MUST evaluate only the correctness of THIS Single-Row’s own claims.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.24" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.24.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Structural Constraints (Very Important)
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.25" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.25.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. **Single-Row = One scoring unit**
+<br class="ltx_break">- The &quot;Extracted From Rubric&quot; ID in the Single-Row must match exactly one scoring unit in the overall Rubric.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.26" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.26.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. **No mixing**
+<br class="ltx_break">- The Single-Row must not combine multiple rubric units into one claim.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.27" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.27.1" class="ltx_text" style="--ltx-fg-color:#000000;">3. **Strict multi-condition requirement**
+<br class="ltx_break">- If the matched Rubric scoring unit contains multiple requirements, **the Single-Row must satisfy ALL of them. Partial fulfillment = label [0].**
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.28" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.28.1" class="ltx_text" style="--ltx-fg-color:#000000;">4. **&quot;N/A&quot; rule (mandatory)**
+<br class="ltx_break">- If the Single-Row contains &quot;N/A&quot;, **you must immediately label it as [0], regardless of any other information.**
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.29" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.29.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Distinguishing Requirement Types (CRITICAL)
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.30" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.30.1" class="ltx_text" style="--ltx-fg-color:#000000;">You MUST determine whether the matched Rubric scoring unit requires:
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.31" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.31.1" class="ltx_text" style="--ltx-fg-color:#000000;">### A. Factual content
+<br class="ltx_break">(e.g., a person’s name, a date, a fact, an explanation)
+<br class="ltx_break">→ You MAY search authoritative sources using Playwright MCP tools.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.32" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.32.1" class="ltx_text" style="--ltx-fg-color:#000000;">### B. A URL, page link, or reference link
+<br class="ltx_break">→ You MUST evaluate ONLY the correctness of the link provided.
+<br class="ltx_break">→ You MUST NOT:
+<br class="ltx_break">- generate a new link,
+<br class="ltx_break">- search for the correct link,
+<br class="ltx_break">- fix the link,
+<br class="ltx_break">- replace anything missing.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.33" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.33.1" class="ltx_text" style="--ltx-fg-color:#000000;">If the Rubric requires a link and the Single-Row does not provide one → label [0].
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.34" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.34.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Verification Procedure
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.35" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.35.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Step 1 — Identify the Target Rubric Unit
+<br class="ltx_break">- Locate the scoring unit whose index matches &quot;Extracted From Rubric&quot; in the Single-Row.
+<br class="ltx_break">- All evaluation must be restricted to the requirements of that scoring unit.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.36" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.36.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Step 2 — Trace Source in the Response
+<br class="ltx_break">- Identify where in the Response the Single-Row was extracted from.
+<br class="ltx_break">- Confirm the Single-Row content faithfully reflects the Response.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.37" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.37.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Step 3 — Evidence Verification (Using Tools)
+<br class="ltx_break">You MUST:
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.38" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.38.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Follow all explicit references in the Response that are relevant to the Single-Row, including URLs, footnotes (e.g., [^1], &lt;sup&gt;1&lt;/sup&gt;), or entries in &quot;Work Cited&quot; / &quot;Key Citations&quot;.
+<br class="ltx_break">- Open referenced pages using Playwright MCP tools.
+<br class="ltx_break">- Validate every claim in the Single-Row that attempts to satisfy the Rubric.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.39" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.39.1" class="ltx_text" style="--ltx-fg-color:#000000;">If Response references are insufficient:
+<br class="ltx_break">- Only if the Rubric requires *factual content*, you may perform searches.
+<br class="ltx_break">- If the Rubric requires *a link*, you MUST NOT search for any missing link.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.40" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.40.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Step 4 — Handling &quot;Unverifiable&quot;
+<br class="ltx_break">If a claim remains unverifiable after:
+<br class="ltx_break">- reviewing all Response references, and
+<br class="ltx_break">
+<br class="ltx_break">- performing allowed searches,
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.41" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.41.1" class="ltx_text" style="--ltx-fg-color:#000000;">then mark the claim as **Not verifiable** and assign label [0].
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.42" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.42.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Final judgement Rules
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.43" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.43.1" class="ltx_text" style="--ltx-fg-color:#000000;">Label the Single-Row as **[1]** only if:
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.44" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.44.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. It makes at least one claim relevant to the Query AND
+<br class="ltx_break">2. Every claim is factually correct AND
+<br class="ltx_break">3. It satisfies ALL requirements of the matched Rubric scoring unit AND
+<br class="ltx_break">4. It faithfully represents its source in the Response AND
+<br class="ltx_break">5. No part of the claim is &quot;N/A&quot;.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.45" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.45.1" class="ltx_text" style="--ltx-fg-color:#000000;">Otherwise, assign **[0]**.
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.46" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.46.1" class="ltx_text" style="--ltx-fg-color:#000000;">—————————————————
+<br class="ltx_break">## Output Format (Strict)
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.47" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.47.1" class="ltx_text" style="--ltx-fg-color:#000000;">You MUST output only:
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.48" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.48.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Response: [1]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.49" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.49.1" class="ltx_text" style="--ltx-fg-color:#000000;">or
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.50" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.50.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Response: [0]
+<br class="ltx_break"></span></span>
+<span id="A1.SS11.SSS1.p7.pic1.2.51" class="ltx_p"><span id="A1.SS11.SSS1.p7.pic1.2.51.1" class="ltx_text" style="--ltx-fg-color:#000000;">Nothing else.</span></span>
+</span></span></span></foreignobject></g></g></svg>
