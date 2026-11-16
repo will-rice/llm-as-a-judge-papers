@@ -1,0 +1,58 @@
+<svg id="A4.SS2.p2.pic1" class="ltx_picture" height="945.26" overflow="visible" version="1.1" viewbox="0 0 653.15 945.26" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,945.26) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 939.35 C 0 942.62 2.64 945.26 5.91 945.26 L 647.24 945.26 C 650.51 945.26 653.15 942.62 653.15 939.35 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 921.3 L 651.18 921.3 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 929.9)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:0.68em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.15" overflow="visible" transform="matrix(1 0 0 -1 0 9.46)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS2.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A4.SS2.p2.pic1.1.1" class="ltx_p"><span id="A4.SS2.p2.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">SoT-LLM User Prompts</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.85)"><foreignobject style="--ltx-fo-width:41.97em;--ltx-fo-height:64.51em;--ltx-fo-depth:0.22em;font-size:10pt;" height="895.72" overflow="visible" transform="matrix(1 0 0 -1 0 892.65)" width="580.75"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS2.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:41.97em;">
+<span id="A4.SS2.p2.pic1.2.1" class="ltx_p"><span id="A4.SS2.p2.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Your Task
+Please perform structured extraction on the response text for {step_num} of CGPST according to the given schema, and provide the results in the required format.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.2" class="ltx_p"><span id="A4.SS2.p2.pic1.2.2.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Future Scenario
+The CGPST future scenario corresponding to the response text is as follows:
+</span></span>
+<span id="A4.SS2.p2.pic1.2.3" class="ltx_p"><span id="A4.SS2.p2.pic1.2.3.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{future_scenario}
+</span></span>
+<span id="A4.SS2.p2.pic1.2.4" class="ltx_p"><span id="A4.SS2.p2.pic1.2.4.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Schema
+</span></span>
+<span id="A4.SS2.p2.pic1.2.5" class="ltx_p"><span id="A4.SS2.p2.pic1.2.5.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{step_schema}
+</span></span>
+<span id="A4.SS2.p2.pic1.2.6" class="ltx_p"><span id="A4.SS2.p2.pic1.2.6.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Description of Schema Fields
+</span></span>
+<span id="A4.SS2.p2.pic1.2.7" class="ltx_p"><span id="A4.SS2.p2.pic1.2.7.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">1. sot_evidence:
+</span></span>
+<span id="A4.SS2.p2.pic1.2.8" class="ltx_p"><span id="A4.SS2.p2.pic1.2.8.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- Refers to fine-grained and verifiable observational information extracted from the original response text, rather than directly copying the response content.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.9" class="ltx_p"><span id="A4.SS2.p2.pic1.2.9.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- Extraction must be strictly grounded in the original content and performed honestly, without forcing interpretations or artificially exaggerating content merely to match certain dimensions.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.10" class="ltx_p"><span id="A4.SS2.p2.pic1.2.10.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- Analyze whether the response satisfies the requirements of each dimension, providing evidence for subsequent scoring.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.11" class="ltx_p"><span id="A4.SS2.p2.pic1.2.11.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- If there is no relevant evidence for a certain dimension in the response text, the corresponding dimension_evidence should be filled with None. Do not fabricate information.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.12" class="ltx_p"><span id="A4.SS2.p2.pic1.2.12.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">2. task_status_memory:
+</span></span>
+<span id="A4.SS2.p2.pic1.2.13" class="ltx_p"><span id="A4.SS2.p2.pic1.2.13.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- Summarize the response for use as contextual reference in subsequent steps. The summary must remain complete while excluding irrelevant or redundant information.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.14" class="ltx_p"><span id="A4.SS2.p2.pic1.2.14.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">- If multiple responses are provided, summarize each one separately.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.15" class="ltx_p"><span id="A4.SS2.p2.pic1.2.15.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Introduction to Step Dimensions
+</span></span>
+<span id="A4.SS2.p2.pic1.2.16" class="ltx_p"><span id="A4.SS2.p2.pic1.2.16.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{score_dimensions_wo_rubrics}
+</span></span>
+<span id="A4.SS2.p2.pic1.2.17" class="ltx_p"><span id="A4.SS2.p2.pic1.2.17.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Response Text for This Step
+</span></span>
+<span id="A4.SS2.p2.pic1.2.18" class="ltx_p"><span id="A4.SS2.p2.pic1.2.18.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{raw_text}
+</span></span>
+<span id="A4.SS2.p2.pic1.2.19" class="ltx_p"><span id="A4.SS2.p2.pic1.2.19.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">### Task Requirements
+</span></span>
+<span id="A4.SS2.p2.pic1.2.20" class="ltx_p"><span id="A4.SS2.p2.pic1.2.20.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">1. Perform structured information extraction and classification solely based on the original response text. Be factual and do not introduce external knowledge or new information.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.21" class="ltx_p"><span id="A4.SS2.p2.pic1.2.21.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">2. Do not make unsupported subjective inferences or extensions.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.22" class="ltx_p"><span id="A4.SS2.p2.pic1.2.22.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">3. Strictly follow the provided schema fields when filling in the output. All fields must strictly conform to the specified data types. Do not add any fields that are not defined in the schema, and do not modify any existing schema fields.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.23" class="ltx_p"><span id="A4.SS2.p2.pic1.2.23.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">4. Each dimension includes corresponding examples. Follow the analytical style of these examples and conduct similar dimension-by-dimension analysis.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.24" class="ltx_p"><span id="A4.SS2.p2.pic1.2.24.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">5. If multiple responses exist, analyze them separately and identify them using labels such as &quot;item_1&quot;, &quot;item_2&quot;, etc.
+</span></span>
+<span id="A4.SS2.p2.pic1.2.25" class="ltx_p"><span id="A4.SS2.p2.pic1.2.25.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">6. The output must be in strict JSON format and must not contain any additional explanations.
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
