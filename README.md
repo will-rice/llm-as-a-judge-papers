@@ -3,10 +3,44 @@
 Standalone paper discovery and conversion for LLM-as-a-judge research papers.
 
 <!-- papers-index:start -->
+
 # Papers
 
-| Published | Identifier | Title | Source |
-| --- | --- | --- | --- |
+The 30 most recent of 297 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+
+| Published                 | Identifier         | Title                                                                                                                                                                             | Source      |
+| ------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-13T11:50:28+00:00 | arxiv:2611.18067v1 | [Agent-as-a-Judge](https://arxiv.org/abs/2611.18067v1)                                                                                                                            | arxiv       |
+| 2026-11-12T00:00:00+00:00 | arxiv:2611.17167   | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://huggingface.co/papers/2611.17167)                                                        | huggingface |
+| 2026-11-11T00:21:38+00:00 | arxiv:2611.14861v1 | [Is Jev a Good Multilingual Judge?](https://arxiv.org/abs/2611.14861v1)                                                                                                           | arxiv       |
+| 2026-11-10T05:34:47+00:00 | arxiv:2611.14581v1 | [When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench](https://arxiv.org/abs/2611.14581v1)           | arxiv       |
+| 2026-11-08T00:12:15+00:00 | arxiv:2611.11030v1 | [Building and Auditing Chemical Datasets with LLMs: A General LLM-as-a-Judge Framework Applied to Homogeneous Catalytic PET Depolymerisation](https://arxiv.org/abs/2611.11030v1) | arxiv       |
+| 2026-11-06T10:43:03+00:00 | arxiv:2611.09291v1 | [AutoRefine: Auto-Calibrating Code Judges from Workflow Outcomes](https://arxiv.org/abs/2611.09291v1)                                                                             | arxiv       |
+| 2026-11-06T09:39:50+00:00 | arxiv:2611.09222v1 | [Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language](https://arxiv.org/abs/2611.09222v1)                                     | arxiv       |
+| 2026-11-06T09:22:29+00:00 | arxiv:2611.09203v2 | [Copies Are Not Confirmations: How News Duplication Fools LLM Judges and Continual Learners](https://arxiv.org/abs/2611.09203v2)                                                  | arxiv       |
+| 2026-11-06T06:20:50+00:00 | arxiv:2611.09047v1 | [Grounding-Aware Judge Reward Reinforcement Learning for Out-of-Domain Face Anti-Spoofing](https://arxiv.org/abs/2611.09047v1)                                                    | arxiv       |
+| 2026-11-04T20:48:34+00:00 | arxiv:2611.07126v1 | [Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning](https://arxiv.org/abs/2611.07126v1)                                                          | arxiv       |
+| 2026-11-04T20:38:52+00:00 | arxiv:2611.07123v1 | [PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems](https://arxiv.org/abs/2611.07123v1)                                                                         | arxiv       |
+| 2026-11-03T21:47:19+00:00 | arxiv:2611.05662v1 | [Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge](https://arxiv.org/abs/2611.05662v1)                                                                              | arxiv       |
+| 2026-11-03T19:49:01+00:00 | arxiv:2611.05556v2 | [AGORA: Reliability-Aware Aggregation of LLM Judges on Small Evaluation Sets](https://arxiv.org/abs/2611.05556v2)                                                                 | arxiv       |
+| 2026-11-03T00:01:56+00:00 | arxiv:2611.04091v1 | [Same Rule, Different Verdicts: Rubric Language and Clause Structure in LLM Judges for Korean Support Dialogues](https://arxiv.org/abs/2611.04091v1)                              | arxiv       |
+| 2026-11-03T00:01:35+00:00 | arxiv:2611.04090v1 | [Swapping the Judge Changes the Ranking: A Preregistered Study of Cross-Provider Replication in LLM-Judged System Comparisons](https://arxiv.org/abs/2611.04090v1)                | arxiv       |
+| 2026-11-02T07:41:05+00:00 | arxiv:2611.02692v1 | [LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models](https://arxiv.org/abs/2611.02692v1)                                                        | arxiv       |
+| 2026-11-01T15:52:25+00:00 | arxiv:2611.02009v1 | [Retrieval-Enhanced Cultural Evaluation for Social Media Translation Training](https://arxiv.org/abs/2611.02009v1)                                                                | arxiv       |
+| 2026-10-31T22:19:54+00:00 | arxiv:2611.01311v1 | [What Do LLM Judges Actually Verify? Matched Controls and Record Gaps for Document Currency](https://arxiv.org/abs/2611.01311v1)                                                  | arxiv       |
+| 2026-10-31T00:51:19+00:00 | arxiv:2611.00505v1 | [To Jev or Not to Jev: When Can System-1 Decision Models Replace LLM Judges?](https://arxiv.org/abs/2611.00505v1)                                                                 | arxiv       |
+| 2026-10-31T00:33:11+00:00 | arxiv:2611.00491v1 | [VoirDire: Counterfactual Calibration for Reliable LLM-as-a-Judge Aggregation](https://arxiv.org/abs/2611.00491v1)                                                                | arxiv       |
+| 2026-10-30T23:02:26+00:00 | arxiv:2611.00447v1 | [Quantiles, Not Points: Streaming Quantile Matching for Ordinal-Aware LLM-as-a-Judge Calibration](https://arxiv.org/abs/2611.00447v1)                                             | arxiv       |
+| 2026-10-30T15:18:29+00:00 | arxiv:2610.41866v1 | [AI evaluators favor job applications written by certain AI models, independent of candidate quality](https://arxiv.org/abs/2610.41866v1)                                         | arxiv       |
+| 2026-10-30T02:12:30+00:00 | arxiv:2610.41149v1 | [Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges](https://arxiv.org/abs/2610.41149v1)                                                                    | arxiv       |
+| 2026-10-28T07:46:54+00:00 | arxiv:2610.38402v2 | [LLMs as Judges and Examinees for Medical Item Difficulty Prediction](https://arxiv.org/abs/2610.38402v2)                                                                         | arxiv       |
+| 2026-10-27T23:45:24+00:00 | arxiv:2610.38076v2 | [Prompt Lottery in LLM-as-a-Judge: Measuring and Mitigating Sensitivity to Syntactic Rephrasing](https://arxiv.org/abs/2610.38076v2)                                              | arxiv       |
+| 2026-10-27T19:13:01+00:00 | arxiv:2610.37868v1 | [Human-Residual Steering: Aligning Frozen LLM Judges with Human Judgment Distributions](https://arxiv.org/abs/2610.37868v1)                                                       | arxiv       |
+| 2026-10-27T13:38:28+00:00 | arxiv:2610.37229v1 | [Decision Models as Judges for Hallucination Detection](https://arxiv.org/abs/2610.37229v1)                                                                                       | arxiv       |
+| 2026-10-26T08:05:21+00:00 | arxiv:2610.34993v1 | [Reason or Recite: Complementary Specialists with an LLM Judge for Traffic Anomaly Reasoning](https://arxiv.org/abs/2610.34993v1)                                                 | arxiv       |
+| 2026-10-26T05:45:11+00:00 | arxiv:2610.34875v1 | [RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge](https://arxiv.org/abs/2610.34875v1)                                                                                | arxiv       |
+| 2026-10-25T05:38:57+00:00 | arxiv:2610.34080v1 | [The LALA Benchmark: Evaluating Literary and Linguistic Analysis in LLMs](https://arxiv.org/abs/2610.34080v1)                                                                     | arxiv       |
+
 <!-- papers-index:end -->
 
 ## Architecture
