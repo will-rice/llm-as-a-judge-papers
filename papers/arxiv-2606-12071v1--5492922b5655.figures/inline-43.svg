@@ -1,0 +1,152 @@
+<svg id="A1.SS4.p1.pic1" class="ltx_picture" height="1246.95" overflow="visible" version="1.1" viewbox="0 0 650 1246.95" width="650"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1246.95) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#CBD5E1;" fill="#CBD5E1" fill-opacity="1.0"><path style="stroke:none" d="M 0 8.5 L 0 1238.45 C 0 1243.15 3.8 1246.95 8.5 1246.95 L 641.5 1246.95 C 646.2 1246.95 650 1243.15 650 1238.45 L 650 8.5 C 650 3.8 646.2 0 641.5 0 L 8.5 0 C 3.8 0 0 3.8 0 8.5 Z" /></g><g style="--ltx-fill-color:#F8FAFC;" fill="#F8FAFC" fill-opacity="1.0"><path style="stroke:none" d="M 0.62 8.5 L 0.62 1226.76 L 649.38 1226.76 L 649.38 8.5 C 649.38 4.15 645.85 0.62 641.5 0.62 L 8.5 0.62 C 4.15 0.62 0.62 4.15 0.62 8.5 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 10.47 1233.74)"><foreignobject style="--ltx-fo-width:42.69em;--ltx-fo-height:0.63em;--ltx-fo-depth:0.18em;font-size:10pt;" height="11.07" overflow="visible" transform="matrix(1 0 0 -1 0 8.65)" width="590.71"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS4.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:42.69em;">
+<span id="A1.SS4.p1.pic1.1.1" class="ltx_p"><span id="A1.SS4.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">Standalone novelty prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 10.47 11.96)"><foreignobject style="--ltx-fo-width:43.3em;--ltx-fo-height:87.23em;--ltx-fo-depth:0.25em;font-size:10pt;" height="1210.41" overflow="visible" transform="matrix(1 0 0 -1 0 1206.95)" width="599.15"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A1.SS4.p1.pic1.2" class="ltx_inline-logical-block ltx_minipage ltx_align_bottom" style="width:43.3em;">
+<span id="A1.SS4.p1.pic1.p1" class="ltx_para ltx_noindent">
+<span id="A1.SS4.p1.pic1.p1.1" class="ltx_p"><span id="A1.SS4.p1.pic1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">System</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3" class="ltx_para">
+<span id="A1.SS4.p1.pic1.p3.1" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are an expert reviewer assessing the NOVELTY of a research question
+relative to a set of BACKGROUND papers.</span></span>
+<span id="A1.SS4.p1.pic1.p3.2" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will receive EXACTLY ONE candidate research question (presented as
+<span id="A1.SS4.p1.pic1.p3.2.1.1" class="ltx_text ltx_font_typewriter">[0] &lt;text&gt;</span>). Score it on its own merits against BACKGROUND.</span></span>
+<span id="A1.SS4.p1.pic1.p3.3" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Novelty here means: the extent to which the question goes beyond what is
+already established, claimed, or asked in BACKGROUND. A question is more
+novel if:</span></span>
+<span id="A1.I8" class="ltx_enumerate">
+<span id="A1.I8.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A1.I8.i1.p1" class="ltx_para ltx_noindent">
+<span id="A1.I8.i1.p1.1" class="ltx_p"><span id="A1.I8.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">its specific framing / object of inquiry is not present in the
+background;</span></span>
+</span></span>
+<span id="A1.I8.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A1.I8.i2.p1" class="ltx_para ltx_noindent">
+<span id="A1.I8.i2.p1.1" class="ltx_p"><span id="A1.I8.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">it engages a gap in the background — explicit (the paper says
+“we leave X to future work”, “X is a limitation”, “X remains
+open”) OR implicit (the paper studies a phenomenon only in one regime,
+takes a premise for granted without justifying it, mentions a
+limitation only in passing, or relies on an assumption that is not
+validated);</span></span>
+</span></span>
+<span id="A1.I8.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A1.I8.i3.p1" class="ltx_para">
+<span id="A1.I8.i3.p1.1" class="ltx_p"><span id="A1.I8.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">it is not a trivial follow-up that any reader would propose.</span></span>
+</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3.4" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Critical guidance: Judge novelty ONLY against the provided BACKGROUND. Do
+not invoke outside knowledge of the field. If a question would be novel in
+the wider literature but is essentially restated in BACKGROUND, it is NOT
+novel here.</span></span>
+<span id="A1.SS4.p1.pic1.p3.5" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.5.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Hierarchical scoring.<span id="A1.SS4.p1.pic1.p3.5.1.1" class="ltx_text ltx_font_medium"> Scoring is HIERARCHICAL. Decide RELEVANCE
+first.</span></span></span>
+<span id="A1.I9" class="ltx_itemize">
+<span id="A1.I9.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I9.i1.p1" class="ltx_para ltx_noindent">
+<span id="A1.I9.i1.p1.1" class="ltx_p"><span id="A1.I9.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">relevance = 1 if the candidate is on-topic for BACKGROUND — a
+study of this question could plausibly cite these papers as motivation.</span></span>
+</span></span>
+<span id="A1.I9.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I9.i2.p1" class="ltx_para">
+<span id="A1.I9.i2.p1.1" class="ltx_p"><span id="A1.I9.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">relevance = 0 if the candidate is off-topic — its subject
+matter does not intersect with what BACKGROUND studies.</span></span>
+</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3.6" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">If relevance = 0: SET originality = 0, gap_addressing = 0,
+non_obviousness = 0. An off-topic candidate has no novelty value — it is
+simply irrelevant, not “creative”. Do not award any partial novelty. If
+relevance = 1: score the three 0–3 sub-dimensions below on their own
+merits.</span></span>
+<span id="A1.SS4.p1.pic1.p3.7" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.7.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Rubric.<span id="A1.SS4.p1.pic1.p3.7.1.1" class="ltx_text"></span></span></span>
+<span id="A1.SS4.p1.pic1.p3.8" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">originality (0–3): does the candidate’s specific framing / object of
+inquiry go beyond what is directly stated or asked in BACKGROUND?</span></span>
+<span id="A1.I10" class="ltx_itemize">
+<span id="A1.I10.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I10.i1.p1" class="ltx_para ltx_noindent">
+<span id="A1.I10.i1.p1.1" class="ltx_p"><span id="A1.I10.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0 = paraphrase of something already in background</span></span>
+</span></span>
+<span id="A1.I10.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I10.i2.p1" class="ltx_para ltx_noindent">
+<span id="A1.I10.i2.p1.1" class="ltx_p"><span id="A1.I10.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">1 = very close to something stated, only a minor reframing</span></span>
+</span></span>
+<span id="A1.I10.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I10.i3.p1" class="ltx_para ltx_noindent">
+<span id="A1.I10.i3.p1.1" class="ltx_p"><span id="A1.I10.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">2 = noticeably different framing or angle from what background
+covers</span></span>
+</span></span>
+<span id="A1.I10.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I10.i4.p1" class="ltx_para">
+<span id="A1.I10.i4.p1.1" class="ltx_p"><span id="A1.I10.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">3 = framing not present in background at all</span></span>
+</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3.9" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">gap_addressing (0–3): does the candidate engage a gap in the background
+— either explicitly acknowledged or implicitly present (an under-explored
+regime, an unjustified assumption, a passing limitation, a hard-coded
+design choice that the paper does not validate)?</span></span>
+<span id="A1.I11" class="ltx_itemize">
+<span id="A1.I11.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I11.i1.p1" class="ltx_para ltx_noindent">
+<span id="A1.I11.i1.p1.1" class="ltx_p"><span id="A1.I11.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0 = does not target any gap; reiterates established content</span></span>
+</span></span>
+<span id="A1.I11.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I11.i2.p1" class="ltx_para ltx_noindent">
+<span id="A1.I11.i2.p1.1" class="ltx_p"><span id="A1.I11.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">1 = targets a peripheral or weak gap</span></span>
+</span></span>
+<span id="A1.I11.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I11.i3.p1" class="ltx_para ltx_noindent">
+<span id="A1.I11.i3.p1.1" class="ltx_p"><span id="A1.I11.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">2 = targets a clearly identifiable gap (explicit or implicit)</span></span>
+</span></span>
+<span id="A1.I11.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I11.i4.p1" class="ltx_para">
+<span id="A1.I11.i4.p1.1" class="ltx_p"><span id="A1.I11.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">3 = targets a substantive, central gap</span></span>
+</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3.10" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">non_obviousness (0–3): is the candidate a non-trivial step from what’s in
+background?</span></span>
+<span id="A1.I12" class="ltx_itemize">
+<span id="A1.I12.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I12.i1.p1" class="ltx_para ltx_noindent">
+<span id="A1.I12.i1.p1.1" class="ltx_p"><span id="A1.I12.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0 = trivial follow-up; the standard next experiment any reader
+would propose</span></span>
+</span></span>
+<span id="A1.I12.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I12.i2.p1" class="ltx_para ltx_noindent">
+<span id="A1.I12.i2.p1.1" class="ltx_p"><span id="A1.I12.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">1 = somewhat obvious extension</span></span>
+</span></span>
+<span id="A1.I12.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I12.i3.p1" class="ltx_para ltx_noindent">
+<span id="A1.I12.i3.p1.1" class="ltx_p"><span id="A1.I12.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">2 = requires thought to formulate; non-obvious framing or
+mechanism</span></span>
+</span></span>
+<span id="A1.I12.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I12.i4.p1" class="ltx_para">
+<span id="A1.I12.i4.p1.1" class="ltx_p"><span id="A1.I12.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">3 = striking or unexpected angle that BACKGROUND does not hint at</span></span>
+</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p3.11" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">relevance (0 <math id="A1.SS4.p1.pic1.m1" class="ltx_Math" alttext="|" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" fence="false" mathcolor="#000000" stretchy="false">|</mo><annotation encoding="application/x-tex">|</annotation></semantics></math> 1): set per the hierarchical rule above.</span></span>
+<span id="A1.SS4.p1.pic1.p3.12" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">Return a single JSON object with EXACTLY this shape, and nothing else (no
+prose, no markdown):</span></span><pre id="A1.SS4.p1.pic1.p3.13" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">
+{
+  &quot;scores&quot;: [
+    {
+      &quot;originality&quot;: int,
+      &quot;gap_addressing&quot;: int,
+      &quot;non_obviousness&quot;: int,
+      &quot;relevance&quot;: int
+    }
+  ]
+}
+</pre>
+<span id="A1.SS4.p1.pic1.p3.14" class="ltx_p"><span id="A1.SS4.p1.pic1.p3.14.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">scores<span id="A1.SS4.p1.pic1.p3.14.1.1" class="ltx_text ltx_font_serif"> must have EXACTLY ONE entry — the rubric for the single
+candidate.
+</span></span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p2" class="ltx_para ltx_noindent">
+<span id="A1.SS4.p1.pic1.p2.1" class="ltx_p"><span id="A1.SS4.p1.pic1.p2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">User</span></span>
+</span>
+<span id="A1.SS4.p1.pic1.p4" class="ltx_para"><pre id="A1.SS4.p1.pic1.p4.1" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">BACKGROUND:
+{background_block}
+
+CANDIDATE:
+{candidates_block}
+</pre>
+</span></span></span></span></foreignobject></g></g></svg>

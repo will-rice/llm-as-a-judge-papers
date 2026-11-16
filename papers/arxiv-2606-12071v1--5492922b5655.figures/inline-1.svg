@@ -1,0 +1,49 @@
+<svg id="S1.F1.pic1" class="ltx_picture" height="276.7" overflow="visible" version="1.1" viewbox="0 0 874.6 276.7" width="874.6"><g transform="translate(0,276.7) matrix(1 0 0 -1 0 0) translate(135.27,0) translate(0,138.35)"><g style="--ltx-stroke-color:#FFCC99;--ltx-fill-color:#FFF9F2;" fill="#FFF9F2" stroke="#FFCC99" stroke-width="0.8pt"><path d="M 127.8 137.8 L -127.8 137.8 C -131.62 137.8 -134.71 134.7 -134.71 130.88 L -134.71 -130.88 C -134.71 -134.7 -131.62 -137.8 -127.8 -137.8 L 127.8 -137.8 C 131.62 -137.8 134.71 -134.7 134.71 -130.88 L 134.71 130.88 C 134.71 134.7 131.62 137.8 127.8 137.8 Z M -134.71 -137.8" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.8pt" transform="matrix(1.0 0.0 0.0 1.0 -118.11 108.93)"><foreignobject style="--ltx-fo-width:18.45em;--ltx-fo-height:0.62em;--ltx-fo-depth:16.36em;font-size:10pt;" height="234.96" overflow="visible" transform="matrix(1 0 0 -1 0 8.54)" width="255.3"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="S1.F1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:18.45em;">
+<span id="S1.F1.pic1.1.1" class="ltx_p"></span>
+<span id="S1.F1.pic1.1.2" class="ltx_p ltx_align_left"><span id="S1.F1.pic1.1.2.1" class="ltx_text ltx_font_bold" style="font-size:90%;">GAPS IN PRIOR WORK
+<br class="ltx_break" style="--ltx-break-space:9.3pt;"><span id="S1.F1.pic1.1.2.1.1" class="ltx_text ltx_font_medium">
+</span>DeepSeek-R1<span id="S1.F1.pic1.1.2.1.2" class="ltx_text"></span></span></span>
+<span id="S1.I3" class="ltx_itemize ltx_align_left" style="--ltx-enum-leftmargin:1.2em;">
+<span id="S1.I3.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S1.I3.i1.p1" class="ltx_para ltx_noindent">
+<span id="S1.I3.i1.p1.1" class="ltx_p"><span id="S1.I3.i1.p1.1.1" class="ltx_text" style="font-size:90%;">Large-scale RL algorithm and training recipe are undisclosed.</span></span>
+</span></span>
+<span id="S1.I3.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S1.I3.i2.p1" class="ltx_para">
+<span id="S1.I3.i2.p1.1" class="ltx_p"><span id="S1.I3.i2.p1.1.1" class="ltx_text" style="font-size:90%;">DeepSeek-R1-Zero-Qwen-32B reports lower AIME 2024 performance.</span></span>
+</span></span>
+</span>
+<span id="S1.F1.pic1.1.3" class="ltx_p ltx_align_left"><span id="S1.F1.pic1.1.3.1" class="ltx_text ltx_font_bold" style="font-size:90%;">ReSearch<span id="S1.F1.pic1.1.3.1.1" class="ltx_text"></span></span></span>
+<span id="S1.I4" class="ltx_itemize ltx_align_left" style="--ltx-enum-leftmargin:1.2em;">
+<span id="S1.I4.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S1.I4.i1.p1" class="ltx_para">
+<span id="S1.I4.i1.p1.1" class="ltx_p"><span id="S1.I4.i1.p1.1.1" class="ltx_text" style="font-size:90%;">Scalable RL algorithms and recipes remain hidden in technical reports.</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g><g style="--ltx-stroke-color:#9999FF;--ltx-fill-color:#F2F2FF;" fill="#F2F2FF" stroke="#9999FF" stroke-width="0.8pt"><path d="M 429.83 137.8 L 174.24 137.8 C 170.42 137.8 167.32 134.7 167.32 130.88 L 167.32 -130.88 C 167.32 -134.7 170.42 -137.8 174.24 -137.8 L 429.83 -137.8 C 433.65 -137.8 436.75 -134.7 436.75 -130.88 L 436.75 130.88 C 436.75 134.7 433.65 137.8 429.83 137.8 Z M 167.32 -137.8" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.8pt" transform="matrix(1.0 0.0 0.0 1.0 183.92 61.28)"><foreignobject style="--ltx-fo-width:18.45em;--ltx-fo-height:0.62em;--ltx-fo-depth:9.48em;font-size:10pt;" height="139.65" overflow="visible" transform="matrix(1 0 0 -1 0 8.54)" width="255.3"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="S1.F1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:18.45em;">
+<span id="S1.F1.pic1.2.1" class="ltx_p"></span>
+<span id="S1.F1.pic1.2.2" class="ltx_p ltx_align_left"><span id="S1.F1.pic1.2.2.1" class="ltx_text ltx_font_bold" style="font-size:90%;">RESEARCH QUESTION
+<br class="ltx_break" style="--ltx-break-space:9.3pt;"><span id="S1.F1.pic1.2.2.1.1" class="ltx_text ltx_font_medium">
+<span id="S1.F1.pic1.2.2.1.1.1" class="ltx_text ltx_font_italic">How can an open-source reinforcement learning system achieve state-of-the-art mathematical reasoning on benchmarks such as AIME 2024 without relying on proprietary training recipes?
+<br class="ltx_break" style="--ltx-break-space:18.5pt;"></span></span></span></span>
+<span id="S1.F1.pic1.2.3" class="ltx_p ltx_align_left"><span id="S1.F1.pic1.2.3.1" class="ltx_text ltx_font_bold" style="font-size:90%;">Gap-grounded target:<span id="S1.F1.pic1.2.3.1.1" class="ltx_text ltx_font_medium"> open, reproducible RL for strong mathematical reasoning.</span></span></span>
+</span></span></span></foreignobject></g><g style="--ltx-stroke-color:#99FF99;--ltx-fill-color:#F2FFF2;" fill="#F2FFF2" stroke="#99FF99" stroke-width="0.8pt"><path d="M 731.86 137.8 L 476.27 137.8 C 472.45 137.8 469.35 134.7 469.35 130.88 L 469.35 -130.88 C 469.35 -134.7 472.45 -137.8 476.27 -137.8 L 731.86 -137.8 C 735.68 -137.8 738.78 -134.7 738.78 -130.88 L 738.78 130.88 C 738.78 134.7 735.68 137.8 731.86 137.8 Z M 469.35 -137.8" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.8pt" transform="matrix(1.0 0.0 0.0 1.0 485.95 86.48)"><foreignobject style="--ltx-fo-width:18.45em;--ltx-fo-height:0.63em;--ltx-fo-depth:13.13em;font-size:10pt;" height="190.26" overflow="visible" transform="matrix(1 0 0 -1 0 8.65)" width="255.3"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="S1.F1.pic1.3" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:18.45em;">
+<span id="S1.F1.pic1.3.1" class="ltx_p"></span>
+<span id="S1.F1.pic1.3.2" class="ltx_p ltx_align_left"><span id="S1.F1.pic1.3.2.1" class="ltx_text ltx_font_bold" style="font-size:90%;">MAIN IDEA &amp; CONTRIBUTIONS
+<br class="ltx_break" style="--ltx-break-space:9.3pt;"><span id="S1.F1.pic1.3.2.1.1" class="ltx_text ltx_font_medium">
+DAPO is a fully open-source RL system for mathematical reasoning.
+<br class="ltx_break" style="--ltx-break-space:4.6pt;"></span></span></span>
+<span id="S1.I5" class="ltx_itemize ltx_align_left" style="--ltx-enum-leftmargin:1.2em;">
+<span id="S1.I5.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S1.I5.i1.p1" class="ltx_para ltx_noindent">
+<span id="S1.I5.i1.p1.1" class="ltx_p"><span id="S1.I5.i1.p1.1.1" class="ltx_text" style="font-size:90%;">Introduces four training improvements: Clip-Higher, Dynamic Sampling, Token-Level Loss, and Reward Shaping.</span></span>
+</span></span>
+<span id="S1.I5.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S1.I5.i2.p1" class="ltx_para">
+<span id="S1.I5.i2.p1.1" class="ltx_p"><span id="S1.I5.i2.p1.1.1" class="ltx_text" style="font-size:90%;">Releases full training code and the DAPO-Math-17K dataset.</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000"><g stroke-width="0.8pt"><g style="--ltx-stroke-color:#B3B3B3;--ltx-fill-color:#B3B3B3;--ltx-fg-color:#B3B3B3;" color="#B3B3B3" fill="#B3B3B3" stroke="#B3B3B3"><path style="fill:none" d="M 135.27 0 L 153.54 0" /></g><g style="--ltx-stroke-color:#B3B3B3;--ltx-fill-color:#B3B3B3;--ltx-fg-color:#B3B3B3;" color="#B3B3B3" fill="#B3B3B3" stroke="#B3B3B3" stroke-dasharray="none" stroke-dashoffset="0.0pt" stroke-linejoin="miter" transform="matrix(1.0 0.0 0.0 1.0 153.54 0)"><path d="M 10.9 0 C 9.56 0.31 3.68 2.07 0 3.98 L 0 -3.98 C 3.68 -2.07 9.56 -0.31 10.9 0 Z" /></g></g><g stroke-width="0.8pt"><g style="--ltx-stroke-color:#B3B3B3;--ltx-fill-color:#B3B3B3;--ltx-fg-color:#B3B3B3;" color="#B3B3B3" fill="#B3B3B3" stroke="#B3B3B3"><path style="fill:none" d="M 437.3 0 L 455.57 0" /></g><g style="--ltx-stroke-color:#B3B3B3;--ltx-fill-color:#B3B3B3;--ltx-fg-color:#B3B3B3;" color="#B3B3B3" fill="#B3B3B3" stroke="#B3B3B3" stroke-dasharray="none" stroke-dashoffset="0.0pt" stroke-linejoin="miter" transform="matrix(1.0 0.0 0.0 1.0 455.57 0)"><path d="M 10.9 0 C 9.56 0.31 3.68 2.07 0 3.98 L 0 -3.98 C 3.68 -2.07 9.56 -0.31 10.9 0 Z" /></g></g></g></g></svg>
