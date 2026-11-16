@@ -1,0 +1,16 @@
+<svg id="A11.F9.pic1" class="ltx_picture ltx_centering" height="350.93" overflow="visible" version="1.1" viewbox="0 0 653.15 350.93" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,350.93) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000099;" fill="#000099" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 350.93 L 653.15 350.93 L 653.15 0 Z" /></g><g style="--ltx-fill-color:#FAFAFF;" fill="#FAFAFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.11 1.11 L 1.11 349.82 L 652.04 349.82 L 652.04 1.11 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.79 14.07)"><foreignobject style="--ltx-fo-width:42.1em;--ltx-fo-height:23.41em;--ltx-fo-depth:0.08em;font-size:10pt;" height="325.1" overflow="visible" transform="matrix(1 0 0 -1 0 323.94)" width="582.55"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A11.F9.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:42.1em;">
+<span id="A11.F9.pic1.1.1" class="ltx_p"><span id="A11.F9.pic1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Please act as an impartial judge and evaluate the quality of the responses provided by two AI assistants to the user question displayed below. You should choose the assistant that follows the user’s instructions and answers the user’s question better. Your evaluation should consider factors such as the helpfulness, relevance, accuracy, depth, creativity, and level of detail of their responses. Begin your evaluation by comparing the two responses and provide a short explanation. Avoid any position biases and ensure that the order in which the responses were presented does not influence your decision. Do not allow the length of the responses to influence your evaluation. Do not favor certain names of the assistants. Be as objective as possible. After providing your explanation, output your final verdict by strictly following this format: &quot;[[A]]&quot; if assistant A is better, &quot;[[B]]&quot; if assistant B is better. 
+<br class="ltx_break"></span></span>
+<span id="A11.F9.pic1.1.2" class="ltx_p"><span id="A11.F9.pic1.1.2.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">[User Question]
+<br class="ltx_break">{question} 
+<br class="ltx_break"></span></span>
+<span id="A11.F9.pic1.1.3" class="ltx_p"><span id="A11.F9.pic1.1.3.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">[The Start of Assistant A’s Answer] 
+<br class="ltx_break">{answer_a} 
+<br class="ltx_break">[The End of Assistant A’s Answer] 
+<br class="ltx_break"></span></span>
+<span id="A11.F9.pic1.1.4" class="ltx_p"><span id="A11.F9.pic1.1.4.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">[The Start of Assistant B’s Answer] 
+<br class="ltx_break">{answer_b} 
+<br class="ltx_break">[The End of Assistant B’s Answer]
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
