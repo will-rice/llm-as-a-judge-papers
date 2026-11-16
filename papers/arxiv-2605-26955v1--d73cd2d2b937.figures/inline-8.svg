@@ -1,0 +1,35 @@
+<svg id="A5.SS2.p1.pic1" class="ltx_picture" height="263.19" overflow="visible" version="1.1" viewbox="0 0 477.38 263.19" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,263.19) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 257.28 C 0 260.54 2.64 263.19 5.91 263.19 L 471.47 263.19 C 474.73 263.19 477.38 260.54 477.38 257.28 L 477.38 5.91 C 477.38 2.64 474.73 0 471.47 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 239.19 L 475.41 239.19 L 475.41 5.91 C 475.41 3.73 473.65 1.97 471.47 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 7.29 247.79)"><foreignobject style="--ltx-fo-width:29.09em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.18" overflow="visible" transform="matrix(1 0 0 -1 0 9.49)" width="402.52"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:29.09em;">
+<span id="A5.SS2.p1.pic1.1.1" class="ltx_p"><span id="A5.SS2.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 7.29 10.4)"><foreignobject style="--ltx-fo-width:35.4em;--ltx-fo-height:16.15em;--ltx-fo-depth:0.23em;font-size:10pt;" height="226.58" overflow="visible" transform="matrix(1 0 0 -1 0 223.47)" width="489.84"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:35.4em;">
+<span id="A5.SS2.p1.pic1.2.1" class="ltx_p"><span id="A5.SS2.p1.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;--ltx-fg-color:#000000;">## Task Description
+
+<br class="ltx_break">
+<br class="ltx_break">The goal of this task is to carefully examine the [Target Sentence] within the context of the [Query] and [Full Response] to determine if it contains any **cultural or linguistic errors**.
+
+<br class="ltx_break">
+<br class="ltx_break">Infer the target culture from the [Query], and evaluate the [Target Sentence] from the perspective of **that specific culture**.
+
+<br class="ltx_break">
+<br class="ltx_break">Return ‘‘True’’ if any cultural or linguistic error exists in the [Target Sentence], otherwise ‘‘False’’. Do not generate any other text.
+
+<br class="ltx_break">
+<br class="ltx_break">
+<br class="ltx_break">## Query
+
+<br class="ltx_break">{query}
+
+<br class="ltx_break">
+<br class="ltx_break">
+<br class="ltx_break">## Full Response
+
+<br class="ltx_break">{response}
+
+<br class="ltx_break">
+<br class="ltx_break">
+<br class="ltx_break">## Target Sentence
+
+<br class="ltx_break">{sentence}
+</span></span>
+</span></span></span></foreignobject></g></g></svg>

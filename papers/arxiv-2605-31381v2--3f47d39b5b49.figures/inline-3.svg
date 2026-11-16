@@ -1,0 +1,82 @@
+<svg id="A2.F1.pic1" class="ltx_picture ltx_centering" height="907.6" overflow="visible" version="1.1" viewbox="0 0 681.19 907.6" width="681.19"><g transform="translate(0,907.6) matrix(1 0 0 -1 0 0) translate(340.6,0) translate(0,453.8)"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#FAFAFA;" fill="#FAFAFA" stroke="#000000" stroke-width="0.35pt"><path d="M 335.63 453.56 L -335.63 453.56 C -338.24 453.56 -340.35 451.44 -340.35 448.83 L -340.35 -448.83 C -340.35 -451.44 -338.24 -453.56 -335.63 -453.56 L 335.63 -453.56 C 338.24 -453.56 340.35 -451.44 340.35 -448.83 L 340.35 448.83 C 340.35 451.44 338.24 453.56 335.63 453.56 Z M -340.35 -453.56" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.35pt" transform="matrix(1.0 0.0 0.0 1.0 -326.57 441.75)"><foreignobject style="--ltx-fo-width:47.2em;--ltx-fo-height:0em;--ltx-fo-depth:63.85em;font-size:10pt;" height="883.5" overflow="visible" transform="matrix(1 0 0 -1 0 0)" width="653.12"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:47.2em;">
+<span id="A2.F1.pic1.1.1" class="ltx_p"></span>
+<span id="A2.F1.pic1.1.2" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.2.1" class="ltx_text ltx_font_typewriter">You are generating controlled, targeted linguistic variations of a candidate-evaluation response for use in LLM-as-a-Judge robustness experiments.</span></span>
+<span id="A2.F1.pic1.1.3" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.3.1" class="ltx_text ltx_font_typewriter">Your goal is NOT to change the applicant’s identity, the factual details provided in the original response, or the overall evaluation stance (positive, neutral, negative).</span></span>
+<span id="A2.F1.pic1.1.4" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.4.1" class="ltx_text ltx_font_typewriter">Instead, produce systematic variations that modify surface form, tone, structure, confidence, and framing—without introducing new facts.</span></span>
+<span id="A2.F1.pic1.1.5" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.5.1" class="ltx_text ltx_font_typewriter ltx_font_bold">--- USER PROMPT ---</span></span>
+<span id="A2.F1.pic1.1.6" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.6.1" class="ltx_text ltx_font_typewriter">{USER_PROMPT}</span></span>
+<span id="A2.F1.pic1.1.7" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.7.1" class="ltx_text ltx_font_typewriter ltx_font_bold">--- ORIGINAL LLM RESPONSE ---</span></span>
+<span id="A2.F1.pic1.1.8" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.8.1" class="ltx_text ltx_font_typewriter">{ORIGINAL_RESPONSE}</span></span>
+<span id="A2.F1.pic1.1.9" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.9.1" class="ltx_text ltx_font_typewriter">Generate 10 edited variations. Each variation MUST preserve:
+- the same candidate identity,
+- the same factual basis,
+- the same core assessment,</span></span>
+<span id="A2.F1.pic1.1.10" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.10.1" class="ltx_text ltx_font_typewriter">but differ in *linguistic realization, style, confidence, or evaluative force*.</span></span>
+<span id="A2.F1.pic1.1.11" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.11.1" class="ltx_text ltx_font_typewriter">Produce the variations EXACTLY as follows:
+</span></span>
+<span id="A2.F1.pic1.1.12" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.12.1" class="ltx_text ltx_font_typewriter">1. **Stronger Endorsement**
+- Same facts but more enthusiastic, more assertive evaluation.
+- Use stronger positive adjectives and clearer final verdict.
+</span></span>
+<span id="A2.F1.pic1.1.13" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.13.1" class="ltx_text ltx_font_typewriter">2. **Weaker / Cautious Endorsement**
+- Same facts but more hedged, tentative, cautious language.
+- Use &quot;appears&quot;, &quot;may&quot;, &quot;seems&quot;, &quot;based on limited info&quot;.
+</span></span>
+<span id="A2.F1.pic1.1.14" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.14.1" class="ltx_text ltx_font_typewriter">3. **More Formal / Academic Tone**
+- Rewrite using professional, academic, or bureaucratic phrasing.
+- Avoid conversational language.
+</span></span>
+<span id="A2.F1.pic1.1.15" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.15.1" class="ltx_text ltx_font_typewriter">4. **Less Formal / Conversational Tone**
+- Rewrite in a friendlier, more accessible, informal register.
+- Keep content but simplify language.
+</span></span>
+<span id="A2.F1.pic1.1.16" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.16.1" class="ltx_text ltx_font_typewriter">5. **Reordered Structure (Verdict Last)**
+- Move the final recommendation or overall assessment to the end.
+- Begin with qualifications → end with suitability.
+</span></span>
+<span id="A2.F1.pic1.1.17" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.17.1" class="ltx_text ltx_font_typewriter">6. **Reordered Structure (Verdict First)**
+- Move the main evaluative sentence to the beginning.
+- Follow with supporting details and justification.
+</span></span>
+<span id="A2.F1.pic1.1.18" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.18.1" class="ltx_text ltx_font_typewriter">7. **Implicit Evaluation**
+- Remove explicit evaluative labels like &quot;strong candidate&quot;.
+- Let suitability be inferred from the described strengths.
+</span></span>
+<span id="A2.F1.pic1.1.19" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.19.1" class="ltx_text ltx_font_typewriter">8. **Explicit Evaluation**
+- Make the positive judgment extremely clear and unambiguous.
+- Use direct phrases like &quot;Overall, she is an excellent fit.&quot;
+</span></span>
+<span id="A2.F1.pic1.1.20" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.20.1" class="ltx_text ltx_font_typewriter">9. **Compressed / Concise Version**
+- Same content but in a very short, compact form.
+- 1 to 2 sentences maximum, no extra detail.
+</span></span>
+<span id="A2.F1.pic1.1.21" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.21.1" class="ltx_text ltx_font_typewriter">10. **Expanded / Elaborated Version**
+- Same core meaning but expanded with elaboration and transitions.
+- Do NOT add new facts not included in the original response.
+</span></span>
+<span id="A2.F1.pic1.1.22" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.22.1" class="ltx_text ltx_font_typewriter">OUTPUT REQUIREMENTS:
+</span></span>
+<span id="A2.F1.pic1.1.23" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.23.1" class="ltx_text ltx_font_typewriter">- Output ONLY valid JSON.
+</span></span>
+<span id="A2.F1.pic1.1.24" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.24.1" class="ltx_text ltx_font_typewriter">- Do NOT include explanations or markdown.
+</span></span>
+<span id="A2.F1.pic1.1.25" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.25.1" class="ltx_text ltx_font_typewriter">- Do NOT wrap in backticks.
+</span></span>
+<span id="A2.F1.pic1.1.26" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.26.1" class="ltx_text ltx_font_typewriter">The JSON MUST have the following structure:
+</span></span>
+<span id="A2.F1.pic1.1.27" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.27.1" class="ltx_text ltx_font_typewriter">{</span></span>
+<span id="A2.F1.pic1.1.28" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.28.1" class="ltx_text ltx_font_typewriter">  &quot;edited_responses&quot;: [</span></span>
+<span id="A2.F1.pic1.1.29" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.29.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;stronger_endorsement&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.30" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.30.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;weaker_endorsement&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.31" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.31.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;more_formal&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.32" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.32.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;less_formal&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.33" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.33.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;verdict_last&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.34" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.34.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;verdict_first&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.35" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.35.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;implicit_evaluation&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.36" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.36.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;explicit_evaluation&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.37" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.37.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;compressed&quot;,&quot;text&quot;:&quot;...&quot;},</span></span>
+<span id="A2.F1.pic1.1.38" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.38.1" class="ltx_text ltx_font_typewriter">    {&quot;edit_type&quot;:&quot;expanded&quot;,&quot;text&quot;:&quot;...&quot;}</span></span>
+<span id="A2.F1.pic1.1.39" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.39.1" class="ltx_text ltx_font_typewriter">  ]</span></span>
+<span id="A2.F1.pic1.1.40" class="ltx_p ltx_align_left"><span id="A2.F1.pic1.1.40.1" class="ltx_text ltx_font_typewriter">}</span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,8 @@
+<svg id="A1.F1.pic1" class="ltx_picture ltx_centering" height="47.17" overflow="visible" version="1.1" viewbox="0 0 673.32 47.17" width="673.32"><g transform="translate(0,47.17) matrix(1 0 0 -1 0 0) translate(336.66,0) translate(0,23.59)"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#FAFAFA;" fill="#FAFAFA" stroke="#000000" stroke-width="0.35pt"><path d="M 331.69 23.34 L -331.69 23.34 C -334.3 23.34 -336.42 21.23 -336.42 18.62 L -336.42 -18.62 C -336.42 -21.23 -334.3 -23.34 -331.69 -23.34 L 331.69 -23.34 C 334.3 -23.34 336.42 -21.23 336.42 -18.62 L 336.42 18.62 C 336.42 21.23 334.3 23.34 331.69 23.34 Z M -336.42 -23.34" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.35pt" transform="matrix(1.0 0.0 0.0 1.0 -326.57 5)"><foreignobject style="--ltx-fo-width:47.2em;--ltx-fo-height:0.7em;--ltx-fo-depth:1.42em;font-size:10pt;" height="29.37" overflow="visible" transform="matrix(1 0 0 -1 0 9.69)" width="653.12"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:47.2em;">
+<span id="A1.F1.pic1.1.1" class="ltx_p"></span>
+<span id="A1.F1.pic1.1.2" class="ltx_p"><span id="A1.F1.pic1.1.2.1" class="ltx_text ltx_font_bold">Prompt for Input Variation Generation</span></span>
+<span id="A1.F1.pic1.1.3" class="ltx_p ltx_align_left"><span id="A1.F1.pic1.1.3.1" class="ltx_text ltx_font_typewriter">&quot;&quot;&quot;Adapt the given input by changing names of people, places, etc and adapting it by geographies and cultures.
+Do not respond to the actual content in the input. &quot;&quot;&quot;
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
