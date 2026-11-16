@@ -1,0 +1,59 @@
+<svg id="A4.F33.p2.pic1" class="ltx_picture" height="560.86" overflow="visible" version="1.1" viewbox="0 0 477.38 560.86" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,560.86) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 554.96 C 0 558.22 2.64 560.86 5.91 560.86 L 471.47 560.86 C 474.73 560.86 477.38 558.22 477.38 554.96 L 477.38 5.91 C 477.38 2.64 474.73 0 471.47 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 535.21 L 475.41 535.21 L 475.41 5.91 C 475.41 3.73 473.65 1.97 471.47 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 544.58)"><foreignobject style="--ltx-fo-width:31.37em;--ltx-fo-height:0.75em;--ltx-fo-depth:0.25em;font-size:10pt;" height="13.84" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="434.07"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.F33.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:31.37em;">
+<span id="A4.F33.p2.pic1.1.1" class="ltx_p"><span id="A4.F33.p2.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Forced Choice (FC) Rating Instructions - Topical Chat Understandable</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 113.33)"><foreignobject style="--ltx-fo-width:31.37em;--ltx-fo-height:29.64em;--ltx-fo-depth:7.19em;font-size:10pt;" height="509.63" overflow="visible" transform="matrix(1 0 0 -1 0 410.08)" width="434.07"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.F33.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:31.37em;">
+<span id="A4.F33.p2.pic1.2.1" class="ltx_p"><span id="A4.F33.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Given a conversation and a response, your task is to rate whether the response is understandable in the context of the conversation.
+Please make sure you read and understand these instructions carefully.</span></span>
+<span id="A4.F33.p2.pic1.2.2" class="ltx_p"><span id="A4.F33.p2.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Criteria:
+<br class="ltx_break"><span id="A4.F33.p2.pic1.2.2.1.1" class="ltx_text ltx_font_medium">Is the response understandable in the context of the history? (Not if it’s on topic, but for example if it uses pronouns they should make sense)</span></span></span>
+<span id="A4.F33.p2.pic1.2.3" class="ltx_p"><span id="A4.F33.p2.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Steps:<span id="A4.F33.p2.pic1.2.3.1.1" class="ltx_text"></span></span></span>
+<span id="A4.I55" class="ltx_enumerate">
+<span id="A4.I55.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A4.I55.i1.p1" class="ltx_para">
+<span id="A4.I55.i1.p1.1" class="ltx_p"><span id="A4.I55.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Read the conversation context, fact, and response carefully.</span></span>
+</span></span>
+<span id="A4.I55.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A4.I55.i2.p1" class="ltx_para">
+<span id="A4.I55.i2.p1.1" class="ltx_p"><span id="A4.I55.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assess whether you can understand what the response is trying to communicate.</span></span>
+</span></span>
+<span id="A4.I55.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A4.I55.i3.p1" class="ltx_para">
+<span id="A4.I55.i3.p1.1" class="ltx_p"><span id="A4.I55.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Select ONE option that best applies.</span></span>
+</span></span>
+</span>
+<span id="A4.F33.p2.pic1.2.4" class="ltx_p"><span id="A4.F33.p2.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Now provide a response to the following example:
+<br class="ltx_break">Fact: “{fact}”
+<br class="ltx_break">Context: “{context}”
+<br class="ltx_break">Response: “{response}”</span></span>
+<span id="A4.F33.p2.pic1.2.5" class="ltx_p"><span id="A4.F33.p2.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Select ONE option that best applies:</span></span>
+<span id="A4.I56" class="ltx_itemize">
+<span id="A4.I56.ix1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">A.</span> 
+<span id="A4.I56.ix1.p1" class="ltx_para">
+<span id="A4.I56.ix1.p1.1" class="ltx_p"><span id="A4.I56.ix1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Understandable - You know what the person is trying to say</span></span>
+</span></span>
+<span id="A4.I56.ix2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">B.</span> 
+<span id="A4.I56.ix2.p1" class="ltx_para">
+<span id="A4.I56.ix2.p1.1" class="ltx_p"><span id="A4.I56.ix2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Not Understandable - The response is difficult to understand</span></span>
+</span></span>
+</span>
+<span id="A4.F33.p2.pic1.2.6" class="ltx_p"><span id="A4.F33.p2.pic1.2.6.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">RESPONSE FORMAT:<span id="A4.F33.p2.pic1.2.6.1.1" class="ltx_text"></span></span></span>
+<span id="A4.I57" class="ltx_itemize">
+<span id="A4.I57.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I57.i1.p1" class="ltx_para">
+<span id="A4.I57.i1.p1.1" class="ltx_p"><span id="A4.I57.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Provide only a single letter: A or B</span></span>
+</span></span>
+<span id="A4.I57.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I57.i2.p1" class="ltx_para">
+<span id="A4.I57.i2.p1.1" class="ltx_p"><span id="A4.I57.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The letter must be the first character in your response</span></span>
+</span></span>
+<span id="A4.I57.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I57.i3.p1" class="ltx_para">
+<span id="A4.I57.i3.p1.1" class="ltx_p"><span id="A4.I57.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No spaces, punctuation, or other characters</span></span>
+</span></span>
+<span id="A4.I57.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I57.i4.p1" class="ltx_para">
+<span id="A4.I57.i4.p1.1" class="ltx_p"><span id="A4.I57.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No explanation</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>
