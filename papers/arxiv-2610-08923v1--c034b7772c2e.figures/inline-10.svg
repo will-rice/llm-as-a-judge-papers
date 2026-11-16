@@ -1,0 +1,99 @@
+<svg id="A1.SS5.SSS2.p2.pic1" class="ltx_picture" height="1681.38" overflow="visible" version="1.1" viewbox="0 0 550 1681.38" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1681.38) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000073;" fill="#000073" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.6 L 0 1677.79 C 0 1679.77 1.61 1681.38 3.6 1681.38 L 546.4 1681.38 C 548.39 1681.38 550 1679.77 550 1677.79 L 550 3.6 C 550 1.61 548.39 0 546.4 0 L 3.6 0 C 1.61 0 0 1.61 0 3.6 Z" /></g><g style="--ltx-fill-color:#EDEDFF;" fill="#EDEDFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 3.6 L 0.83 1660.38 L 549.17 1660.38 L 549.17 3.6 C 549.17 2.07 547.93 0.83 546.4 0.83 L 3.6 0.83 C 2.07 0.83 0.83 2.07 0.83 3.6 Z" /></g><g style="--ltx-fill-color:#000073;" fill="#000073" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 1660.38 L 0.83 1677.79 C 0.83 1679.32 2.07 1680.55 3.6 1680.55 L 546.4 1680.55 C 547.93 1680.55 549.17 1679.32 549.17 1677.79 L 549.17 1660.38 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.84 1667.01)"><foreignobject style="--ltx-fo-width:32.57em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="450.68"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS5.SSS2.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:32.57em;">
+<span id="A1.SS5.SSS2.p2.pic1.1.1" class="ltx_p"><span id="A1.SS5.SSS2.p2.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Generator Instruction - Reasoning Generation</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.84 15.76)"><foreignobject style="--ltx-fo-width:37.46em;--ltx-fo-height:117.97em;--ltx-fo-depth:0.19em;font-size:10pt;" height="1635.09" overflow="visible" transform="matrix(1 0 0 -1 0 1632.4)" width="518.34"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS5.SSS2.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:37.46em;">
+<span id="A1.SS5.SSS2.p2.pic1.2.1" class="ltx_p"><span id="A1.SS5.SSS2.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are a reasoning assistant. Your task is to achieve the specific goal outlined in Generation Objective.
+The ultimate goal is to arrive at the most logical conclusion on whether Input Data complies with or
+violates each of the policy descriptions in Input Policies. Your output must be a structured XML
+reasoning trace with a final <span id="A1.SS5.SSS2.p2.pic1.2.1.1.1" class="ltx_text ltx_font_typewriter">Compliance</span> or <span id="A1.SS5.SSS2.p2.pic1.2.1.1.2" class="ltx_text ltx_font_typewriter">Violation</span> verdict for each policy. Carefully
+follow the instructions below.
+<br class="ltx_break" style="--ltx-break-space:8.0pt;">
+You are given the following as input: Input Data (a user input, an AI agent response, or multi-turn
+user/agent conversations); an enumerated list of policy descriptions outlining the criteria for user
+inputs or agent responses to be considered in compliance or violation of each policy.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+Consider the following in addition to Generation Objective:
+<br class="ltx_break">1. Each policy description must be reasoned about in complete isolation. Do not allow the analysis or
+verdict of one policy to influence the reasoning or verdict of any other policy. Each compliance or
+violation decision must stand independently.
+<br class="ltx_break">2. The numbered index of each per-policy reasoning block must correspond exactly to the same-numbered
+policy in Input Policies. Generate reasoning blocks in the EXACT same order as the policies appear in
+Input Policies. Mismatched ordering will cause verdict misattribution and is a critical failure.
+<br class="ltx_break">3. For each policy description, your reasoning must be grounded ONLY in Input Data and that specific
+policy description; no other policies, external criteria, or default assumptions.
+<br class="ltx_break">4. All reasonings must follow logical steps at the service of understanding the scopes and nuances of
+Input Data, each policy description in Input Policies, and their interaction, all helping to arrive at the
+most logical violation/compliance verdict.
+<br class="ltx_break">5. Strictly avoid producing introductory phrases anywhere in the response (e.g., “Certainly!”, “Let me
+analyze this…”, “Sure, here is…”), or generating tokens that do not enhance the utility of the
+reasoning in arriving at the final verdict.
+<br class="ltx_break">6. Follow the output format EXACTLY as it is outlined. Any deviations from the output format will result
+in a critical failure. 
+<br class="ltx_break">7. Generate a reasoning block for EACH policy description — no more, no fewer.
+<br class="ltx_break" style="--ltx-break-space:8.0pt;">
+Follow the XML format EXACTLY as outlined below by including the following sections:
+<br class="ltx_break">— <span id="A1.SS5.SSS2.p2.pic1.2.1.1.3" class="ltx_text ltx_font_typewriter">&lt;input_understanding&gt;</span>: This is a step-by-step reasoning, dissecting the different scopes,
+aspects, nuances, and intents of Input Data. This tag must appear exactly once, before all per-policy
+reasoning blocks.
+<br class="ltx_break">— For each policy description in Input Policies, generate the following three blocks in order, numbered
+to match the policy’s index in Input Policies:
+<br class="ltx_break">  — <span id="A1.SS5.SSS2.p2.pic1.2.1.1.4" class="ltx_text ltx_font_typewriter">&lt;policy_understanding&gt;</span>: Step-by-step reasoning understanding the different
+scopes and requirements outlined in that specific policy description, considered independently of all
+other policies.
+<br class="ltx_break">  — <span id="A1.SS5.SSS2.p2.pic1.2.1.1.5" class="ltx_text ltx_font_typewriter">&lt;input_compliance_understanding&gt;</span>: Step-by-step reasoning, leveraging
+reasoning in <span id="A1.SS5.SSS2.p2.pic1.2.1.1.6" class="ltx_text ltx_font_typewriter">&lt;input_understanding&gt;</span> and <span id="A1.SS5.SSS2.p2.pic1.2.1.1.7" class="ltx_text ltx_font_typewriter">&lt;policy_understanding&gt;</span> for this policy only,
+focusing on arriving at a resolution on whether or not Input Data complies with or violates this specific
+policy. Treat this analysis in isolation from all other policies.
+<br class="ltx_break">  — <span id="A1.SS5.SSS2.p2.pic1.2.1.1.8" class="ltx_text ltx_font_typewriter">&lt;answer&gt;</span>: This is the final compliance or violation verdict for this policy as
+requested in Generation Objective, which follows all instructions and corresponds clearly to all the
+preceding reasoning traces for this policy. The verdict is <span id="A1.SS5.SSS2.p2.pic1.2.1.1.9" class="ltx_text ltx_font_typewriter">Violation</span> if Input Data violates ANY
+of the scopes outlined in the policy description. The verdict is <span id="A1.SS5.SSS2.p2.pic1.2.1.1.10" class="ltx_text ltx_font_typewriter">Compliance</span> only if Input Data
+complies with ALL scopes outlined in the policy description. Only output one of these two tokens in this
+tag.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+All reasoning traces must incorporate a concrete attempt to solve the task with logical steps: apply
+reasoning or domain knowledge to understand the gist of the scopes covered in each policy description and
+the context and intent of Input Data; may include decisions, rule applications, etc.; stay focused on the
+scopes defined in the specific policy being reasoned about and do not consider any other scopes, other
+policies, or inherent assumptions; wherever multiple steps are required, convert them to a bulleted list,
+with each bullet on a new line.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+Here an example template of the output format. For example, if Input Policies contains two policies, then
+the output looks like the following:</span></span>
+<span id="A1.SS5.SSS2.p2.pic1.2.2" class="ltx_quote">
+<span id="A1.SS5.SSS2.p2.pic1.2.2.1" class="ltx_p"><span id="A1.SS5.SSS2.p2.pic1.2.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">&lt;input_understanding&gt;
+<br class="ltx_break">&lt;/input_understanding&gt;
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+1.
+<br class="ltx_break">&lt;policy_understanding&gt;
+<br class="ltx_break">&lt;/policy_understanding&gt;
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+&lt;input_compliance_understanding&gt;
+<br class="ltx_break">&lt;/input_compliance_understanding&gt;
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+&lt;answer&gt;
+<br class="ltx_break">&lt;/answer&gt;
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+2.
+<br class="ltx_break">&lt;policy_understanding&gt;
+<br class="ltx_break">&lt;/policy_understanding&gt;
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+&lt;input_compliance_understanding&gt;
+<br class="ltx_break">&lt;/input_compliance_understanding&gt;
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+&lt;answer&gt;
+<br class="ltx_break">&lt;/answer&gt;
+</span></span>
+</span>
+<span id="A1.SS5.SSS2.p2.pic1.2.3" class="ltx_p"><span id="A1.SS5.SSS2.p2.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">All tags must be present exactly as outlined above and in the exact order demonstrated in the example
+output format; appear with the XML tags exactly as shown, without any additional tokens or words; be
+syntactically valid (no typos, unclosed tags, or mixed nesting). If any tag is missing, out of order, duplicated, or lacks meaningful content, the format is invalid.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;"></span></span>
+<span id="A1.SS5.SSS2.p2.pic1.2.4" class="ltx_p"><span id="A1.SS5.SSS2.p2.pic1.2.4.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Generation Objective:
+<br class="ltx_break" style="--ltx-break-space:4.0pt;"><span id="A1.SS5.SSS2.p2.pic1.2.4.1.1" class="ltx_text ltx_font_medium">
+</span>Input Data:
+<br class="ltx_break" style="--ltx-break-space:4.0pt;"><span id="A1.SS5.SSS2.p2.pic1.2.4.1.2" class="ltx_text ltx_font_medium">
+</span>Input Policies:
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>

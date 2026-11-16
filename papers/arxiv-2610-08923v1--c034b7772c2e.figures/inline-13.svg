@@ -1,0 +1,35 @@
+<svg id="A1.SS5.SSS3.p2.pic1" class="ltx_picture" height="484.6" overflow="visible" version="1.1" viewbox="0 0 550 484.6" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,484.6) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000073;" fill="#000073" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.6 L 0 481 C 0 482.99 1.61 484.6 3.6 484.6 L 546.4 484.6 C 548.39 484.6 550 482.99 550 481 L 550 3.6 C 550 1.61 548.39 0 546.4 0 L 3.6 0 C 1.61 0 0 1.61 0 3.6 Z" /></g><g style="--ltx-fill-color:#EDEDFF;" fill="#EDEDFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 3.6 L 0.83 463.6 L 549.17 463.6 L 549.17 3.6 C 549.17 2.07 547.93 0.83 546.4 0.83 L 3.6 0.83 C 2.07 0.83 0.83 2.07 0.83 3.6 Z" /></g><g style="--ltx-fill-color:#000073;" fill="#000073" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 463.6 L 0.83 481 C 0.83 482.53 2.07 483.77 3.6 483.77 L 546.4 483.77 C 547.93 483.77 549.17 482.53 549.17 481 L 549.17 463.6 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.84 470.22)"><foreignobject style="--ltx-fo-width:32.57em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="450.68"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS5.SSS3.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:32.57em;">
+<span id="A1.SS5.SSS3.p2.pic1.1.1" class="ltx_p"><span id="A1.SS5.SSS3.p2.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Generator Instruction - Difficulty Estimation</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.84 15.76)"><foreignobject style="--ltx-fo-width:37.46em;--ltx-fo-height:31.48em;--ltx-fo-depth:0.19em;font-size:10pt;" height="438.29" overflow="visible" transform="matrix(1 0 0 -1 0 435.6)" width="518.34"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS5.SSS3.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:37.46em;">
+<span id="A1.SS5.SSS3.p2.pic1.2.1" class="ltx_p"><span id="A1.SS5.SSS3.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are a compliance evaluation assistant. Your task is to evaluate whether the provided input complies
+with or violates each policy in a numbered list.
+<br class="ltx_break" style="--ltx-break-space:8.0pt;">
+You will be given: (1) Input Data: the text to evaluate. This may be a single text (a user input or an AI
+agent response), or a multi-turn conversation between a user and an AI agent. (2) Input Policies: a
+numbered list of policies to evaluate Input Data against. (3) Moderation Target (optional): if provided,
+specifies which part of Input Data the policies apply to. When Input Data is a multi-turn conversation:
+if Moderation Target is <span id="A1.SS5.SSS3.p2.pic1.2.1.1.1" class="ltx_text ltx_font_typewriter">user</span>, evaluate ONLY the user turns of the conversation against each
+policy (ignore agent turns entirely); if Moderation Target is <span id="A1.SS5.SSS3.p2.pic1.2.1.1.2" class="ltx_text ltx_font_typewriter">agent</span>, evaluate ONLY the agent turns
+of the conversation against each policy (ignore user turns entirely); if Moderation Target is not
+provided, evaluate Input Data as a whole.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+For each policy, respond with its number followed by a single verdict token — either <span id="A1.SS5.SSS3.p2.pic1.2.1.1.3" class="ltx_text ltx_font_typewriter">Compliance</span>
+or <span id="A1.SS5.SSS3.p2.pic1.2.1.1.4" class="ltx_text ltx_font_typewriter">Violation</span> — with no explanation, punctuation, or additional text. Output one verdict per
+line, in the same order as the policies. Do not skip any policy.
+<br class="ltx_break" style="--ltx-break-space:8.0pt;">
+Output exactly the following format and nothing else, repeating one line per policy:</span></span>
+<span id="A1.SS5.SSS3.p2.pic1.2.2" class="ltx_quote">
+<span id="A1.SS5.SSS3.p2.pic1.2.2.1" class="ltx_p"><span id="A1.SS5.SSS3.p2.pic1.2.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">1. Compliance
+<br class="ltx_break">2. Violation
+<br class="ltx_break">...
+<br class="ltx_break"></span></span>
+</span>
+<span id="A1.SS5.SSS3.p2.pic1.2.3" class="ltx_p"><span id="A1.SS5.SSS3.p2.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Input Data:
+<br class="ltx_break" style="--ltx-break-space:4.0pt;"><span id="A1.SS5.SSS3.p2.pic1.2.3.1.1" class="ltx_text ltx_font_medium">
+</span>Input Policies:
+<br class="ltx_break" style="--ltx-break-space:4.0pt;"><span id="A1.SS5.SSS3.p2.pic1.2.3.1.2" class="ltx_text ltx_font_medium">
+</span>Generation Objective:
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>
