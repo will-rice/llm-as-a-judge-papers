@@ -1,0 +1,32 @@
+<svg id="A4.SS1.p2.pic1" class="ltx_picture" height="469.91" overflow="visible" version="1.1" viewbox="0 0 676.77 469.91" width="676.77"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,469.91) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 6.74 L 0 463.18 C 0 466.9 3.02 469.91 6.74 469.91 L 670.04 469.91 C 673.76 469.91 676.77 466.9 676.77 463.18 L 676.77 6.74 C 676.77 3.02 673.76 0 670.04 0 L 6.74 0 C 3.02 0 0 3.02 0 6.74 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 6.74 L 0.83 447.92 L 675.94 447.92 L 675.94 6.74 C 675.94 3.47 673.3 0.83 670.04 0.83 L 6.74 0.83 C 3.47 0.83 0.83 3.47 0.83 6.74 Z" /></g><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0.83 448.75 L 0.83 463.18 C 0.83 466.44 3.47 469.08 6.74 469.08 L 670.04 469.08 C 673.3 469.08 675.94 466.44 675.94 463.18 L 675.94 448.75 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.64 455.81)"><foreignobject style="--ltx-fo-width:50.9em;--ltx-fo-height:0.68em;--ltx-fo-depth:0.23em;font-size:10pt;" height="12.45" overflow="visible" transform="matrix(1 0 0 -1 0 9.34)" width="704.31"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS1.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:50.9em;">
+<span id="A4.SS1.p2.pic1.1.1" class="ltx_p"><span id="A4.SS1.p2.pic1.1.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#FFFFFF;">Challenger User Prompt for Generating Questions (Modified from G-Zero)</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.64 13.36)"><foreignobject style="--ltx-fo-width:47.08em;--ltx-fo-height:30.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="427.41" overflow="visible" transform="matrix(1 0 0 -1 0 424.72)" width="651.45"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS1.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:47.08em;">
+<span id="A4.SS1.p2.pic1.2.1" class="ltx_p"><span id="A4.SS1.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Produce one challenging request that a real user might ask a capable assistant.
+<br class="ltx_break">
+<br class="ltx_break">The request should come from a general-domain distribution. Sample across task types, not from a single area. Examples of task types you can draw from:
+<br class="ltx_break">- writing (email, story, essay, pitch, review, poem)
+<br class="ltx_break">- explanation (make a concept clear to a specific audience)
+<br class="ltx_break">- advice or planning (career, travel, project, learning)
+<br class="ltx_break">- analysis (argument, text, dataset description, product)
+<br class="ltx_break">- coding (small function, debugging, design question)
+<br class="ltx_break">- role-play, dialogue, or creative tasks
+<br class="ltx_break">- open-ended questions about ethics, science, everyday life
+<br class="ltx_break">- reasoning, math, or logic problems (fine to include - roughly 1 in 6 requests, no more)
+<br class="ltx_break">
+<br class="ltx_break">Weight the non-math categories above heavily. A little math is good for diversity, but it should not dominate - favor tasks where the response quality depends on tone, structure, audience-fit, clarity, or creativity, not just arithmetic correctness.
+<br class="ltx_break">
+<br class="ltx_break">Requirements:
+<br class="ltx_break">- The request must be self-contained and non-trivial to answer well.
+<br class="ltx_break">- Wrap the request in &lt;question&gt; and &lt;/question&gt; tags.
+<br class="ltx_break">- Output nothing else before, between, or after the tagged blocks.
+<br class="ltx_break">
+<br class="ltx_break">Example 1 (writing):
+<br class="ltx_break">&lt;question&gt;Write a resignation email to my manager that keeps the door open for future collaboration. I’ve been at the company for 4 years and I’m leaving to join a competitor. Tone should be professional and warm without being effusive.&lt;/question&gt;
+<br class="ltx_break">
+<br class="ltx_break">Example 2 (explanation):
+<br class="ltx_break">&lt;question&gt;Explain what a Kalman filter does to a software engineer who is comfortable with linear algebra but has never touched signal processing. Avoid control-theory jargon where possible.&lt;/question&gt;
+<br class="ltx_break">
+<br class="ltx_break">Now produce one new request of your own:</span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,12 @@
+<svg id="Pt0.A1.F8.p4.pic1" class="ltx_picture" height="148.27" overflow="visible" version="1.1" viewbox="0 0 229.14 148.27" width="229.14"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,148.27) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 148.27 L 229.14 148.27 L 229.14 0 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.42 0.42 L 0.42 147.85 L 228.72 147.85 L 228.72 0.42 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 6.32 4.35)"><foreignobject style="--ltx-fo-width:19.63em;--ltx-fo-height:10.09em;--ltx-fo-depth:0em;font-size:10pt;" height="139.56" overflow="visible" transform="matrix(1 0 0 -1 0 139.56)" width="271.62"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="Pt0.A1.F8.p4.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:19.63em;">
+<span id="Pt0.A1.F8.p4.pic1.1.1" class="ltx_p"><span id="Pt0.A1.F8.p4.pic1.1.1.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Task: 
+<br class="ltx_break"></span></span>
+<span id="Pt0.A1.F8.p4.pic1.1.2" class="ltx_p"><span id="Pt0.A1.F8.p4.pic1.1.2.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">You will solve the Semantic Relatedness (SemRel 2024) task. 
+<br class="ltx_break">Please score the Semantic Relatedness between the following two sentences on a scale from 0 to 5. 
+<br class="ltx_break"></span></span>
+<span id="Pt0.A1.F8.p4.pic1.1.3" class="ltx_p"><span id="Pt0.A1.F8.p4.pic1.1.3.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Sentence 1: {{Text 1}} 
+<br class="ltx_break">Sentence 2: {{Text 2}} 
+<br class="ltx_break"></span></span>
+<span id="Pt0.A1.F8.p4.pic1.1.4" class="ltx_p"><span id="Pt0.A1.F8.p4.pic1.1.4.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Score:</span></span>
+</span></span></span></foreignobject></g></g></svg>

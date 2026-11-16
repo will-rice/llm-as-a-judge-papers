@@ -1,0 +1,49 @@
+<svg id="A2.SS1.p1.pic1" class="ltx_picture" height="556.22" overflow="visible" version="1.1" viewbox="0 0 653.15 556.22" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,556.22) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#B3B3B3;" fill="#B3B3B3" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 550.32 C 0 553.58 2.64 556.22 5.91 556.22 L 647.24 556.22 C 650.51 556.22 653.15 553.58 653.15 550.32 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 530.57 L 651.18 530.57 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.44 539.94)"><foreignobject style="--ltx-fo-width:39.61em;--ltx-fo-height:0.75em;--ltx-fo-depth:0.25em;font-size:10pt;" height="13.84" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="548.09"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS1.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:39.61em;">
+<span id="A2.SS1.p1.pic1.1.1" class="ltx_p"><span id="A2.SS1.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Joint-Mode Evaluation Prompt (Binary)</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.44 14.52)"><foreignobject style="--ltx-fo-width:43.38em;--ltx-fo-height:36.61em;--ltx-fo-depth:0.22em;font-size:10pt;" height="509.67" overflow="visible" transform="matrix(1 0 0 -1 0 506.59)" width="600.26"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS1.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.38em;">
+<span id="A2.SS1.p1.pic1.2.1" class="ltx_p"><span id="A2.SS1.p1.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;"># Task
+<br class="ltx_break">You are a professional dialogue grader. Your task is to
+evaluate the **last response (completion)** from the Assistant
+in the provided conversation against a list of scoring rubrics.
+You must determine which criteria are met, and output only the
+indices of the met rubrics.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+--------------------
+<br class="ltx_break"># Input Data
+<br class="ltx_break">**Conversation**:
+<br class="ltx_break">{conversation}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+--------------------
+<br class="ltx_break">**Rubrics**:
+<br class="ltx_break">{rubrics}
+<br class="ltx_break">(Each rubric contains a &quot;criterion&quot; and a &quot;point_value&quot;.
+Points can be positive or negative.)
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+--------------------
+<br class="ltx_break"># Scoring Logic
+<br class="ltx_break">1. **Evaluation**: For each item in the Rubrics, determine if
+the Assistant’s last response meets the specific criterion.
+<br class="ltx_break">2. **&quot;Such as&quot; Exception**: If a criterion includes phrases
+like &quot;such as&quot;, &quot;for example&quot;, or &quot;including&quot;, the response
+meets the criteria if it addresses the core requirement, even
+if it does not mention every specific example listed.
+<br class="ltx_break">3. **Negative Criteria**: If a criterion describes an
+undesirable behavior (e.g., &quot;is overly verbose&quot; or &quot;contains
+inaccuracies&quot;), the criteria is &quot;met&quot; only if the Assistant
+actually exhibited that bad behavior.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+# Output Format
+<br class="ltx_break">For each rubric, output strictly in this format (one entry per
+rubric, do NOT split a single rubric into multiple entries):
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+**Rubric 1 Analysis**: &lt;analysis&gt;. **Verdict**: Met/Not Met.
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+**Rubric 2 Analysis**: &lt;analysis&gt;. **Verdict**: Met/Not Met.
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+...
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+Met Rubric Indices: [list of index numbers, separated by commas]
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
