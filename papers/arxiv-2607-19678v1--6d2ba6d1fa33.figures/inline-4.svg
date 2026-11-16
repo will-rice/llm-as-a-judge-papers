@@ -1,0 +1,99 @@
+<svg id="A2.SS2.p2.pic1" class="ltx_picture" height="1131.63" overflow="visible" version="1.1" viewbox="0 0 653.15 1131.63" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1131.63) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#666666;" fill="#666666" fill-opacity="1.0"><path style="stroke:none" d="M 0 4.63 L 0 1127 C 0 1129.56 2.07 1131.63 4.63 1131.63 L 648.52 1131.63 C 651.08 1131.63 653.15 1129.56 653.15 1127 L 653.15 4.63 C 653.15 2.07 651.08 0 648.52 0 L 4.63 0 C 2.07 0 0 2.07 0 4.63 Z" /></g><g style="--ltx-fill-color:#F5F5F5;" fill="#F5F5F5" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 4.63 L 0.69 1108.54 L 652.46 1108.54 L 652.46 4.63 C 652.46 2.45 650.7 0.69 648.52 0.69 L 4.63 0.69 C 2.45 0.69 0.69 2.45 0.69 4.63 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.7 1116.63)"><foreignobject style="--ltx-fo-width:40.85em;--ltx-fo-height:0.75em;--ltx-fo-depth:0.25em;font-size:10pt;" height="13.84" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="565.25"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS2.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:40.85em;">
+<span id="A2.SS2.p2.pic1.1.1" class="ltx_p"><span id="A2.SS2.p2.pic1.1.1.1" class="ltx_text ltx_font_sansserif ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">NLI Relation Generator Prompt (One-to-One)</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 15.7 19.16)"><foreignobject style="--ltx-fo-width:44.93em;--ltx-fo-height:77.65em;--ltx-fo-depth:0.25em;font-size:10pt;" height="1077.85" overflow="visible" transform="matrix(1 0 0 -1 0 1074.39)" width="621.7"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS2.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.93em;">
+<span id="A2.SS2.p2.pic1.2.1" class="ltx_p"><span id="A2.SS2.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Classify one directed relation in a reasoning trace.</span></span>
+<span id="A2.SS2.p2.pic1.2.2" class="ltx_p"><span id="A2.SS2.p2.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Let P = PREMISE.
+<br class="ltx_break">Let C = PROPOSED CONCLUSION.</span></span>
+<span id="A2.SS2.p2.pic1.2.3" class="ltx_p"><span id="A2.SS2.p2.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluate only the independent edge: <span id="A2.SS2.p2.pic1.2.3.1.1" class="ltx_text ltx_font_bold">P <math id="A2.SS2.p2.pic1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math> C</span></span></span>
+<span id="A2.SS2.p2.pic1.2.4" class="ltx_p"><span id="A2.SS2.p2.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Treat P as the only available premise.</span></span>
+<span id="A2.I2" class="ltx_itemize">
+<span id="A2.I2.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i1.p1" class="ltx_para">
+<span id="A2.I2.i1.p1.1" class="ltx_p"><span id="A2.I2.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not use any other reasoning step unless it is explicitly included inside P.</span></span>
+</span></span>
+<span id="A2.I2.i2" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i2.p1" class="ltx_para">
+<span id="A2.I2.i2.p1.1" class="ltx_p"><span id="A2.I2.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not assume C is correct because it appears later in the solution.</span></span>
+</span></span>
+<span id="A2.I2.i3" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i3.p1" class="ltx_para">
+<span id="A2.I2.i3.p1.1" class="ltx_p"><span id="A2.I2.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not judge whether C is a reasonable continuation of the full proof.</span></span>
+</span></span>
+<span id="A2.I2.i4" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i4.p1" class="ltx_para">
+<span id="A2.I2.i4.p1.1" class="ltx_p"><span id="A2.I2.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not judge whether the full answer is correct.</span></span>
+</span></span>
+<span id="A2.I2.i5" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i5.p1" class="ltx_para">
+<span id="A2.I2.i5.p1.1" class="ltx_p"><span id="A2.I2.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not judge whether C supports P.</span></span>
+</span></span>
+<span id="A2.I2.i6" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I2.i6.p1" class="ltx_para">
+<span id="A2.I2.i6.p1.1" class="ltx_p"><span id="A2.I2.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Do not rely only on shared words, symbols, topic, or chronological order.</span></span>
+</span></span>
+</span>
+<span id="A2.SS2.p2.pic1.2.5" class="ltx_p"><span id="A2.SS2.p2.pic1.2.5.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Ask:<span id="A2.SS2.p2.pic1.2.5.1.1" class="ltx_text ltx_font_medium"> “Using only P, is C established, weakly motivated, unsupported, or incompatible?”</span></span></span>
+<span id="A2.SS2.p2.pic1.2.6" class="ltx_p"><span id="A2.SS2.p2.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">If C requires intermediate steps that are not present in P, do not label <span id="A2.SS2.p2.pic1.2.6.1.1" class="ltx_text ltx_font_typewriter">entailment</span>.
+<br class="ltx_break">If C depends on earlier assignments, cases, definitions, or conclusions not contained in P, do not label <span id="A2.SS2.p2.pic1.2.6.1.2" class="ltx_text ltx_font_typewriter">entailment</span>.</span></span>
+<span id="A2.SS2.p2.pic1.2.7" class="ltx_p"><span id="A2.SS2.p2.pic1.2.7.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Choose exactly one label:<span id="A2.SS2.p2.pic1.2.7.1.1" class="ltx_text"></span></span></span>
+<span id="A2.I3" class="ltx_description">
+<span id="A2.I3.ix1" class="ltx_item"><span class="ltx_tag ltx_tag_item"><span id="A2.I3.ix1.1" class="ltx_text ltx_font_typewriter ltx_font_bold">entailment</span></span></span>
+<span class="ltx_item">
+<span id="A2.I3.ix1.p1" class="ltx_para">
+<span id="A2.I3.ix1.p1.1" class="ltx_p"><span id="A2.I3.ix1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P locally establishes C.</span>
+<br class="ltx_break"><span id="A2.I3.ix1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">Use this only when C follows from P by a direct and valid local inference, such as a restatement, definition, calculation, application of a stated rule, or immediate consequence.</span></span>
+</span></span>
+<span id="A2.I3.ix2" class="ltx_item"><span class="ltx_tag ltx_tag_item"><span id="A2.I3.ix2.1" class="ltx_text ltx_font_typewriter ltx_font_bold">implied</span></span></span>
+<span class="ltx_item">
+<span id="A2.I3.ix2.p1" class="ltx_para">
+<span id="A2.I3.ix2.p1.1" class="ltx_p"><span id="A2.I3.ix2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P gives weak but meaningful support for C.</span>
+<br class="ltx_break"><span id="A2.I3.ix2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">Use this when C is a plausible, natural, or motivated next step from P, but P does not establish C as true. Use this when P suggests C, but C still needs an intermediate bridge not present in P.</span></span>
+</span></span>
+<span id="A2.I3.ix3" class="ltx_item"><span class="ltx_tag ltx_tag_item"><span id="A2.I3.ix3.1" class="ltx_text ltx_font_typewriter ltx_font_bold">neutral</span></span></span>
+<span class="ltx_item">
+<span id="A2.I3.ix3.p1" class="ltx_para">
+<span id="A2.I3.ix3.p1.1" class="ltx_p"><span id="A2.I3.ix3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P does not give enough local support for C.</span>
+<br class="ltx_break"><span id="A2.I3.ix3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">Use this when C adds information, assumptions, restrictions, cases, claims, assignments, configurations, or conclusions that are not established by P. Use this when C requires intermediate reasoning not present in P. Use this when C is compatible with P but not justified by P. Use this when C turns one possible branch or case into a broader conclusion without justification.</span></span>
+</span></span>
+<span id="A2.I3.ix4" class="ltx_item"><span class="ltx_tag ltx_tag_item"><span id="A2.I3.ix4.1" class="ltx_text ltx_font_typewriter ltx_font_bold">contradiction</span></span></span>
+<span class="ltx_item">
+<span id="A2.I3.ix4.p1" class="ltx_para">
+<span id="A2.I3.ix4.p1.1" class="ltx_p"><span id="A2.I3.ix4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">C is incompatible with P.</span>
+<br class="ltx_break"><span id="A2.I3.ix4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">Use this only when P and C cannot both be true in the same reasoning state. Do not use contradiction merely because C is unsupported.</span></span>
+</span></span>
+</span>
+<span id="A2.SS2.p2.pic1.2.8" class="ltx_p"><span id="A2.SS2.p2.pic1.2.8.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Important checks:<span id="A2.SS2.p2.pic1.2.8.1.1" class="ltx_text"></span></span></span>
+<span id="A2.I4" class="ltx_itemize">
+<span id="A2.I4.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i1.p1" class="ltx_para">
+<span id="A2.I4.i1.p1.1" class="ltx_p"><span id="A2.I4.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P alone establishes C </span><math id="A2.I4.i1.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><span id="A2.I4.i1.p1.1.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">entailment</span></span>
+</span></span>
+<span id="A2.I4.i2" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i2.p1" class="ltx_para">
+<span id="A2.I4.i2.p1.1" class="ltx_p"><span id="A2.I4.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P alone motivates C but does not establish it </span><math id="A2.I4.i2.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><span id="A2.I4.i2.p1.1.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">implied</span></span>
+</span></span>
+<span id="A2.I4.i3" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i3.p1" class="ltx_para">
+<span id="A2.I4.i3.p1.1" class="ltx_p"><span id="A2.I4.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P alone does not support C enough </span><math id="A2.I4.i3.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><span id="A2.I4.i3.p1.1.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">neutral</span></span>
+</span></span>
+<span id="A2.I4.i4" class="ltx_item" style="list-style-type:none;padding-top:0.0pt;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I4.i4.p1" class="ltx_para">
+<span id="A2.I4.i4.p1.1" class="ltx_p"><span id="A2.I4.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">P conflicts with C </span><math id="A2.I4.i4.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A2.I4.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><span id="A2.I4.i4.p1.1.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">contradiction</span></span>
+</span></span>
+</span>
+<span id="A2.SS2.p2.pic1.2.9" class="ltx_p"><span id="A2.SS2.p2.pic1.2.9.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">PREMISE P:
+<br class="ltx_break"><span id="A2.SS2.p2.pic1.2.9.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">{premise}<span id="A2.SS2.p2.pic1.2.9.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A2.SS2.p2.pic1.2.10" class="ltx_p"><span id="A2.SS2.p2.pic1.2.10.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">PROPOSED CONCLUSION C<span id="A2.SS2.p2.pic1.2.10.1.1" class="ltx_text ltx_font_medium"> (<span id="A2.SS2.p2.pic1.2.10.1.1.1" class="ltx_text ltx_font_typewriter">{conclusion_id}</span>)</span>:
+<br class="ltx_break"><span id="A2.SS2.p2.pic1.2.10.1.2" class="ltx_text ltx_font_typewriter ltx_font_medium">{conclusion}<span id="A2.SS2.p2.pic1.2.10.1.2.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A2.SS2.p2.pic1.2.11" class="ltx_p"><span id="A2.SS2.p2.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">Return EXACTLY this format:</span></span>
+<span id="A2.SS2.p2.pic1.2.12" class="ltx_p"><span id="A2.SS2.p2.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">&lt;rationale&gt;
+<br class="ltx_break">Briefly explain the local relation from P alone to C and reflect on the label you give.
+<br class="ltx_break">&lt;/rationale&gt;</span></span>
+<span id="A2.SS2.p2.pic1.2.13" class="ltx_p"><span id="A2.SS2.p2.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">&lt;answer&gt;
+<br class="ltx_break"><span id="A2.SS2.p2.pic1.2.13.1.1" class="ltx_text ltx_font_typewriter">{conclusion_id}</span>: <span id="A2.SS2.p2.pic1.2.13.1.2" class="ltx_text ltx_font_typewriter">entailment</span> / <span id="A2.SS2.p2.pic1.2.13.1.3" class="ltx_text ltx_font_typewriter">implied</span> / <span id="A2.SS2.p2.pic1.2.13.1.4" class="ltx_text ltx_font_typewriter">neutral</span> / <span id="A2.SS2.p2.pic1.2.13.1.5" class="ltx_text ltx_font_typewriter">contradiction
+<br class="ltx_break"></span>&lt;/answer&gt;</span></span>
+</span></span></span></foreignobject></g></g></svg>

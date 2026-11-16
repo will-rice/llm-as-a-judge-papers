@@ -1,0 +1,77 @@
+<svg id="S3.F1.pic1" class="ltx_picture" height="196.52" overflow="visible" version="1.1" viewbox="0 0 1397.02 196.52" width="1397.02"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,196.52) matrix(1 0 0 -1 0 0) translate(17.72,0) translate(0,148.83)"><path style="fill:none" d="M 335.82 -0.28 L -13.29 -0.28 C -15.58 -0.28 -17.44 -2.14 -17.44 -4.43 L -17.44 -114.24 C -17.44 -116.53 -15.58 -118.39 -13.29 -118.39 L 335.82 -118.39 C 338.11 -118.39 339.97 -116.53 339.97 -114.24 L 339.97 -4.43 C 339.97 -2.14 338.11 -0.28 335.82 -0.28 Z M -17.44 -118.39" /><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" transform="matrix(1.0 0.0 0.0 1.0 -9.14 -21.14)"><foreignobject style="--ltx-fo-width:24.63em;--ltx-fo-height:0.84em;--ltx-fo-depth:6.36em;font-size:10pt;" height="99.63" overflow="visible" transform="matrix(1 0 0 -1 0 11.62)" width="340.81"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<table id="S3.F1.pic1.1" class="ltx_tabular ltx_align_top">
+<tbody class="ltx_tbody">
+<tr id="S3.F1.pic1.1.1" class="ltx_tr">
+<td id="S3.F1.pic1.1.1.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.1.1.1" class="ltx_text ltx_font_typewriter ltx_font_bold" style="font-size:90%;--ltx-fg-color:#005AA0;">judgearena</span></td></tr>
+<tr id="S3.F1.pic1.1.2" class="ltx_tr">
+<td id="S3.F1.pic1.1.2.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.2.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;">   --task <span id="S3.F1.pic1.1.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#AA5500;">alpaca-eval</span></span></td></tr>
+<tr id="S3.F1.pic1.1.3" class="ltx_tr">
+<td id="S3.F1.pic1.1.3.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.3.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;">   --model_A <span id="S3.F1.pic1.1.3.1.1.1" class="ltx_text" style="--ltx-fg-color:#AA5500;">LlamaCpp/./path/llama-3.2-3b-q8_0.gguf</span></span></td></tr>
+<tr id="S3.F1.pic1.1.4" class="ltx_tr">
+<td id="S3.F1.pic1.1.4.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.4.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;">   --model_B <span id="S3.F1.pic1.1.4.1.1.1" class="ltx_text" style="--ltx-fg-color:#AA5500;">VLLM/utter-project/EuroLLM-9B</span></span></td></tr>
+<tr id="S3.F1.pic1.1.5" class="ltx_tr">
+<td id="S3.F1.pic1.1.5.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.5.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;">   --judge_model <span id="S3.F1.pic1.1.5.1.1.1" class="ltx_text" style="--ltx-fg-color:#AA5500;">OpenRouter/google/gemma-3-4b-it</span></span></td></tr>
+<tr id="S3.F1.pic1.1.6" class="ltx_tr">
+<td id="S3.F1.pic1.1.6.1" class="ltx_td ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.1.6.1.1" class="ltx_text ltx_font_typewriter" style="font-size:90%;">   --n_instructions <span id="S3.F1.pic1.1.6.1.1.1" class="ltx_text" style="--ltx-fg-color:#AA5500;">10</span></span></td></tr>
+</tbody>
+</table></span></span></foreignobject></g><path style="fill:none" d="M 1374.87 29.89 L 521.84 29.89 C 519.54 29.89 517.69 28.03 517.69 25.73 L 517.69 -144.4 C 517.69 -146.69 519.54 -148.55 521.84 -148.55 L 1374.87 -148.55 C 1377.17 -148.55 1379.02 -146.69 1379.02 -144.4 L 1379.02 25.73 C 1379.02 28.03 1377.17 29.89 1374.87 29.89 Z M 517.69 -148.55" /><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" transform="matrix(1.0 0.0 0.0 1.0 525.99 9.96)"><foreignobject style="--ltx-fo-width:61.05em;--ltx-fo-height:0.84em;--ltx-fo-depth:10.86em;font-size:10pt;" height="161.83" overflow="visible" transform="matrix(1 0 0 -1 0 11.62)" width="844.74"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<table id="S3.F1.pic1.2" class="ltx_tabular ltx_align_top">
+<tbody class="ltx_tbody">
+<tr id="S3.F1.pic1.2.1" class="ltx_tr">
+<td id="S3.F1.pic1.2.1.1" class="ltx_td ltx_align_left"><span id="S3.F1.pic1.2.1.1.1" class="ltx_text" style="position:relative; bottom:6.0pt;">
+<span id="S3.F1.pic1.2.1.1.1.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:173.6pt;--ltx-bg-color:#1C1C1C;">
+<span id="S3.F1.pic1.2.1.1.1.1.1" class="ltx_p"><span id="S3.F1.pic1.2.1.1.1.1.1.1" class="ltx_text ltx_font_typewriter" style="font-size:50%;position:relative; bottom:-1.0pt;--ltx-fg-color:#CCCCCC;"></span><span id="S3.F1.pic1.2.1.1.1.1.1.2" class="ltx_text ltx_font_typewriter" style="font-size:50%;--ltx-fg-color:#CCCCCC;"> Results Summary:
+<br class="ltx_break">   Total Battles: 10
+<br class="ltx_break">   Win Rate (A): 60.0%
+<br class="ltx_break">   <span id="S3.F1.pic1.2.1.1.1.1.1.2.1" class="ltx_text" style="position:relative; bottom:-1.0pt;"></span> Wins: 6
+<br class="ltx_break">   <span id="S3.F1.pic1.2.1.1.1.1.1.2.2" class="ltx_text" style="position:relative; bottom:-1.0pt;"></span> Losses: 3
+<br class="ltx_break">   <span id="S3.F1.pic1.2.1.1.1.1.1.2.3" class="ltx_text" style="position:relative; bottom:-1.0pt;"></span> Ties: 1</span></span>
+</span></span></td>
+<td id="S3.F1.pic1.2.1.2" class="ltx_td ltx_nopad_l ltx_nopad_r ltx_align_left"><span id="S3.F1.pic1.2.1.2.1" class="ltx_text" style="position:relative; bottom:6.0pt;">
+<span id="S3.F1.pic1.2.1.2.1.1" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:81.4pt;">
+<span id="S3.F1.pic1.2.1.2.1.1.1" class="ltx_p"><span id="S3.F1.pic1.2.1.2.1.1.1.1" class="ltx_text ltx_font_bold" style="font-size:80%;">Metadata:<span id="S3.F1.pic1.2.1.2.1.1.1.1.1" class="ltx_text"></span></span></span>
+<span id="S3.I1" class="ltx_itemize ltx_leftmargin_flush">
+<span id="S3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S3.I1.i1.p1" class="ltx_para">
+<span id="S3.I1.i1.p1.1" class="ltx_p"><span id="S3.I1.i1.p1.1.1" class="ltx_text" style="font-size:80%;">Package version</span></span>
+</span></span>
+<span id="S3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S3.I1.i2.p1" class="ltx_para">
+<span id="S3.I1.i2.p1.1" class="ltx_p"><span id="S3.I1.i2.p1.1.1" class="ltx_text" style="font-size:80%;">Results JSON</span></span>
+</span></span>
+<span id="S3.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S3.I1.i3.p1" class="ltx_para">
+<span id="S3.I1.i3.p1.1" class="ltx_p"><span id="S3.I1.i3.p1.1.1" class="ltx_text" style="font-size:80%;">CLI arguments</span></span>
+</span></span>
+<span id="S3.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S3.I1.i4.p1" class="ltx_para">
+<span id="S3.I1.i4.p1.1" class="ltx_p"><span id="S3.I1.i4.p1.1.1" class="ltx_text" style="font-size:80%;">Date</span></span>
+</span></span>
+<span id="S3.I1.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="S3.I1.i5.p1" class="ltx_para">
+<span id="S3.I1.i5.p1.1" class="ltx_p"><span id="S3.I1.i5.p1.1.1" class="ltx_text" style="font-size:80%;">…</span></span>
+</span></span>
+</span>
+</span></span></td></tr>
+</tbody>
+</table></span></span></foreignobject></g><g stroke-width="1.4pt"><path style="fill:none" d="M 348.12 -79.02 L 496.72 -79.02" /><g stroke-dasharray="none" stroke-dashoffset="0.0pt" stroke-linejoin="miter" transform="matrix(1.0 0.0 0.0 1.0 496.72 -79.02)"><path d="M 11.46 0 C 10.05 0.39 3.87 2.63 0 5.06 L 0 -5.06 C 3.87 -2.63 10.05 -0.39 11.46 0 Z" /></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" transform="matrix(1.0 0.0 0.0 1.0 419.29 -93.32)"><foreignobject style="--ltx-fo-width:1.49em;--ltx-fo-height:0.42em;--ltx-fo-depth:0em;font-size:10.22pt;" height="5.96" overflow="visible" transform="matrix(1 0 0 -1 0 5.96)" width="21.04"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="S3.F1.pic1.3" class="ltx_text ltx_font_italic">run</span></span></span></foreignobject></g></g><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" transform="matrix(1.0 0.0 0.0 1.0 111.4 25.21)"><foreignobject style="--ltx-fo-width:12.15em;--ltx-fo-height:1.63em;--ltx-fo-depth:7em;font-size:10pt;" height="119.35" overflow="visible" transform="matrix(1 0 0 -1 0 22.49)" width="168.12"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="S3.F1.pic1.4" class="ltx_inline-block ltx_minipage ltx_align_top" style="width:12.15em;">
+<span id="S3.I2" class="ltx_enumerate ltx_leftmargin_flush">
+<span id="S3.I2.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="S3.I2.i1.p1" class="ltx_para">
+<span id="S3.I2.i1.p1.1" class="ltx_p"><span id="S3.I2.i1.p1.1.1" class="ltx_text" style="font-size:90%;">Pull tasks</span></span>
+</span></span>
+<span id="S3.I2.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="S3.I2.i2.p1" class="ltx_para">
+<span id="S3.I2.i2.p1.1" class="ltx_p"><span id="S3.I2.i2.p1.1.1" class="ltx_text" style="font-size:90%;">Generate completions</span></span>
+</span></span>
+<span id="S3.I2.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="S3.I2.i3.p1" class="ltx_para">
+<span id="S3.I2.i3.p1.1" class="ltx_p"><span id="S3.I2.i3.p1.1.1" class="ltx_text" style="font-size:90%;">Generate judge annotations</span></span>
+</span></span>
+<span id="S3.I2.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="S3.I2.i4.p1" class="ltx_para">
+<span id="S3.I2.i4.p1.1" class="ltx_p"><span id="S3.I2.i4.p1.1.1" class="ltx_text" style="font-size:90%;">Store metadata and results</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>
