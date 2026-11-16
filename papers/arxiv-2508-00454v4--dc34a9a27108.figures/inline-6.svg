@@ -1,0 +1,78 @@
+<svg id="A8.p3.pic1" class="ltx_picture" height="960.28" overflow="visible" version="1.1" viewbox="0 0 653.15 960.28" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,960.28) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 8.57 L 0 951.71 C 0 956.44 3.84 960.28 8.57 960.28 L 644.58 960.28 C 649.31 960.28 653.15 956.44 653.15 951.71 L 653.15 8.57 C 653.15 3.84 649.31 0 644.58 0 L 8.57 0 C 3.84 0 0 3.84 0 8.57 Z" /></g><g style="--ltx-fill-color:#FBFBFB;" fill="#FBFBFB" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 8.57 L 0.69 932.76 L 652.46 932.76 L 652.46 8.57 C 652.46 4.22 648.93 0.69 644.58 0.69 L 8.57 0.69 C 4.22 0.69 0.69 4.22 0.69 8.57 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.76 943.06)"><foreignobject style="--ltx-fo-width:39.57em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="547.54"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A8.p3.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:39.57em;">
+<span id="A8.p3.pic1.1.1" class="ltx_p"><span id="A8.p3.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">A Case of Pairwise Comparison on Daily-MTD-Pair Dataset</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.76 18.94)"><foreignobject style="--ltx-fo-width:45.5em;--ltx-fo-height:64.97em;--ltx-fo-depth:0.25em;font-size:10pt;" height="902.49" overflow="visible" transform="matrix(1 0 0 -1 0 899.03)" width="629.59"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A8.p3.pic1.2" class="ltx_inline-logical-block ltx_minipage ltx_align_bottom" style="width:45.5em;">
+<span id="A8.p3.pic1.p1" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p1.1" class="ltx_p"><span id="A8.p3.pic1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Conversation:</span></span>
+<span id="A8.I2" class="ltx_itemize">
+<span id="A8.I2.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A8.I2.i1.p1" class="ltx_para">
+<span id="A8.I2.i1.p1.1" class="ltx_p"><span id="A8.I2.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Human:</span><span id="A8.I2.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Hi, could you tell me what time it is now?</span></span>
+<span id="A8.I2.i1.I1" class="ltx_itemize">
+<span id="A8.I2.i1.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i1.I1.i1.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i1.I1.i1.p1" class="ltx_para">
+<span id="A8.I2.i1.I1.i1.p1.1" class="ltx_p"><span id="A8.I2.i1.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant A:</span><span id="A8.I2.i1.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> The current time is 2:50 AM.</span></span>
+</span></span>
+<span id="A8.I2.i1.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i1.I1.i2.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i1.I1.i2.p1" class="ltx_para">
+<span id="A8.I2.i1.I1.i2.p1.1" class="ltx_p"><span id="A8.I2.i1.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant B:</span><span id="A8.I2.i1.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> I’m sorry, but I can’t provide real-time information.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A8.I2.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A8.I2.i2.p1" class="ltx_para">
+<span id="A8.I2.i2.p1.1" class="ltx_p"><span id="A8.I2.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Human:</span><span id="A8.I2.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Ah, it’s so late! I’m about to fall asleep.</span></span>
+<span id="A8.I2.i2.I1" class="ltx_itemize">
+<span id="A8.I2.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i2.I1.i1.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i2.I1.i1.p1" class="ltx_para">
+<span id="A8.I2.i2.I1.i1.p1.1" class="ltx_p"><span id="A8.I2.i2.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant A:</span><span id="A8.I2.i2.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> You should rest earlier; maintaining your health is of utmost importance.</span></span>
+</span></span>
+<span id="A8.I2.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i2.I1.i2.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i2.I1.i2.p1" class="ltx_para">
+<span id="A8.I2.i2.I1.i2.p1.1" class="ltx_p"><span id="A8.I2.i2.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant B:</span><span id="A8.I2.i2.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Get some rest! A good night’s sleep will help you tomorrow.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A8.I2.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A8.I2.i3.p1" class="ltx_para">
+<span id="A8.I2.i3.p1.1" class="ltx_p"><span id="A8.I2.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Human:</span><span id="A8.I2.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Yeah, you’re right, I know. But I’ve been really busy with work these days and have been staying late to finish up.</span></span>
+<span id="A8.I2.i3.I1" class="ltx_itemize">
+<span id="A8.I2.i3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i3.I1.i1.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i3.I1.i1.p1" class="ltx_para">
+<span id="A8.I2.i3.I1.i1.p1.1" class="ltx_p"><span id="A8.I2.i3.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant A:</span><span id="A8.I2.i3.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Work is important; however, one must not neglect their health. Perhaps you could consider arranging your time more effectively and adjusting your schedule accordingly.</span></span>
+</span></span>
+<span id="A8.I2.i3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i3.I1.i2.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i3.I1.i2.p1" class="ltx_para">
+<span id="A8.I2.i3.I1.i2.p1.1" class="ltx_p"><span id="A8.I2.i3.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant B:</span><span id="A8.I2.i3.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> It’s important to balance work and rest. Try setting a schedule to avoid overworking—your health comes first!</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A8.I2.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A8.I2.i4.p1" class="ltx_para">
+<span id="A8.I2.i4.p1.1" class="ltx_p"><span id="A8.I2.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Human:</span><span id="A8.I2.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> Yeah, you make a good point. I’ll keep that in mind, thanks for the reminder!</span></span>
+<span id="A8.I2.i4.I1" class="ltx_itemize">
+<span id="A8.I2.i4.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i4.I1.i1.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i4.I1.i1.p1" class="ltx_para">
+<span id="A8.I2.i4.I1.i1.p1.1" class="ltx_p"><span id="A8.I2.i4.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant A:</span><span id="A8.I2.i4.I1.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> You’re welcome. Wishing you health and happiness every day.</span></span>
+</span></span>
+<span id="A8.I2.i4.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A8.I2.i4.I1.i2.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A8.I2.i4.I1.i2.p1" class="ltx_para">
+<span id="A8.I2.i4.I1.i2.p1.1" class="ltx_p"><span id="A8.I2.i4.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Assistant B:</span><span id="A8.I2.i4.I1.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> You’re welcome! Take care of yourself and sleep well.</span></span>
+</span></span>
+</span>
+</span></span>
+</span>
+</span>
+<span id="A8.p3.pic1.p2" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p2.1" class="ltx_p"><span id="A8.p3.pic1.p2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Human Annotation</span><span id="A8.p3.pic1.p2.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: </span><span id="A8.p3.pic1.p2.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">A</span></span>
+</span>
+<span id="A8.p3.pic1.p3" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p3.1" class="ltx_p"><span id="A8.p3.pic1.p3.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Response of GPT-4o:</span><span id="A8.p3.pic1.p3.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> …… So my final decision is: {&quot;Overall&quot;: &quot;</span><span id="A8.p3.pic1.p3.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Fair</span><span id="A8.p3.pic1.p3.1.4" class="ltx_text" style="--ltx-fg-color:#000000;">&quot;}. Both Assistant A and Assistant B offer helpful and empathetic responses throughout the conversation. They both encourage the user to prioritize rest and health, with Assistant A focusing on time management and Assistant B emphasizing rest.</span></span>
+</span>
+<span id="A8.p3.pic1.p4" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p4.1" class="ltx_p"><span id="A8.p3.pic1.p4.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Response of Llama-3.1-8B-Instruct:</span><span id="A8.p3.pic1.p4.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> …… So my final decision is: {&quot;Overall&quot;: &quot;</span><span id="A8.p3.pic1.p4.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">B</span><span id="A8.p3.pic1.p4.1.4" class="ltx_text" style="--ltx-fg-color:#000000;">&quot;}. Assistant B’s responses are more concise and to the point, and its tone is more empathetic and encouraging, while Assistant A’s responses are slightly longer and more wordy, and its tone is more direct and advisory.
+Overall, while both assistants provide helpful and relevant responses, Assistant B’s responses are more concise, empathetic, and actionable, making it a slightly better performance.</span></span>
+</span>
+<span id="A8.p3.pic1.p5" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p5.1" class="ltx_p"><span id="A8.p3.pic1.p5.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Response of <span id="A8.p3.pic1.p5.1.1.1" class="ltx_text ltx_font_typewriter">MTDEval</span>:</span><span id="A8.p3.pic1.p5.1.2" class="ltx_text" style="--ltx-fg-color:#000000;"> </span><span id="A8.p3.pic1.p5.1.3" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">A</span><span id="A8.p3.pic1.p5.1.4" class="ltx_text" style="--ltx-fg-color:#000000;"> (Score A: 0.723, Score B: 0.674, the tie-breaking threshold is 0.01, so A is better, which agrees with human judgment).</span></span>
+</span></span></span></span></foreignobject></g></g></svg>
