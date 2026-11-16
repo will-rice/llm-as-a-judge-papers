@@ -1,0 +1,95 @@
+<svg id="A2.p2.pic1" class="ltx_picture" height="689.24" overflow="visible" version="1.1" viewbox="0 0 653.15 689.24" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,689.24) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.46 L 0 671.51 C 0 673.42 1.55 674.97 3.46 674.97 L 649.69 674.97 C 651.6 674.97 653.15 673.42 653.15 671.51 L 653.15 3.46 C 653.15 1.55 651.6 0 649.69 0 L 3.46 0 C 1.55 0 0 1.55 0 3.46 Z" /></g><g style="--ltx-fill-color:#FBFBFB;" fill="#FBFBFB" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 3.46 L 0.69 671.51 C 0.69 673.04 1.93 674.28 3.46 674.28 L 649.69 674.28 C 651.22 674.28 652.46 673.04 652.46 671.51 L 652.46 3.46 C 652.46 1.93 651.22 0.69 649.69 0.69 L 3.46 0.69 C 1.93 0.69 0.69 1.93 0.69 3.46 Z" /></g><g transform="matrix(1.0 0.0 0.0 1.0 15.75 667.1)"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" class="ltx_nestedsvg" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="matrix(1 0 0 1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 22.14 L 445.98 22.14 L 445.98 0 Z" /></g><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 22.14 L 445.98 22.14 L 445.98 0 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.81 7.61)"><foreignobject style="--ltx-fo-width:26.52em;--ltx-fo-height:0.6em;--ltx-fo-depth:0.17em;font-size:11.5pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="421.92"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A2.p2.pic1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Instructions for Language Stakeholders — <span id="A2.p2.pic1.1.1" class="ltx_text ltx_font_smallcaps">PluraMath</span> Project</span></span></span></foreignobject></g></g></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 18.47 504.53)"><foreignobject style="--ltx-fo-width:44.53em;--ltx-fo-height:11.18em;--ltx-fo-depth:35.33em;font-size:10pt;" height="643.58" overflow="visible" transform="matrix(1 0 0 -1 0 154.75)" width="616.17"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.53em;">
+<span id="A2.p2.pic1.2.1" class="ltx_p"><span id="A2.p2.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Motivation.<span id="A2.p2.pic1.2.1.1.1" class="ltx_text ltx_font_medium"> We extend the </span>PolyMath<span id="A2.p2.pic1.2.1.1.2" class="ltx_text ltx_font_medium"> mathematical-reasoning benchmark
+(<a href="https://huggingface.co/datasets/Qwen/PolyMath" title class="ltx_ref ltx_url ltx_font_typewriter">https://huggingface.co/datasets/Qwen/PolyMath</a>) beyond resource-rich
+languages and evaluate the performance of current large language models
+(LLMs) of various families and sizes on these languages. Language
+stakeholders contribute to the project on a research basis and are
+rewarded with co-authorship of the resulting paper.</span></span></span>
+<span id="A2.p2.pic1.2.2" class="ltx_p"><span id="A2.p2.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Tasks for Language Stakeholders.<span id="A2.p2.pic1.2.2.1.1" class="ltx_text"></span></span></span>
+<span id="A2.I1" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.4em;">
+<span id="A2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A2.I1.i1.p1" class="ltx_para">
+<span id="A2.I1.i1.p1.1" class="ltx_p"><span id="A2.I1.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Translation preparation.</span></span>
+<span id="A2.I1.i1.I1" class="ltx_itemize" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A2.I1.i1.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i1.I1.i1.p1" class="ltx_para">
+<span id="A2.I1.i1.I1.i1.p1.1" class="ltx_p"><span id="A2.I1.i1.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Recommend the most suitable automatic translation system, so we
+can generate the first version of the benchmark.
+We are able to use paid versions of DeepL, Gemini, or
+Google Translate.</span></span>
+</span></span>
+<span id="A2.I1.i1.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i1.I1.i2.p1" class="ltx_para">
+<span id="A2.I1.i1.I1.i2.p1.1" class="ltx_p"><span id="A2.I1.i1.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Apart from proprietary models, or in case a very specific translation system is chosen, it is very helpful if the stakeholder can run the translation themselves.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A2.I1.i2.p1" class="ltx_para">
+<span id="A2.I1.i2.p1.1" class="ltx_p"><span id="A2.I1.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Translation check.</span></span>
+<span id="A2.I1.i2.I1" class="ltx_itemize" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A2.I1.i2.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i2.I1.i1.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i1.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Only the question texts need to be checked; answers are typically
+numeric or LaTeX expressions and are universal.</span></span>
+</span></span>
+<span id="A2.I1.i2.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i2.I1.i2.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i2.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The check should be carried out by native speakers:
+</span><em id="A2.I1.i2.I1.i2.p1.1.2" class="ltx_emph ltx_font_italic" style="--ltx-fg-color:#000000;">at least one</em><span id="A2.I1.i2.I1.i2.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;">, preferably two.</span></span>
+</span></span>
+<span id="A2.I1.i2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i2.I1.i3.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i3.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Translation guidelines:</span></span>
+<span id="A2.I1.i2.I1.i3.I1" class="ltx_itemize" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A2.I1.i2.I1.i3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A2.I1.i2.I1.i3.I1.i1.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A2.I1.i2.I1.i3.I1.i1.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i3.I1.i1.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i3.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Text outside LaTeX code must be fully and correctly
+translated, using the appropriate target-language
+terminology.</span></span>
+</span></span>
+<span id="A2.I1.i2.I1.i3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item"><span id="A2.I1.i2.I1.i3.I1.i2.1" class="ltx_text ltx_font_bold">–</span></span> 
+<span id="A2.I1.i2.I1.i3.I1.i2.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i3.I1.i2.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i3.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Text inside LaTeX code must remain in—or be reverted
+to—the original English. Please use the helper
+notebook to identify lines with an unbalanced number of
+</span><span id="A2.I1.i2.I1.i3.I1.i2.p1.1.2" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">$</span><span id="A2.I1.i2.I1.i3.I1.i2.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> delimiters or otherwise broken LaTeX,
+then fix them so that the LaTeX is identical to the
+source.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A2.I1.i2.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i2.I1.i4.p1" class="ltx_para">
+<span id="A2.I1.i2.I1.i4.p1.1" class="ltx_p"><span id="A2.I1.i2.I1.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Please record the number of instances that required correction.</span></span>
+</span></span>
+</span>
+</span></span>
+<span id="A2.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A2.I1.i3.p1" class="ltx_para">
+<span id="A2.I1.i3.p1.1" class="ltx_p"><span id="A2.I1.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Reasoning proof-of-concept study.</span></span>
+<span id="A2.I1.i3.I1" class="ltx_itemize" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A2.I1.i3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i3.I1.i1.p1" class="ltx_para">
+<span id="A2.I1.i3.I1.i1.p1.1" class="ltx_p"><span id="A2.I1.i3.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Take only the first task of each difficulty level.</span></span>
+</span></span>
+<span id="A2.I1.i3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i3.I1.i2.p1" class="ltx_para">
+<span id="A2.I1.i3.I1.i2.p1.1" class="ltx_p"><span id="A2.I1.i3.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Run it through several popular models, e.g.,
+ChatGPT (GPT-5), Gemini, Claude, and Qwen3-4B / Qwen3-30B-Thinking
+(the latter via the HuggingFace interface).</span></span>
+</span></span>
+<span id="A2.I1.i3.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i3.I1.i3.p1" class="ltx_para">
+<span id="A2.I1.i3.I1.i3.p1.1" class="ltx_p"><span id="A2.I1.i3.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Goal: assess whether the models can comprehend the reasoning
+task at all in the target language.</span></span>
+</span></span>
+<span id="A2.I1.i3.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A2.I1.i3.I1.i4.p1" class="ltx_para">
+<span id="A2.I1.i3.I1.i4.p1.1" class="ltx_p"><span id="A2.I1.i3.I1.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Compile a short report of your findings.</span></span>
+</span></span>
+</span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>
