@@ -1,0 +1,50 @@
+<svg id="A5.p4.pic1" class="ltx_picture" height="438.83" overflow="visible" version="1.1" viewbox="0 0 477.38 438.83" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,438.83) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 438.83 L 477.38 438.83 L 477.38 0 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 0.69 L 0.69 417.42 L 476.68 417.42 L 476.68 0.69 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 418.11 L 0.69 438.13 L 476.68 438.13 L 476.68 418.11 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.38 424.74)"><foreignobject style="--ltx-fo-width:30.87em;--ltx-fo-height:0.68em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.15" overflow="visible" transform="matrix(1 0 0 -1 0 9.46)" width="427.15"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.p4.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:30.87em;">
+<span id="A5.p4.pic1.1.1" class="ltx_p"><span id="A5.p4.pic1.1.1.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Report Generation Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.38 380.22)"><foreignobject style="--ltx-fo-width:34.12em;--ltx-fo-height:1.83em;--ltx-fo-depth:26.58em;font-size:10pt;" height="393.11" overflow="visible" transform="matrix(1 0 0 -1 0 25.39)" width="472.12"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.p4.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:34.12em;">
+<span id="A5.p4.pic1.2.1" class="ltx_p"><span id="A5.p4.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#0000B3;">system:</span><span id="A5.p4.pic1.2.1.2" class="ltx_text"></span></span>
+<span id="A5.p4.pic1.2.2" class="ltx_p"><span id="A5.p4.pic1.2.2.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">You are an analytics assistant tasked with generating a report based on the following JSON configuration:</span></span><pre id="A5.p4.pic1.2.3" class="ltx_verbatim ltx_font_typewriter" style="font-size:90%;--ltx-fg-color:#000000;">{
+    &quot;action&quot;: &quot;generate_report&quot;,
+    &quot;normalization_rules&quot;: {
+        &quot;reject_terms&quot;: [
+            &quot;not complementary&quot;,
+            &quot;inappropriate&quot;,
+            &quot;no functional relationship&quot;,
+            &quot;no CI patterns&quot;
+        ],
+        &quot;good_terms&quot;: [
+            &quot;appropriate&quot;,
+            &quot;complementary&quot;,
+            &quot;works well&quot;,
+            &quot;ideal for&quot;
+        ],
+        &quot;issue_hints&quot;: {
+            &quot;ACC-DIFF&quot;: &quot;Accessory / Refill for Wrong Product&quot;,
+            &quot;SENS&quot;: &quot;Sensitive / Embarrassing Content&quot;,
+            &quot;CAT-DIST&quot;: &quot;Category Too Distant&quot;,
+            &quot;SUBST&quot;: &quot;Too Similar / Substitute&quot;,
+            &quot;WRONG-AGE-GEN&quot;: &quot;Wrong Age / Gender Targeting&quot;,
+            &quot;WRONG-FORMAT&quot;: &quot;Format Mismatch&quot;,
+            &quot;WRONG-SIZE-DIM&quot;: &quot;Size / Dimension Mismatch&quot;,
+            &quot;OTHER&quot;: &quot;Other Issue&quot;
+        },
+        &quot;conflict_resolution&quot;:
+            &quot;If mixed signals, choose the *stricter* judgement
+             (Reject &gt; Major &gt; Minor &gt; Good) and mark
+             pair as conflicted=true.&quot;
+    },
+    &quot;report_requirements&quot;: {
+        &quot;compute_agreement&quot;: true,
+        &quot;compute_issue_frequency&quot;: true,
+        &quot;identify_conflicted_pairs&quot;: true,
+        &quot;suggest_new_issue_codes&quot;: true
+    },
+    &quot;data_pairs&quot;: []
+}
+</pre>
+<span id="A5.p4.pic1.2.4" class="ltx_p"><span id="A5.p4.pic1.2.4.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#0000B3;">user:<span id="A5.p4.pic1.2.4.1.1" class="ltx_text"></span></span></span>
+<span id="A5.p4.pic1.2.5" class="ltx_p"><span id="A5.p4.pic1.2.5.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">Please analyze the data and generate a structured report based on the provided configuration.
+
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>

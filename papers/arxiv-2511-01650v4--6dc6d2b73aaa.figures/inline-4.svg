@@ -1,0 +1,53 @@
+<svg id="A5.p2.pic1" class="ltx_picture" height="800.07" overflow="visible" version="1.1" viewbox="0 0 653.15 800.07" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,800.07) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#CCCCCC;" fill="#CCCCCC" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.32 L 0 796.75 C 0 798.59 1.49 800.07 3.32 800.07 L 649.83 800.07 C 651.66 800.07 653.15 798.59 653.15 796.75 L 653.15 3.32 C 653.15 1.49 651.66 0 649.83 0 L 3.32 0 C 1.49 0 0 1.49 0 3.32 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 0.55 3.32 L 0.55 796.75 C 0.55 798.28 1.79 799.52 3.32 799.52 L 649.83 799.52 C 651.36 799.52 652.6 798.28 652.6 796.75 L 652.6 3.32 C 652.6 1.79 651.36 0.55 649.83 0.55 L 3.32 0.55 C 1.79 0.55 0.55 1.79 0.55 3.32 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.79 12.79)"><foreignobject style="--ltx-fo-width:43.19em;--ltx-fo-height:55.97em;--ltx-fo-depth:0em;font-size:10pt;" height="774.5" overflow="visible" transform="matrix(1 0 0 -1 0 774.5)" width="597.63"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.19em;">
+<span id="A5.p2.pic1.1.1" class="ltx_p"><span id="A5.p2.pic1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">You are an expert academic and senior engineering educator at a top-tier engineering university (like MIT or Caltech). You have decades of experience designing undergraduate courses and examinations for ABET-accredited programs. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.2" class="ltx_p"><span id="A5.p2.pic1.1.2.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Your task is to rate the difficulty of an engineering problem template for a student who has just completed the core undergraduate course in its domain. Rate only what the student must supply: if the question states a formula, method, or principle, do not count it. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.3" class="ltx_p"><span id="A5.p2.pic1.1.3.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Rate the template on three dimensions, each on a scale of 1 to 3: 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.4" class="ltx_p"><span id="A5.p2.pic1.1.4.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Conceptual complexity: 
+<br class="ltx_break">1 = one principle, applied directly 
+<br class="ltx_break">2 = several principles from one domain, or one modelling choice (e.g., flow regime, configuration, control volume) 
+<br class="ltx_break">3 = principles from several domains, or assumptions the student must choose and justify 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.5" class="ltx_p"><span id="A5.p2.pic1.1.5.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Mathematical sophistication: 
+<br class="ltx_break">1 = direct substitution into formulas (arithmetic, powers, roots, logarithms) 
+<br class="ltx_break">2 = rearrangement, simultaneous or nonlinear equations, or probability beyond a single formula 
+<br class="ltx_break">3 = calculus, differential equations, or an iterative or numerical solution 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.6" class="ltx_p"><span id="A5.p2.pic1.1.6.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Procedural depth: 
+<br class="ltx_break">1 = 1-2 dependent intermediate quantities 
+<br class="ltx_break">2 = 3-5 dependent intermediate quantities 
+<br class="ltx_break">3 = 6 or more dependent intermediate quantities 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.7" class="ltx_p"><span id="A5.p2.pic1.1.7.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Sum the three scores and assign a level: 3-4 = Easy, 5-6 = Intermediate, 7-9 = Advanced. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.8" class="ltx_p"><span id="A5.p2.pic1.1.8.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">If the instances follow different reasoning paths, rate each path separately. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.9" class="ltx_p"><span id="A5.p2.pic1.1.9.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Please evaluate the following template: 
+<br class="ltx_break">Domain: [DOMAIN_NAME_HERE] 
+<br class="ltx_break">Area: [AREA_NAME_HERE] 
+<br class="ltx_break">Template source code: [TEMPLATE_CODE_HERE] 
+<br class="ltx_break">Instances (one per reasoning path): [INSTANCES_HERE] 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.1.10" class="ltx_p"><span id="A5.p2.pic1.1.10.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Return your answer only in a strict JSON format as given below.
+</span></span>
+<span id="A5.p2.pic1.1.11" class="ltx_p"><span id="A5.p2.pic1.1.11.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{
+</span></span>
+<span id="A5.p2.pic1.1.12" class="ltx_p"><span id="A5.p2.pic1.1.12.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;"> &quot;template&quot;: &quot;[TEMPLATE_NAME_HERE]&quot;,
+<br class="ltx_break"> &quot;paths&quot;: [
+<br class="ltx_break">   {
+<br class="ltx_break">    &quot;path&quot;: &quot;&lt;short description of the reasoning path&gt;&quot;,
+<br class="ltx_break">    &quot;conceptual_complexity&quot;: &lt;integer 1-3&gt;,
+<br class="ltx_break">    &quot;mathematical_sophistication&quot;: &lt;integer 1-3&gt;,
+<br class="ltx_break">    &quot;procedural_depth&quot;: &lt;integer 1-3&gt;,
+<br class="ltx_break">    &quot;level&quot;: &quot;&lt;Easy | Intermediate | Advanced&gt;&quot;,
+<br class="ltx_break">    &quot;justification&quot;: &quot;&lt;one sentence explaining the scores&gt;&quot;
+<br class="ltx_break">   }
+<br class="ltx_break"> ]
+<br class="ltx_break">}
+</span></span>
+<span id="A5.p2.pic1.1.13" class="ltx_p"><span id="A5.p2.pic1.1.13.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Do not include any preamble, conversational text, explanations, or markdown formatting around the JSON block.
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
