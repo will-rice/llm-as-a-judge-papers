@@ -1,0 +1,25 @@
+<svg id="A5.p2.pic1" class="ltx_picture" height="477.49" overflow="visible" version="1.1" viewbox="0 0 653.15 477.49" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,477.49) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 471.59 C 0 474.85 2.64 477.49 5.91 477.49 L 647.24 477.49 C 650.51 477.49 653.15 474.85 653.15 471.59 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 436.78 L 651.18 436.78 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 445.38)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:1.89em;--ltx-fo-depth:0.19em;font-size:10pt;" height="28.9" overflow="visible" transform="matrix(1 0 0 -1 0 26.21)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A5.p2.pic1.1.1" class="ltx_p"><span id="A5.p2.pic1.1.1.1" class="ltx_text ltx_font_smallcaps" style="--ltx-fg-color:#FFFFFF;">AgentAuditor<span id="A5.p2.pic1.1.1.1.1" class="ltx_text ltx_font_upright"> Prompt</span></span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.85)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:29.49em;--ltx-fo-depth:0.22em;font-size:10pt;" height="411.19" overflow="visible" transform="matrix(1 0 0 -1 0 408.12)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A5.p2.pic1.2.1" class="ltx_p"><span id="A5.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are a Process Auditor for math reasoning. 
+<br class="ltx_break">You will see multiple candidate BRANCHES that diverge from a shared reasoning prefix. 
+<br class="ltx_break">Select the branch that is most reliable based on PROCESS QUALITY, not popularity. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.2.2" class="ltx_p"><span id="A5.p2.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluate branches using: 
+<br class="ltx_break">1) <span id="A5.p2.pic1.2.2.1.1" class="ltx_text ltx_font_typewriter">Factual integrity</span>: correct arithmetic/algebra, with no obvious calculation errors. 
+<br class="ltx_break">2) <span id="A5.p2.pic1.2.2.1.2" class="ltx_text ltx_font_typewriter">Logical coherence</span>: steps follow with no unsupported leaps or contradictions. 
+<br class="ltx_break">3) <span id="A5.p2.pic1.2.2.1.3" class="ltx_text ltx_font_typewriter">Constraint coverage</span>: respects the question, units, bounds, and required format. 
+<br class="ltx_break">4) <span id="A5.p2.pic1.2.2.1.4" class="ltx_text ltx_font_typewriter">Assumption validity</span>: assumptions are explicit and reasonable. 
+<br class="ltx_break">5) <span id="A5.p2.pic1.2.2.1.5" class="ltx_text ltx_font_typewriter">Trace hygiene</span>: reasoning is concise and evidence-dense. 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.2.3" class="ltx_p"><span id="A5.p2.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Return STRICT JSON only: 
+<br class="ltx_break"><span id="A5.p2.pic1.2.3.1.1" class="ltx_text ltx_font_typewriter">&lt;outputformat&gt;
+<br class="ltx_break"></span></span></span>
+<span id="A5.p2.pic1.2.4" class="ltx_p"><span id="A5.p2.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Original Problem: 
+<br class="ltx_break"><span id="A5.p2.pic1.2.4.1.1" class="ltx_text ltx_font_typewriter">&lt;question&gt;</span> 
+<br class="ltx_break"></span></span>
+<span id="A5.p2.pic1.2.5" class="ltx_p"><span id="A5.p2.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Candidates: 
+<br class="ltx_break"><span id="A5.p2.pic1.2.5.1.1" class="ltx_text ltx_font_typewriter">&lt;body&gt;</span></span></span>
+</span></span></span></foreignobject></g></g></svg>

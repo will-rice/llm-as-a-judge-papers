@@ -1,0 +1,473 @@
+<svg id="A7.p6.pic1" class="ltx_picture" height="5339.82" overflow="visible" version="1.1" viewbox="0 0 653.15 5339.82" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,5339.82) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#663300;" fill="#663300" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 5333.91 C 0 5337.17 2.64 5339.82 5.91 5339.82 L 647.24 5339.82 C 650.51 5339.82 653.15 5337.17 653.15 5333.91 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FFF9F2;" fill="#FFF9F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 5315.71 L 651.18 5315.71 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 5324.3)"><foreignobject style="--ltx-fo-width:38.32em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="530.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p6.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.32em;">
+<span id="A7.p6.pic1.1.1" class="ltx_p"><span id="A7.p6.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Example of WildChat Dataset</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 1380.8)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:283.53em;--ltx-fo-depth:98.8em;font-size:10pt;" height="5290.18" overflow="visible" transform="matrix(1 0 0 -1 0 3923.14)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p6.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A7.p6.pic1.2.1" class="ltx_p"><span id="A7.p6.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example 1<span id="A7.p6.pic1.2.1.1.1" class="ltx_text"></span></span></span>
+<span id="A7.p6.pic1.2.2" class="ltx_p"><span id="A7.p6.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Prompt:</span></span>
+<span id="A7.p6.pic1.2.3" class="ltx_p"><span id="A7.p6.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">What influence did Greek thought have on the emergence and development of science?</span></span>
+<span id="A7.p6.pic1.2.4" class="ltx_p"><span id="A7.p6.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Initial rubrics:</span></span>
+<span id="A7.I8" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I8.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I8.i1.p1" class="ltx_para">
+<span id="A7.I8.i1.p1.1" class="ltx_p"><span id="A7.I8.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Identifies Greek thought as a historical antecedent rather than a modern scientific contributor.</span></span>
+</span></span>
+<span id="A7.I8.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I8.i2.p1" class="ltx_para">
+<span id="A7.I8.i2.p1.1" class="ltx_p"><span id="A7.I8.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Describes at least one conceptual contribution of Greek thought to the development of scientific reasoning.</span></span>
+</span></span>
+<span id="A7.I8.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I8.i3.p1" class="ltx_para">
+<span id="A7.I8.i3.p1.1" class="ltx_p"><span id="A7.I8.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Mentions at least one historical figure or school of Greek thought in a scientific or proto-scientific context.</span></span>
+</span></span>
+<span id="A7.I8.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I8.i4.p1" class="ltx_para">
+<span id="A7.I8.i4.p1.1" class="ltx_p"><span id="A7.I8.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Acknowledges the role of Greek thought in shaping methodological or epistemological foundations of science.</span></span>
+</span></span>
+<span id="A7.I8.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I8.i5.p1" class="ltx_para">
+<span id="A7.I8.i5.p1.1" class="ltx_p"><span id="A7.I8.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Avoids attributing anachronistic concepts of modern science (e.g., peer review, experimental control) directly to the Greeks.</span></span>
+</span></span>
+<span id="A7.I8.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I8.i6.p1" class="ltx_para">
+<span id="A7.I8.i6.p1.1" class="ltx_p"><span id="A7.I8.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Maintains focus on Greek influence specifically, not general ancient civilizations.</span></span>
+</span></span>
+<span id="A7.I8.i7" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">7.</span> 
+<span id="A7.I8.i7.p1" class="ltx_para">
+<span id="A7.I8.i7.p1.1" class="ltx_p"><span id="A7.I8.i7.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Frames the influence of Greek thought in terms of its impact on later scientific development (e.g., during the Islamic Golden Age, Renaissance, Enlightenment).</span></span>
+</span></span>
+</span>
+<span id="A7.p6.pic1.2.5" class="ltx_p"><span id="A7.p6.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Final rubrics:</span></span>
+<span id="A7.I9" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I9.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I9.i1.p1" class="ltx_para">
+<span id="A7.I9.i1.p1.1" class="ltx_p"><span id="A7.I9.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response mentions Thales of Miletus predicting an eclipse as an example of early scientific reasoning by the Greeks.</span></span>
+</span></span>
+<span id="A7.I9.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I9.i2.p1" class="ltx_para">
+<span id="A7.I9.i2.p1.1" class="ltx_p"><span id="A7.I9.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response includes an explanation of the Greek concept of ’Kosmos’ as an ordered, harmonious system significant to scientific thought.</span></span>
+</span></span>
+<span id="A7.I9.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I9.i3.p1" class="ltx_para">
+<span id="A7.I9.i3.p1.1" class="ltx_p"><span id="A7.I9.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response describes the influence of Pythagorean mathematics on the development of scientific principles.</span></span>
+</span></span>
+<span id="A7.I9.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I9.i4.p1" class="ltx_para">
+<span id="A7.I9.i4.p1.1" class="ltx_p"><span id="A7.I9.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response discusses Socratic questioning or the Socratic method as essential for scientific inquiry.</span></span>
+</span></span>
+<span id="A7.I9.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I9.i5.p1" class="ltx_para">
+<span id="A7.I9.i5.p1.1" class="ltx_p"><span id="A7.I9.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response acknowledges errors in Greek science but emphasizes their foundational contributions to scientific development.</span></span>
+</span></span>
+<span id="A7.I9.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I9.i6.p1" class="ltx_para">
+<span id="A7.I9.i6.p1.1" class="ltx_p"><span id="A7.I9.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response cites Euclid’s &quot;Elements&quot; and its impact on geometry as a part of scientific advancement.</span></span>
+</span></span>
+<span id="A7.I9.i7" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">7.</span> 
+<span id="A7.I9.i7.p1" class="ltx_para">
+<span id="A7.I9.i7.p1.1" class="ltx_p"><span id="A7.I9.i7.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response mentions the Greek transition from mythological explanations to logical reasoning in understanding the universe.</span></span>
+</span></span>
+<span id="A7.I9.i8" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">8.</span> 
+<span id="A7.I9.i8.p1" class="ltx_para">
+<span id="A7.I9.i8.p1.1" class="ltx_p"><span id="A7.I9.i8.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response includes reference to Greek thinkers’ belief in a rational, intelligible universe governed by laws.</span></span>
+</span></span>
+<span id="A7.I9.i9" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">9.</span> 
+<span id="A7.I9.i9.p1" class="ltx_para">
+<span id="A7.I9.i9.p1.1" class="ltx_p"><span id="A7.I9.i9.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response discusses Aristotle’s role in the systematization and classification of the natural world.</span></span>
+</span></span>
+<span id="A7.I9.i10" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">10.</span> 
+<span id="A7.I9.i10.p1" class="ltx_para">
+<span id="A7.I9.i10.p1.1" class="ltx_p"><span id="A7.I9.i10.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explores Greek contributions to observational and empirical methods, such as Hippocrates’ emphasis on documenting symptoms, in the development of scientific methodology.</span></span>
+</span></span>
+<span id="A7.I9.i11" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">11.</span> 
+<span id="A7.I9.i11.p1" class="ltx_para">
+<span id="A7.I9.i11.p1.1" class="ltx_p"><span id="A7.I9.i11.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response addresses the synthesis of empirical observation and logical reasoning as a Greek methodological advancement in the pursuit of understanding the natural world.</span></span>
+</span></span>
+<span id="A7.I9.i12" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">12.</span> 
+<span id="A7.I9.i12.p1" class="ltx_para">
+<span id="A7.I9.i12.p1.1" class="ltx_p"><span id="A7.I9.i12.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response identifies the impact of Greek dialectic methods on shaping the peer review process used in modern science.</span></span>
+</span></span>
+<span id="A7.I9.i13" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">13.</span> 
+<span id="A7.I9.i13.p1" class="ltx_para">
+<span id="A7.I9.i13.p1.1" class="ltx_p"><span id="A7.I9.i13.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explains the role of Greek mathematics, particularly its use in describing physical phenomena, in influencing later scientific approaches to the natural world.</span></span>
+</span></span>
+<span id="A7.I9.i14" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">14.</span> 
+<span id="A7.I9.i14.p1" class="ltx_para">
+<span id="A7.I9.i14.p1.1" class="ltx_p"><span id="A7.I9.i14.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response illustrates how Greek thought contributed to the formation of a foundational ethical framework for science, highlighting examples like the Hippocratic Oath.</span></span>
+</span></span>
+<span id="A7.I9.i15" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">15.</span> 
+<span id="A7.I9.i15.p1" class="ltx_para">
+<span id="A7.I9.i15.p1.1" class="ltx_p"><span id="A7.I9.i15.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explores the role of Archimedes in advancing principles of physics and engineering, illustrating the practical application of Greek thought to material reality.</span></span>
+</span></span>
+<span id="A7.I9.i16" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">16.</span> 
+<span id="A7.I9.i16.p1" class="ltx_para">
+<span id="A7.I9.i16.p1.1" class="ltx_p"><span id="A7.I9.i16.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response illustrates how Greek philosophical discourse in public spaces, such as the Agora, contributed to the communal and social nature of scientific inquiry.</span></span>
+</span></span>
+<span id="A7.I9.i17" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">17.</span> 
+<span id="A7.I9.i17.p1" class="ltx_para">
+<span id="A7.I9.i17.p1.1" class="ltx_p"><span id="A7.I9.i17.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explores the role of Greek philosophical schools, such as the Atomists or Stoics, in shaping fundamental principles that influenced later scientific exploration.</span></span>
+</span></span>
+<span id="A7.I9.i18" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">18.</span> 
+<span id="A7.I9.i18.p1" class="ltx_para">
+<span id="A7.I9.i18.p1.1" class="ltx_p"><span id="A7.I9.i18.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response discusses the role of Greek thought in shaping the dual approach of both theoretical abstraction and practical experimentation which became fundamental to later scientific advancements, despite the Greeks not fully implementing experimentation themselves.</span></span>
+</span></span>
+<span id="A7.I9.i19" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">19.</span> 
+<span id="A7.I9.i19.p1" class="ltx_para">
+<span id="A7.I9.i19.p1.1" class="ltx_p"><span id="A7.I9.i19.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response showcases how Greek thought laid the groundwork for interdisciplinary thinking, mixing philosophy, mathematics, and early natural sciences to broaden approaches in scientific exploration.</span></span>
+</span></span>
+<span id="A7.I9.i20" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">20.</span> 
+<span id="A7.I9.i20.p1" class="ltx_para">
+<span id="A7.I9.i20.p1.1" class="ltx_p"><span id="A7.I9.i20.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response highlights the symbolic aspect of Greek thought as initiating a &quot;cathedral of knowledge,&quot; metaphorically illustrating the foundational impact on science across millennia.</span></span>
+</span></span>
+<span id="A7.I9.i21" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">21.</span> 
+<span id="A7.I9.i21.p1" class="ltx_para">
+<span id="A7.I9.i21.p1.1" class="ltx_p"><span id="A7.I9.i21.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response highlights the impact of Greek thought in establishing a systematic methodology for distinguishing between subjective beliefs and objective facts, facilitating a structured framework for scientific inquiry.</span></span>
+</span></span>
+<span id="A7.I9.i22" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">22.</span> 
+<span id="A7.I9.i22.p1" class="ltx_para">
+<span id="A7.I9.i22.p1.1" class="ltx_p"><span id="A7.I9.i22.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explores the lasting cultural and intellectual impact of Greek thought on the Renaissance and subsequent scientific revolution, highlighting the transfer and transformation of Greek ideas across different historical periods.</span></span>
+</span></span>
+<span id="A7.I9.i23" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">23.</span> 
+<span id="A7.I9.i23.p1" class="ltx_para">
+<span id="A7.I9.i23.p1.1" class="ltx_p"><span id="A7.I9.i23.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explains how Greek thought established an early conceptual framework for distinguishing between qualitative and quantitative analysis in scientific inquiry.</span></span>
+</span></span>
+<span id="A7.I9.i24" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">24.</span> 
+<span id="A7.I9.i24.p1" class="ltx_para">
+<span id="A7.I9.i24.p1.1" class="ltx_p"><span id="A7.I9.i24.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response explores how Greek advancements in abstract thought, particularly through Plato’s ideal forms, contributed to the long-term development of scientific concepts by encouraging the pursuit of universal principles and truths.</span></span>
+</span></span>
+<span id="A7.I9.i25" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">25.</span> 
+<span id="A7.I9.i25.p1" class="ltx_para">
+<span id="A7.I9.i25.p1.1" class="ltx_p"><span id="A7.I9.i25.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response highlights the contribution of Greek exploration of metaphysics and ontology—concepts of being and existence—and their impact on shaping scientific inquiry into the nature of reality.</span></span>
+</span></span>
+<span id="A7.I9.i26" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">26.</span> 
+<span id="A7.I9.i26.p1" class="ltx_para">
+<span id="A7.I9.i26.p1.1" class="ltx_p"><span id="A7.I9.i26.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response outlines the Greek philosophical commitment to deductive reasoning as a critical factor in establishing structured scientific theories.</span></span>
+</span></span>
+</span>
+<span id="A7.p6.pic1.2.6" class="ltx_p"><span id="A7.p6.pic1.2.6.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example 2<span id="A7.p6.pic1.2.6.1.1" class="ltx_text"></span></span></span>
+<span id="A7.p6.pic1.2.7" class="ltx_p"><span id="A7.p6.pic1.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">Prompt:</span></span>
+<span id="A7.p6.pic1.2.8" class="ltx_p"><span id="A7.p6.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">What skill can I learn in six months and generate a lot of money?</span></span>
+<span id="A7.p6.pic1.2.9" class="ltx_p"><span id="A7.p6.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">Initial rubrics:</span></span>
+<span id="A7.I10" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I10.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I10.i1.p1" class="ltx_para">
+<span id="A7.I10.i1.p1.1" class="ltx_p"><span id="A7.I10.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Proposes a skill that is realistically learnable within approximately six months.</span></span>
+</span></span>
+<span id="A7.I10.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I10.i2.p1" class="ltx_para">
+<span id="A7.I10.i2.p1.1" class="ltx_p"><span id="A7.I10.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Proposes a skill that has clear, established paths to monetization.</span></span>
+</span></span>
+<span id="A7.I10.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I10.i3.p1" class="ltx_para">
+<span id="A7.I10.i3.p1.1" class="ltx_p"><span id="A7.I10.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Clearly identifies the skill being recommended.</span></span>
+</span></span>
+<span id="A7.I10.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I10.i4.p1" class="ltx_para">
+<span id="A7.I10.i4.p1.1" class="ltx_p"><span id="A7.I10.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Avoids unrealistic earnings claims (e.g., “become a millionaire instantly”) or unverifiable hype.</span></span>
+</span></span>
+<span id="A7.I10.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I10.i5.p1" class="ltx_para">
+<span id="A7.I10.i5.p1.1" class="ltx_p"><span id="A7.I10.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Connects the proposed skill to a plausible use case or real-world application.</span></span>
+</span></span>
+<span id="A7.I10.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I10.i6.p1" class="ltx_para">
+<span id="A7.I10.i6.p1.1" class="ltx_p"><span id="A7.I10.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Maintains relevance to both time constraint (six months) and financial goal (generating a lot of money).</span></span>
+</span></span>
+</span>
+<span id="A7.p6.pic1.2.10" class="ltx_p"><span id="A7.p6.pic1.2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">Final rubrics:</span></span>
+<span id="A7.I11" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I11.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I11.i1.p1" class="ltx_para">
+<span id="A7.I11.i1.p1.1" class="ltx_p"><span id="A7.I11.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Identifies and recommends a specific skill that can be learned in six months and is capable of generating substantial income.</span></span>
+</span></span>
+<span id="A7.I11.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I11.i2.p1" class="ltx_para">
+<span id="A7.I11.i2.p1.1" class="ltx_p"><span id="A7.I11.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Provides justification for why the skill chosen is lucrative, referring to current demand and market trends.</span></span>
+</span></span>
+<span id="A7.I11.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I11.i3.p1" class="ltx_para">
+<span id="A7.I11.i3.p1.1" class="ltx_p"><span id="A7.I11.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Lists actionable steps or a clear plan on how to learn the skill within the six-month time frame.</span></span>
+</span></span>
+<span id="A7.I11.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I11.i4.p1" class="ltx_para">
+<span id="A7.I11.i4.p1.1" class="ltx_p"><span id="A7.I11.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Includes examples of tools or platforms necessary to master the skill.</span></span>
+</span></span>
+<span id="A7.I11.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I11.i5.p1" class="ltx_para">
+<span id="A7.I11.i5.p1.1" class="ltx_p"><span id="A7.I11.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses potential income or earning opportunities related to the skill.</span></span>
+</span></span>
+<span id="A7.I11.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I11.i6.p1" class="ltx_para">
+<span id="A7.I11.i6.p1.1" class="ltx_p"><span id="A7.I11.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Addresses the need for the skill to solve specific business problems or provide substantial value to clients.</span></span>
+</span></span>
+<span id="A7.I11.i7" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">7.</span> 
+<span id="A7.I11.i7.p1" class="ltx_para">
+<span id="A7.I11.i7.p1.1" class="ltx_p"><span id="A7.I11.i7.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Suggests ways to monetize the skill, such as freelance opportunities, consulting, or creating digital products.</span></span>
+</span></span>
+<span id="A7.I11.i8" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">8.</span> 
+<span id="A7.I11.i8.p1" class="ltx_para">
+<span id="A7.I11.i8.p1.1" class="ltx_p"><span id="A7.I11.i8.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Emphasizes the importance of differentiating oneself with complementary skills or additional strategies beyond the primary skill.</span></span>
+</span></span>
+<span id="A7.I11.i9" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">9.</span> 
+<span id="A7.I11.i9.p1" class="ltx_para">
+<span id="A7.I11.i9.p1.1" class="ltx_p"><span id="A7.I11.i9.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Mentions the importance of building a portfolio or case studies to showcase expertise in the chosen skill.</span></span>
+</span></span>
+<span id="A7.I11.i10" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">10.</span> 
+<span id="A7.I11.i10.p1" class="ltx_para">
+<span id="A7.I11.i10.p1.1" class="ltx_p"><span id="A7.I11.i10.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Encourages pursuing online courses, certification, or self-directed learning as part of the skill acquisition process.</span></span>
+</span></span>
+<span id="A7.I11.i11" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">11.</span> 
+<span id="A7.I11.i11.p1" class="ltx_para">
+<span id="A7.I11.i11.p1.1" class="ltx_p"><span id="A7.I11.i11.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the long-term sustainability and adaptability of the skill in relation to evolving market conditions and potential technological advancements.</span></span>
+</span></span>
+<span id="A7.I11.i12" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">12.</span> 
+<span id="A7.I11.i12.p1" class="ltx_para">
+<span id="A7.I11.i12.p1.1" class="ltx_p"><span id="A7.I11.i12.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the transformation of the learned skill into a clearly defined business model, detailing how the skill is integrated into a sustainable, repeatable, and scalable business process.</span></span>
+</span></span>
+<span id="A7.I11.i13" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">13.</span> 
+<span id="A7.I11.i13.p1" class="ltx_para">
+<span id="A7.I11.i13.p1.1" class="ltx_p"><span id="A7.I11.i13.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the practicality of transitioning from learning the skill to implementing it in real-world scenarios within the six-month time frame.</span></span>
+</span></span>
+<span id="A7.I11.i14" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">14.</span> 
+<span id="A7.I11.i14.p1" class="ltx_para">
+<span id="A7.I11.i14.p1.1" class="ltx_p"><span id="A7.I11.i14.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the potential scalability or expansion of the skill into a broader business or service offering in the future, beyond just immediate income generation.</span></span>
+</span></span>
+<span id="A7.I11.i15" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">15.</span> 
+<span id="A7.I11.i15.p1" class="ltx_para">
+<span id="A7.I11.i15.p1.1" class="ltx_p"><span id="A7.I11.i15.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the effectiveness of the skill in addressing industry-specific challenges, detailing how it creates a competitive advantage or fills a gap in the current market.</span></span>
+</span></span>
+<span id="A7.I11.i16" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">16.</span> 
+<span id="A7.I11.i16.p1" class="ltx_para">
+<span id="A7.I11.i16.p1.1" class="ltx_p"><span id="A7.I11.i16.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the creativity and uniqueness of the proposed learning path by assessing whether the response provides a vision or framework for integrating the skill into the user’s broader personal or professional development roadmap.</span></span>
+</span></span>
+<span id="A7.I11.i17" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">17.</span> 
+<span id="A7.I11.i17.p1" class="ltx_para">
+<span id="A7.I11.i17.p1.1" class="ltx_p"><span id="A7.I11.i17.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates potential challenges or pitfalls in learning the chosen skill and suggests methods to overcome them.</span></span>
+</span></span>
+<span id="A7.I11.i18" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">18.</span> 
+<span id="A7.I11.i18.p1" class="ltx_para">
+<span id="A7.I11.i18.p1.1" class="ltx_p"><span id="A7.I11.i18.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the clarity and realism of the proposed six-month learning timeline in the context of the user’s current knowledge and experience level, assessing whether the response tailors the learning schedule to various starting points of potential learners.</span></span>
+</span></span>
+<span id="A7.I11.i19" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">19.</span> 
+<span id="A7.I11.i19.p1" class="ltx_para">
+<span id="A7.I11.i19.p1.1" class="ltx_p"><span id="A7.I11.i19.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses whether the response includes a strategy for gaining the first practical experience or opportunities (e.g., internships, volunteer projects, or initial clients) in the chosen skill to build credibility and real-world expertise.</span></span>
+</span></span>
+<span id="A7.I11.i20" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">20.</span> 
+<span id="A7.I11.i20.p1" class="ltx_para">
+<span id="A7.I11.i20.p1.1" class="ltx_p"><span id="A7.I11.i20.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Examines the feasibility and validity of the skill learning timeline by analyzing the skill’s complexity, required foundational knowledge, and intensity of the proposed learning schedule.</span></span>
+</span></span>
+<span id="A7.I11.i21" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">21.</span> 
+<span id="A7.I11.i21.p1" class="ltx_para">
+<span id="A7.I11.i21.p1.1" class="ltx_p"><span id="A7.I11.i21.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the completeness and coherence of the narrative or framework describing how the proposed skill will lead to financial success, ensuring it logically connects individual learning steps to the eventual income objectives.</span></span>
+</span></span>
+<span id="A7.I11.i22" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">22.</span> 
+<span id="A7.I11.i22.p1" class="ltx_para">
+<span id="A7.I11.i22.p1.1" class="ltx_p"><span id="A7.I11.i22.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the ability of the response to convey the transformative impact of the skill on both personal growth and career trajectory, highlighting the broader implications of mastering the skill beyond immediate financial gain.</span></span>
+</span></span>
+<span id="A7.I11.i23" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">23.</span> 
+<span id="A7.I11.i23.p1" class="ltx_para">
+<span id="A7.I11.i23.p1.1" class="ltx_p"><span id="A7.I11.i23.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the response’s inclusion of strategies to enhance personal branding related to the skill, including creating an online presence or sharing work publicly to attract potential clients or employers.</span></span>
+</span></span>
+<span id="A7.I11.i24" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">24.</span> 
+<span id="A7.I11.i24.p1" class="ltx_para">
+<span id="A7.I11.i24.p1.1" class="ltx_p"><span id="A7.I11.i24.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses whether the response effectively illustrates a unique marketing or networking strategy to connect with potential clients or build a professional reputation in the first stages of the skill application.</span></span>
+</span></span>
+<span id="A7.I11.i25" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">25.</span> 
+<span id="A7.I11.i25.p1" class="ltx_para">
+<span id="A7.I11.i25.p1.1" class="ltx_p"><span id="A7.I11.i25.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Emphasizes the need to practice and iterate on real-world projects or scenarios relevant to the chosen skill, demonstrating iterative improvement and application of feedback.</span></span>
+</span></span>
+<span id="A7.I11.i26" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">26.</span> 
+<span id="A7.I11.i26.p1" class="ltx_para">
+<span id="A7.I11.i26.p1.1" class="ltx_p"><span id="A7.I11.i26.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the response for providing specific examples of successful individuals or case studies who have effectively learned and monetized the skill within a similar timeframe, showcasing real-world applicability and success stories.</span></span>
+</span></span>
+<span id="A7.I11.i27" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">27.</span> 
+<span id="A7.I11.i27.p1" class="ltx_para">
+<span id="A7.I11.i27.p1.1" class="ltx_p"><span id="A7.I11.i27.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the depth of detail and specificity in outlining how the proposed skill integrates with existing competencies or knowledge, illustrating how this integration enhances the potential for success and financial gain.</span></span>
+</span></span>
+<span id="A7.I11.i28" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">28.</span> 
+<span id="A7.I11.i28.p1" class="ltx_para">
+<span id="A7.I11.i28.p1.1" class="ltx_p"><span id="A7.I11.i28.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the degree to which the response incorporates practical examples or case studies demonstrating the real-world application and impact of the skill learned, highlighting any transformations in business operations or financial performance.</span></span>
+</span></span>
+<span id="A7.I11.i29" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">29.</span> 
+<span id="A7.I11.i29.p1" class="ltx_para">
+<span id="A7.I11.i29.p1.1" class="ltx_p"><span id="A7.I11.i29.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the alignment of the skill with the user’s current abilities and interests, ensuring that the skill is not only compatible with but also builds upon their existing strengths, knowledge, or passions to maximize successful implementation and retention.</span></span>
+</span></span>
+<span id="A7.I11.i30" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">30.</span> 
+<span id="A7.I11.i30.p1" class="ltx_para">
+<span id="A7.I11.i30.p1.1" class="ltx_p"><span id="A7.I11.i30.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the ability to effectively communicate and articulate the value proposition of the learned skill to prospective clients or employers, ensuring that the pitch is tailored to their specific needs and objectives.</span></span>
+</span></span>
+<span id="A7.I11.i31" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">31.</span> 
+<span id="A7.I11.i31.p1" class="ltx_para">
+<span id="A7.I11.i31.p1.1" class="ltx_p"><span id="A7.I11.i31.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the response’s ability to identify opportunities for networking or collaboration within the industry relevant to the chosen skill, and how this could accelerate learning and increase potential income.</span></span>
+</span></span>
+</span>
+<span id="A7.p6.pic1.2.11" class="ltx_p"><span id="A7.p6.pic1.2.11.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example 3<span id="A7.p6.pic1.2.11.1.1" class="ltx_text"></span></span></span>
+<span id="A7.p6.pic1.2.12" class="ltx_p"><span id="A7.p6.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">Prompt:</span></span>
+<span id="A7.p6.pic1.2.13" class="ltx_p"><span id="A7.p6.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">Write me an essay about monkeys.</span></span>
+<span id="A7.p6.pic1.2.14" class="ltx_p"><span id="A7.p6.pic1.2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">Initial rubrics:</span></span>
+<span id="A7.I12" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I12.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I12.i1.p1" class="ltx_para">
+<span id="A7.I12.i1.p1.1" class="ltx_p"><span id="A7.I12.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response is structured in essay format with an introduction, body, and conclusion.</span></span>
+</span></span>
+<span id="A7.I12.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I12.i2.p1" class="ltx_para">
+<span id="A7.I12.i2.p1.1" class="ltx_p"><span id="A7.I12.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The essay remains focused on the topic of monkeys throughout the response.</span></span>
+</span></span>
+<span id="A7.I12.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I12.i3.p1" class="ltx_para">
+<span id="A7.I12.i3.p1.1" class="ltx_p"><span id="A7.I12.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The response refers specifically to monkeys and does not conflate them with apes or other primates.</span></span>
+</span></span>
+<span id="A7.I12.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I12.i4.p1" class="ltx_para">
+<span id="A7.I12.i4.p1.1" class="ltx_p"><span id="A7.I12.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Includes at least one factual detail about monkeys (e.g., diet, habitat, species, behavior).</span></span>
+</span></span>
+<span id="A7.I12.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I12.i5.p1" class="ltx_para">
+<span id="A7.I12.i5.p1.1" class="ltx_p"><span id="A7.I12.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Avoids listing-only or bullet-point format; presented as continuous prose.</span></span>
+</span></span>
+<span id="A7.I12.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I12.i6.p1" class="ltx_para">
+<span id="A7.I12.i6.p1.1" class="ltx_p"><span id="A7.I12.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Does not consist entirely of generic filler or vague commentary.</span></span>
+</span></span>
+<span id="A7.I12.i7" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">7.</span> 
+<span id="A7.I12.i7.p1" class="ltx_para">
+<span id="A7.I12.i7.p1.1" class="ltx_p"><span id="A7.I12.i7.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Maintains a neutral or informative tone appropriate for an essay.</span></span>
+</span></span>
+</span>
+<span id="A7.p6.pic1.2.15" class="ltx_p"><span id="A7.p6.pic1.2.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">Final rubrics:</span></span>
+<span id="A7.I13" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.2em;">
+<span id="A7.I13.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I13.i1.p1" class="ltx_para">
+<span id="A7.I13.i1.p1.1" class="ltx_p"><span id="A7.I13.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Includes an exploration of monkeys’ physical abilities, such as their agility and acrobatics.</span></span>
+</span></span>
+<span id="A7.I13.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I13.i2.p1" class="ltx_para">
+<span id="A7.I13.i2.p1.1" class="ltx_p"><span id="A7.I13.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Mentions the social structures and behaviors observed in monkey societies.</span></span>
+</span></span>
+<span id="A7.I13.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I13.i3.p1" class="ltx_para">
+<span id="A7.I13.i3.p1.1" class="ltx_p"><span id="A7.I13.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Describes the intelligence and problem-solving abilities of monkeys.</span></span>
+</span></span>
+<span id="A7.I13.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I13.i4.p1" class="ltx_para">
+<span id="A7.I13.i4.p1.1" class="ltx_p"><span id="A7.I13.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Examines the evolutionary connection between monkeys and humans.</span></span>
+</span></span>
+<span id="A7.I13.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I13.i5.p1" class="ltx_para">
+<span id="A7.I13.i5.p1.1" class="ltx_p"><span id="A7.I13.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the ecological role of monkeys, such as seed dispersers.</span></span>
+</span></span>
+<span id="A7.I13.i6" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">6.</span> 
+<span id="A7.I13.i6.p1" class="ltx_para">
+<span id="A7.I13.i6.p1.1" class="ltx_p"><span id="A7.I13.i6.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Provides factual information about the diversity of monkey species.</span></span>
+</span></span>
+<span id="A7.I13.i7" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">7.</span> 
+<span id="A7.I13.i7.p1" class="ltx_para">
+<span id="A7.I13.i7.p1.1" class="ltx_p"><span id="A7.I13.i7.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Reflects on the emotional experiences shared between humans and monkeys.</span></span>
+</span></span>
+<span id="A7.I13.i8" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">8.</span> 
+<span id="A7.I13.i8.p1" class="ltx_para">
+<span id="A7.I13.i8.p1.1" class="ltx_p"><span id="A7.I13.i8.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Utilizes symbolic language to enhance understanding of monkeys beyond biological terms.</span></span>
+</span></span>
+<span id="A7.I13.i9" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">9.</span> 
+<span id="A7.I13.i9.p1" class="ltx_para">
+<span id="A7.I13.i9.p1.1" class="ltx_p"><span id="A7.I13.i9.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Considers the environmental habitat diversity in which different monkey species thrive, including their geographical distribution across continents.</span></span>
+</span></span>
+<span id="A7.I13.i10" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">10.</span> 
+<span id="A7.I13.i10.p1" class="ltx_para">
+<span id="A7.I13.i10.p1.1" class="ltx_p"><span id="A7.I13.i10.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Compares and contrasts different monkey species to highlight their unique characteristics and ecological niches.</span></span>
+</span></span>
+<span id="A7.I13.i11" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">11.</span> 
+<span id="A7.I13.i11.p1" class="ltx_para">
+<span id="A7.I13.i11.p1.1" class="ltx_p"><span id="A7.I13.i11.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Highlights the role of monkeys in scientific research and their contributions to advancements in our understanding of human cognition and disease.</span></span>
+</span></span>
+<span id="A7.I13.i12" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">12.</span> 
+<span id="A7.I13.i12.p1" class="ltx_para">
+<span id="A7.I13.i12.p1.1" class="ltx_p"><span id="A7.I13.i12.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Explains the impact of human activity, such as the illegal wildlife trade, on monkey populations.</span></span>
+</span></span>
+<span id="A7.I13.i13" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">13.</span> 
+<span id="A7.I13.i13.p1" class="ltx_para">
+<span id="A7.I13.i13.p1.1" class="ltx_p"><span id="A7.I13.i13.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Considers the historical depiction of monkeys in literature and folklore across different civilizations.</span></span>
+</span></span>
+<span id="A7.I13.i14" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">14.</span> 
+<span id="A7.I13.i14.p1" class="ltx_para">
+<span id="A7.I13.i14.p1.1" class="ltx_p"><span id="A7.I13.i14.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the use of metaphorical elements to draw parallels between monkey behavior and broader existential themes or philosophical questions.</span></span>
+</span></span>
+<span id="A7.I13.i15" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">15.</span> 
+<span id="A7.I13.i15.p1" class="ltx_para">
+<span id="A7.I13.i15.p1.1" class="ltx_p"><span id="A7.I13.i15.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the sensory experiences and communication methods of monkeys, such as vocalizations, facial expressions, and tactile behaviors, and their significance in their daily life and interactions.</span></span>
+</span></span>
+<span id="A7.I13.i16" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">16.</span> 
+<span id="A7.I13.i16.p1" class="ltx_para">
+<span id="A7.I13.i16.p1.1" class="ltx_p"><span id="A7.I13.i16.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyzes the role of monkeys in fostering cross-cultural connections and exchanges, highlighting examples where different cultures have interacted with or been influenced by monkey-related myths, symbols, or depictions.</span></span>
+</span></span>
+<span id="A7.I13.i17" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">17.</span> 
+<span id="A7.I13.i17.p1" class="ltx_para">
+<span id="A7.I13.i17.p1.1" class="ltx_p"><span id="A7.I13.i17.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the symbolic representation of monkeys as tricksters or wise figures in folklore and what this reveals about human self-perception and cultural values.</span></span>
+</span></span>
+<span id="A7.I13.i18" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">18.</span> 
+<span id="A7.I13.i18.p1" class="ltx_para">
+<span id="A7.I13.i18.p1.1" class="ltx_p"><span id="A7.I13.i18.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyzes the role of monkeys in maintaining ecological balance and biodiversity through their interactions with other species.</span></span>
+</span></span>
+<span id="A7.I13.i19" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">19.</span> 
+<span id="A7.I13.i19.p1" class="ltx_para">
+<span id="A7.I13.i19.p1.1" class="ltx_p"><span id="A7.I13.i19.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Critically analyzes the ethical considerations and responsibilities associated with human interactions and interventions with monkey species, including the implications of research and conservation efforts.</span></span>
+</span></span>
+<span id="A7.I13.i20" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">20.</span> 
+<span id="A7.I13.i20.p1" class="ltx_para">
+<span id="A7.I13.i20.p1.1" class="ltx_p"><span id="A7.I13.i20.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyzes the role of monkeys in facilitating biodiversity through their interactions with other species in their ecosystems.</span></span>
+</span></span>
+<span id="A7.I13.i21" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">21.</span> 
+<span id="A7.I13.i21.p1" class="ltx_para">
+<span id="A7.I13.i21.p1.1" class="ltx_p"><span id="A7.I13.i21.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the ethical considerations in scientific research involving monkeys, including the balance between scientific advancement and animal welfare.</span></span>
+</span></span>
+<span id="A7.I13.i22" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">22.</span> 
+<span id="A7.I13.i22.p1" class="ltx_para">
+<span id="A7.I13.i22.p1.1" class="ltx_p"><span id="A7.I13.i22.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyzes the ethical considerations and moral obligations involved in the conservation of monkey habitats and populations.</span></span>
+</span></span>
+<span id="A7.I13.i23" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">23.</span> 
+<span id="A7.I13.i23.p1" class="ltx_para">
+<span id="A7.I13.i23.p1.1" class="ltx_p"><span id="A7.I13.i23.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Presents a nuanced exploration of monkeys’ interactions with their environment, focusing on their role as adaptors within ecosystems and their ability to thrive across varying environmental conditions.</span></span>
+</span></span>
+<span id="A7.I13.i24" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">24.</span> 
+<span id="A7.I13.i24.p1" class="ltx_para">
+<span id="A7.I13.i24.p1.1" class="ltx_p"><span id="A7.I13.i24.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the depiction of unique communication methods and the role they play in both cooperative interactions and competitive scenarios within monkey societies.</span></span>
+</span></span>
+<span id="A7.I13.i25" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">25.</span> 
+<span id="A7.I13.i25.p1" class="ltx_para">
+<span id="A7.I13.i25.p1.1" class="ltx_p"><span id="A7.I13.i25.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the aesthetic portrayal of monkeys in the essay, considering the use of descriptive imagery to evoke sensory experiences and emotional responses in the reader.</span></span>
+</span></span>
+<span id="A7.I13.i26" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">26.</span> 
+<span id="A7.I13.i26.p1" class="ltx_para">
+<span id="A7.I13.i26.p1.1" class="ltx_p"><span id="A7.I13.i26.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Examines the role of monkeys in inspiring artistic and creative expressions, such as in visual arts, music, or dance, and how these reflect human interpretations of monkey characteristics and significance.</span></span>
+</span></span>
+<span id="A7.I13.i27" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">27.</span> 
+<span id="A7.I13.i27.p1" class="ltx_para">
+<span id="A7.I13.i27.p1.1" class="ltx_p"><span id="A7.I13.i27.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Explores the challenges related to the social dynamics within monkey populations when faced with environmental pressures or changes, such as altered food availability or increased competition for resources.</span></span>
+</span></span>
+<span id="A7.I13.i28" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">28.</span> 
+<span id="A7.I13.i28.p1" class="ltx_para">
+<span id="A7.I13.i28.p1.1" class="ltx_p"><span id="A7.I13.i28.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the role of monkeys in their local food webs and their interactions with other species as both prey and predators.</span></span>
+</span></span>
+<span id="A7.I13.i29" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">29.</span> 
+<span id="A7.I13.i29.p1" class="ltx_para">
+<span id="A7.I13.i29.p1.1" class="ltx_p"><span id="A7.I13.i29.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assesses the anthropomorphism of monkey behaviors and characteristics, examining how human-like traits are attributed to monkeys in the narrative.</span></span>
+</span></span>
+<span id="A7.I13.i30" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">30.</span> 
+<span id="A7.I13.i30.p1" class="ltx_para">
+<span id="A7.I13.i30.p1.1" class="ltx_p"><span id="A7.I13.i30.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluates the physiological adaptations of monkeys that enable them to thrive in varied environmental conditions, such as skin type variations and dietary specializations.</span></span>
+</span></span>
+<span id="A7.I13.i31" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">31.</span> 
+<span id="A7.I13.i31.p1" class="ltx_para">
+<span id="A7.I13.i31.p1.1" class="ltx_p"><span id="A7.I13.i31.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyzes the adaptation mechanisms monkeys have developed to thrive in varying environmental pressures and challenges, such as climate variations and human-induced habitat changes.</span></span>
+</span></span>
+<span id="A7.I13.i32" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">32.</span> 
+<span id="A7.I13.i32.p1" class="ltx_para">
+<span id="A7.I13.i32.p1.1" class="ltx_p"><span id="A7.I13.i32.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Discusses the role of monkeys in influencing art forms, such as visual art, music, and dance, and how these representations impact cultural perception and creative expression.</span></span>
+</span></span>
+<span id="A7.I13.i33" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">33.</span> 
+<span id="A7.I13.i33.p1" class="ltx_para">
+<span id="A7.I13.i33.p1.1" class="ltx_p"><span id="A7.I13.i33.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Explores the role of monkeys in allegorical storytelling, examining how they serve as vehicles for moral lessons and social commentary in diverse cultural narratives.</span></span>
+</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>
