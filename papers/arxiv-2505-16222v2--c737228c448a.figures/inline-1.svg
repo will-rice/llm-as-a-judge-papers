@@ -1,0 +1,94 @@
+<svg id="A6.F5.p1.pic1" class="ltx_picture" height="560.27" overflow="visible" version="1.1" viewbox="0 0 463.06 560.27" width="463.06"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,560.27) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 554.36 C 0 557.62 2.64 560.27 5.91 560.27 L 457.15 560.27 C 460.41 560.27 463.06 557.62 463.06 554.36 L 463.06 5.91 C 463.06 2.64 460.41 0 457.15 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 535.73 L 461.09 535.73 L 461.09 5.91 C 461.09 3.73 459.32 1.97 457.15 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 537.7 L 1.97 554.36 C 1.97 556.54 3.73 558.3 5.91 558.3 L 457.15 558.3 C 459.32 558.3 461.09 556.54 461.09 554.36 L 461.09 537.7 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.87 544.54)"><foreignobject style="--ltx-fo-width:26.35em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="364.61"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A6.F5.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:26.35em;">
+<span id="A6.F5.p1.pic1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Code Evaluation Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.87 261.93)"><foreignobject style="--ltx-fo-width:29.99em;--ltx-fo-height:18.92em;--ltx-fo-depth:17.92em;font-size:10pt;" class="ltx_minipage" height="509.71" overflow="visible" transform="matrix(1 0 0 -1 0 261.78)" width="30.3em"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<table id="A6.F5.p1.pic1.2" class="ltx_tabular ltx_align_middle">
+<tr id="A6.F5.p1.pic1.2.1" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.1.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_tt">
+<span id="A6.F5.p1.pic1.2.1.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.1.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.1.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will be given a task description and a piece of generated code.</span></span>
+<span id="A6.F5.p1.pic1.2.1.1.1.2" class="ltx_p"><span id="A6.F5.p1.pic1.2.1.1.1.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Your task is to determine whether the code correctly implements the task as described. Please make sure you read and understand these instructions carefully. Refer back to this document as needed during the evaluation.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.2" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.2.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t">
+<span id="A6.F5.p1.pic1.2.2.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.2.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.2.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluation Criteria:</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.3" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.3.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.3.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.3.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.3.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Correctness (correct / incorrect) – Whether the code correctly fulfills the task described. The code should produce the correct output for the intended functionality, handle relevant edge cases, and align logically with the task description.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.4" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.4.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t">
+<span id="A6.F5.p1.pic1.2.4.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.4.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.4.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluation Steps:</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.5" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.5.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.5.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.5.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.5.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. Read the task description carefully and identify the intended functionality and expected behavior.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.6" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.6.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.6.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.6.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.6.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. Analyze the generated code and assess whether it correctly and completely implements the task.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.7" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.7.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.7.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.7.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.7.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">3. Reason through the logic of the code, possibly by simulating key parts or considering edge cases.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.8" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.8.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.8.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.8.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.8.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">4. Decide if the code is correct or incorrect, based on whether it meets all requirements and behaves as intended.</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.9" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.9.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t">
+<span id="A6.F5.p1.pic1.2.9.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.9.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.9.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Output Format:</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.10" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.10.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.10.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.10.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.10.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Reasoning: (Write a brief explanation of your reasoning process)</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.11" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.11.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.11.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.11.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.11.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Final Judgment: correct or incorrect</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.12" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.12.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t" style="padding-bottom: 2.0pt;">
+<span id="A6.F5.p1.pic1.2.12.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.12.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.12.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Problem description:</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.13" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.13.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A6.F5.p1.pic1.2.13.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.13.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.13.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">{description}</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.14" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.14.1" class="ltx_td ltx_align_left ltx_align_top" style="padding-bottom: 5.0pt;"></td></tr>
+<tr id="A6.F5.p1.pic1.2.15" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.15.1" class="ltx_td ltx_align_left ltx_align_top" style="padding-bottom: 2.0pt;">
+<span id="A6.F5.p1.pic1.2.15.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.15.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.15.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Code:</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.16" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.16.1" class="ltx_td ltx_align_left ltx_align_top" style="padding-bottom: 2.0pt;">
+<span id="A6.F5.p1.pic1.2.16.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.16.1.1.1" class="ltx_p"><code id="A6.F5.p1.pic1.2.16.1.1.1.1" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">```</code><span id="A6.F5.p1.pic1.2.16.1.1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">{lang}</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.17" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.17.1" class="ltx_td ltx_align_left ltx_align_top" style="padding-bottom: 2.0pt;">
+<span id="A6.F5.p1.pic1.2.17.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.17.1.1.1" class="ltx_p"><span id="A6.F5.p1.pic1.2.17.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">{code}</span></span>
+</span></td></tr>
+<tr id="A6.F5.p1.pic1.2.18" class="ltx_tr">
+<td id="A6.F5.p1.pic1.2.18.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_bb">
+<span id="A6.F5.p1.pic1.2.18.1.1" class="ltx_inline-block ltx_align_top" style="width:287.9pt;">
+<span id="A6.F5.p1.pic1.2.18.1.1.1" class="ltx_p"><code id="A6.F5.p1.pic1.2.18.1.1.1.1" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">```</code></span>
+</span></td></tr>
+</table></span></span></foreignobject></g></g></svg>
