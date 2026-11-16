@@ -1,0 +1,72 @@
+<svg id="A7.p3.pic1" class="ltx_picture" height="667.68" overflow="visible" version="1.1" viewbox="0 0 550 667.68" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,667.68) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#7850B4;" fill="#7850B4" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.4 L 0 636.85 C 0 639.83 2.42 642.25 5.4 642.25 L 544.6 642.25 C 547.58 642.25 550 639.83 550 636.85 L 550 5.4 C 550 2.42 547.58 0 544.6 0 L 5.4 0 C 2.42 0 0 2.42 0 5.4 Z" /></g><g style="--ltx-fill-color:#F6F2FC;" fill="#F6F2FC" fill-opacity="1.0"><path style="stroke:none" d="M 1.25 5.4 L 1.25 636.85 C 1.25 639.14 3.1 641 5.4 641 L 544.6 641 C 546.9 641 548.75 639.14 548.75 636.85 L 548.75 5.4 C 548.75 3.1 546.9 1.25 544.6 1.25 L 5.4 1.25 C 3.1 1.25 1.25 3.1 1.25 5.4 Z" /></g><g transform="matrix(1.0 0.0 0.0 1.0 8.3 639.48)"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" class="ltx_nestedsvg" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="matrix(1 0 0 1 0 0)"><g style="--ltx-fill-color:#7850B4;" fill="#7850B4" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.4 L 0 22.8 C 0 25.78 2.42 28.2 5.4 28.2 L 202.01 28.2 C 204.99 28.2 207.41 25.78 207.41 22.8 L 207.41 5.4 C 207.41 2.42 204.99 0 202.01 0 L 5.4 0 C 2.42 0 0 2.42 0 5.4 Z" /></g><g style="--ltx-fill-color:#EAE2F8;" fill="#EAE2F8" fill-opacity="1.0"><path style="stroke:none" d="M 1.25 5.4 L 1.25 22.8 C 1.25 25.1 3.1 26.95 5.4 26.95 L 202.01 26.95 C 204.3 26.95 206.16 25.1 206.16 22.8 L 206.16 5.4 C 206.16 3.1 204.3 1.25 202.01 1.25 L 5.4 1.25 C 3.1 1.25 1.25 3.1 1.25 5.4 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.48 10.64)"><foreignobject style="--ltx-fo-width:11.37em;--ltx-fo-height:0.6em;--ltx-fo-depth:0.17em;font-size:11.5pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="180.88"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A7.p3.pic1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">EvalGenProduct — grade</span></span></span></foreignobject></g></g></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 16.25 19.02)"><foreignobject style="--ltx-fo-width:37.4em;--ltx-fo-height:43.87em;--ltx-fo-depth:0em;font-size:10pt;" height="606.98" overflow="visible" transform="matrix(1 0 0 -1 0 606.98)" width="517.51"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A7.p3.pic1.2" class="ltx_inline-logical-block ltx_minipage ltx_align_bottom" style="width:37.4em;">
+<span id="A7.p3.pic1.p6" class="ltx_para">
+<span id="A7.p3.pic1.p6.1" class="ltx_p"><span id="A7.p3.pic1.p6.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Overall Kendall <math id="A7.p3.pic1.m1" class="ltx_Math" alttext="\tau" display="inline" intent=":literal"><semantics><mi style="--ltx-fg-color:#000000;" mathcolor="#000000">τ</mi><annotation encoding="application/x-tex">\tau</annotation></semantics></math>:<span id="A7.p3.pic1.p6.1.1.1" class="ltx_text ltx_font_medium"> 0.4178</span></span></span>
+<span id="A7.p3.pic1.p6.2" class="ltx_p"><span id="A7.p3.pic1.p6.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Top 5 Metrics &amp; Coefficients<span id="A7.p3.pic1.p6.2.1.1" class="ltx_text"></span></span></span>
+<span id="A7.p3.pic1.p6.3" class="ltx_tabular ltx_guessed_headers ltx_align_middle">
+<span class="ltx_thead">
+<span id="A7.p3.pic1.p6.3.1" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.1.1" class="ltx_td ltx_align_left ltx_align_top ltx_th ltx_th_column ltx_border_tt">
+<span id="A7.p3.pic1.p6.3.1.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.1.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.1.1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Metric</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.1.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top ltx_th ltx_th_column ltx_border_tt">
+<span id="A7.p3.pic1.p6.3.1.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.1.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.1.2.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Coefficient</span></span>
+</span></span></span>
+</span>
+<span class="ltx_tbody">
+<span id="A7.p3.pic1.p6.3.2" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.2.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t">
+<span id="A7.p3.pic1.p6.3.2.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.2.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.2.1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Formatting_Compliance_Qwen3-32B</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.2.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top ltx_border_t">
+<span id="A7.p3.pic1.p6.3.2.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.2.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.2.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0.1144</span></span>
+</span></span></span>
+<span id="A7.p3.pic1.p6.3.3" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.3.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.3.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.3.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.3.1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">grade_Qwen3-32B_examples</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.3.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.3.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.3.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.3.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0.1022</span></span>
+</span></span></span>
+<span id="A7.p3.pic1.p6.3.4" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.4.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.4.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.4.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.4.1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Call_to_Action__CTA__Strength_Qwen3-32B</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.4.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.4.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.4.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.4.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0.0752</span></span>
+</span></span></span>
+<span id="A7.p3.pic1.p6.3.5" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.5.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.5.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.5.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.5.1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Customer_Review_Integration_Rubric</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.5.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top">
+<span id="A7.p3.pic1.p6.3.5.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.5.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.5.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0.0747</span></span>
+</span></span></span>
+<span id="A7.p3.pic1.p6.3.6" class="ltx_tr">
+<span id="A7.p3.pic1.p6.3.6.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_bb">
+<span id="A7.p3.pic1.p6.3.6.1.1" class="ltx_inline-block ltx_align_top" style="width:261.8pt;">
+<span id="A7.p3.pic1.p6.3.6.1.1.1" class="ltx_p ltx_align_left"><span id="A7.p3.pic1.p6.3.6.1.1.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Avoidance_of_Weaknesses_Qwen3-32B</span></span>
+</span></span>
+<span id="A7.p3.pic1.p6.3.6.2" class="ltx_td ltx_nopad_r ltx_align_left ltx_align_top ltx_border_bb">
+<span id="A7.p3.pic1.p6.3.6.2.1" class="ltx_inline-block ltx_align_top" style="width:93.5pt;">
+<span id="A7.p3.pic1.p6.3.6.2.1.1" class="ltx_p ltx_align_right"><span id="A7.p3.pic1.p6.3.6.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">0.0653</span></span>
+</span></span></span>
+</span>
+</span>
+</span>
+<span id="A7.p3.pic1.p1" class="ltx_para ltx_noindent"><span class="ltx_inline-block"><svg id="A7.p3.pic1.p1.pic1" class="ltx_picture" color="#000000" height="93.85" overflow="visible" version="1.1" viewbox="0 0 517.5 93.85" width="517.5"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,93.85) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#C9B9E1;" fill="#C9B9E1" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.46 L 0 90.39 C 0 92.3 1.55 93.85 3.46 93.85 L 514.04 93.85 C 515.95 93.85 517.5 92.3 517.5 90.39 L 517.5 3.46 C 517.5 1.55 515.95 0 514.04 0 L 3.46 0 C 1.55 0 0 1.55 0 3.46 Z" /></g><g style="--ltx-fill-color:#FCFAFF;" fill="#FCFAFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 3.46 L 0.69 55.61 L 516.8 55.61 L 516.8 3.46 C 516.8 1.93 515.57 0.69 514.04 0.69 L 3.46 0.69 C 1.93 0.69 0.69 1.93 0.69 3.46 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 63.01)"><foreignobject style="--ltx-fo-width:35.53em;--ltx-fo-height:1.89em;--ltx-fo-depth:0.2em;font-size:10pt;" height="28.98" overflow="visible" transform="matrix(1 0 0 -1 0 26.21)" width="491.64"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p3.pic1.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:35.53em;">
+<span id="A7.p3.pic1.p1.pic1.1.1" class="ltx_p"><span id="A7.p3.pic1.p1.pic1.1.1.1" class="ltx_text ltx_font_bold">Description: <span id="A7.p3.pic1.p1.pic1.1.1.1.1" class="ltx_text ltx_font_typewriter">Formatting_Compliance_Qwen3-32B</span></span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 16.39)"><foreignobject style="--ltx-fo-width:35.53em;--ltx-fo-height:1.95em;--ltx-fo-depth:0.25em;font-size:10pt;" height="30.44" overflow="visible" transform="matrix(1 0 0 -1 0 26.98)" width="491.64"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p3.pic1.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:35.53em;">
+<span id="A7.p3.pic1.p1.pic1.2.1" class="ltx_p">Good examples strictly follow Markdown structure (headers, bullet points). Bad examples include disallowed elements (links, markdown errors).</span>
+</span></span></span></foreignobject></g></g></svg>

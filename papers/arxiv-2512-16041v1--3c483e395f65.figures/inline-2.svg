@@ -1,0 +1,42 @@
+<svg id="A5.SS2.p1.pic1" class="ltx_picture" height="507.51" overflow="visible" version="1.1" viewbox="0 0 700.39 507.51" width="700.39"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,507.51) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 501.61 C 0 504.87 2.64 507.51 5.91 507.51 L 694.49 507.51 C 697.75 507.51 700.39 504.87 700.39 501.61 L 700.39 5.91 C 700.39 2.64 697.75 0 694.49 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#E6E6E6;" fill="#E6E6E6" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 483.4 L 698.43 483.4 L 698.43 5.91 C 698.43 3.73 696.66 1.97 694.49 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 492)"><foreignobject style="--ltx-fo-width:47.49em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="657.13"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:47.49em;">
+<span id="A5.SS2.p1.pic1.1.1" class="ltx_p"><span id="A5.SS2.p1.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Prompt of RewardBench2</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 13.78)"><foreignobject style="--ltx-fo-width:47.49em;--ltx-fo-height:33.09em;--ltx-fo-depth:0em;font-size:10pt;" height="457.82" overflow="visible" transform="matrix(1 0 0 -1 0 457.82)" width="657.13"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:47.49em;">
+<span id="A5.SS2.p1.pic1.2.1" class="ltx_p"><span id="A5.SS2.p1.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">System Prompt
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.2" class="ltx_p"><span id="A5.SS2.p1.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please act as an impartial judge and evaluate the quality of the responses provided by four AI assistants to the user question displayed below. You should choose the assistant that follows the user’s instructions and answers the user’s question better. Your evaluation should consider factors such as the helpfulness, relevance, accuracy, depth, creativity, and level of detail of their responses. Avoid any position biases and ensure that the order in which the responses were presented does not influence your decision. Do not allow the length of the responses to influence your evaluation. Do not favor certain names of the assistants. Be as objective as possible. After providing your explanation, output your final verdict by strictly following this format: “[[A]]” if assistant A is the best, “[[B]]” if assistant B is the best, “[[C]]” if assistant C is the best, “[[D]]” if assistant D is the best. You must make one choice.
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.3" class="ltx_p"><span id="A5.SS2.p1.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">User Prompt
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.4" class="ltx_p"><span id="A5.SS2.p1.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">[User Question]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.5" class="ltx_p"><span id="A5.SS2.p1.pic1.2.5.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{question}
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.6" class="ltx_p"><span id="A5.SS2.p1.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant A’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.7" class="ltx_p"><span id="A5.SS2.p1.pic1.2.7.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{answer_a}
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.8" class="ltx_p"><span id="A5.SS2.p1.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Assistant A’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.9" class="ltx_p"><span id="A5.SS2.p1.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant B’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.10" class="ltx_p"><span id="A5.SS2.p1.pic1.2.10.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{answer_b}
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.11" class="ltx_p"><span id="A5.SS2.p1.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Assistant B’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.12" class="ltx_p"><span id="A5.SS2.p1.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant C’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.13" class="ltx_p"><span id="A5.SS2.p1.pic1.2.13.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{answer_c}
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.14" class="ltx_p"><span id="A5.SS2.p1.pic1.2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Assistant C’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.15" class="ltx_p"><span id="A5.SS2.p1.pic1.2.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant D’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.16" class="ltx_p"><span id="A5.SS2.p1.pic1.2.16.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{answer_d}
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.17" class="ltx_p"><span id="A5.SS2.p1.pic1.2.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The End of Assistant D’s Answer]
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.18" class="ltx_p"><span id="A5.SS2.p1.pic1.2.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">After providing your explanation, output your final verdict by strictly following this format: “[[A]]” if assistant A is the best, “[[B]]” if assistant B is the best, “[[C]]” if assistant C is the best, “[[D]]” if assistant D is the best. You must make one choice.</span></span>
+</span></span></span></foreignobject></g></g></svg>
