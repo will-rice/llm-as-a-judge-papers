@@ -1,0 +1,32 @@
+<svg id="A2.F26.pic1" class="ltx_picture" height="372.13" overflow="visible" version="1.1" viewbox="0 0 653.15 372.13" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,372.13) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 366.22 C 0 369.48 2.64 372.13 5.91 372.13 L 647.24 372.13 C 650.51 372.13 653.15 369.48 653.15 366.22 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F7F7F7;" fill="#F7F7F7" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 366.22 C 1.97 368.4 3.73 370.16 5.91 370.16 L 647.24 370.16 C 649.42 370.16 651.18 368.4 651.18 366.22 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 9.84 7.87)"><foreignobject style="--ltx-fo-width:53.86em;--ltx-fo-height:25.76em;--ltx-fo-depth:0em;font-size:10pt;" height="356.38" overflow="visible" transform="matrix(1 0 0 -1 0 356.38)" width="745.27"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F26.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:53.86em;">
+<span id="A2.F26.pic1.1.1" class="ltx_p"><span id="A2.F26.pic1.1.1.1" class="ltx_text" style="font-size:80%;--ltx-fg-color:#000000;">First, I will generate my own answer to the prompt, following the user’s strict formatting and content requirements.
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.1" class="ltx_text"></span>
+<br class="ltx_break">## My Answer
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.2" class="ltx_text"></span>
+<br class="ltx_break">Answer only
+<br class="ltx_break">“‘python
+<br class="ltx_break">import moviepy.editor as mp
+<br class="ltx_break">import os
+<br class="ltx_break">from PIL import Image
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.3" class="ltx_text"></span>
+<br class="ltx_break">input_file = ”input.mp4”
+<br class="ltx_break">output_dir = ”screenshots”
+<br class="ltx_break">os.makedirs(output_dir, exist_ok=True)
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.4" class="ltx_text"></span>
+<br class="ltx_break">video = mp.VideoFileClip(input_file)
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.5" class="ltx_text"></span>
+<br class="ltx_break">duration = video.duration
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.6" class="ltx_text"></span>
+<br class="ltx_break">for t in range(0, int(duration), 10):
+<br class="ltx_break">   frame = video.screenshot(t=t)
+<br class="ltx_break">   filename = f”screenshot_{t//10:04d}.png”
+<br class="ltx_break">   frame.save(os.path.join(output_dir, filename))
+<br class="ltx_break">   print(f”Saved {filename}”)
+<br class="ltx_break">“‘
+<br class="ltx_break">Requirements
+<br class="ltx_break">moviepy pillow
+<br class="ltx_break">done
+<br class="ltx_break"><span id="A2.F26.pic1.1.1.1.7" class="ltx_text"></span>
+<br class="ltx_break">—</span></span>
+</span></span></span></foreignobject></g></g></svg>
