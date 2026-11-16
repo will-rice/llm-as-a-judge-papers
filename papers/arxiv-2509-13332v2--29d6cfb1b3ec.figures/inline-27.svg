@@ -1,0 +1,26 @@
+<svg id="A5.F29.pic1" class="ltx_picture ltx_centering" height="305.79" overflow="visible" version="1.1" viewbox="0 0 477.38 305.79" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,305.79) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#BA94D1;" fill="#BA94D1" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 305.79 L 477.38 305.79 L 477.38 0 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.11 1.11 L 1.11 283.4 L 476.27 283.4 L 476.27 1.11 Z" /></g><g style="--ltx-fill-color:#BA94D1;" fill="#BA94D1" fill-opacity="1.0"><path style="stroke:none" d="M 1.11 284.51 L 1.11 304.68 L 476.27 304.68 L 476.27 284.51 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.79 291.14)"><foreignobject style="--ltx-fo-width:27.39em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="379"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.F29.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:27.39em;">
+<span id="A5.F29.pic1.1.1" class="ltx_p"><span id="A5.F29.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Rubric for MRewardBench subset: math-prm</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.79 12.92)"><foreignobject style="--ltx-fo-width:31.5em;--ltx-fo-height:18.69em;--ltx-fo-depth:0em;font-size:10pt;" class="ltx_minipage" height="258.68" overflow="visible" transform="matrix(1 0 0 -1 0 258.68)" width="30em"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><pre id="A5.F29.pic1.2" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">Pairwise judge for process-supervised mathematics.
+Steps:
+1) Read the User Question and the answers from Assistant A and
+   Assistant B.
+2) Checks:
+   - Step validity: intermediate steps are mathematically valid and
+   consistent.
+   - Final correctness: final result is correct and follows from the
+   steps.
+   - Notation &amp; assumptions: clear notation; reasonable stated
+   assumptions.
+   - Self-checks: simple verifications or sanity checks when
+   appropriate.
+3) Penalize: arithmetic/algebraic slips, unjustified leaps, correct
+   final answers with broken logic, inconsistent steps.
+4) Decision: choose Assistant A if it has more valid steps leading to
+   a correct result (or clearer reasoning when both are correct);
+   otherwise choose Assistant B.
+5) Neutrality: ignore presentation order, assistant names, and
+   response length; steps are not required if the final answer is
+   correct and there are no contradictions.
+
+</pre></span></span></foreignobject></g></g></svg>

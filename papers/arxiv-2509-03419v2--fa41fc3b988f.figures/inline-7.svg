@@ -1,0 +1,29 @@
+<svg id="A1.SS3.SSSx1.p6.pic1" class="ltx_picture" height="228.81" overflow="visible" version="1.1" viewbox="0 0 653.15 228.81" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,228.81) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 222.91 C 0 226.17 2.64 228.81 5.91 228.81 L 647.24 228.81 C 650.51 228.81 653.15 226.17 653.15 222.91 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 204.7 L 651.18 204.7 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 213.3)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS3.SSSx1.p6.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A1.SS3.SSSx1.p6.pic1.1.1" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">solution camouflage prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 17.24)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:12.69em;--ltx-fo-depth:0.25em;font-size:10pt;" height="179.11" overflow="visible" transform="matrix(1 0 0 -1 0 175.66)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS3.SSSx1.p6.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A1.SS3.SSSx1.p6.pic1.2.1" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Repackage target steps using reference methodology while retaining original errors and step positions:</span></span>
+<span id="A1.SS3.SSSx1.p6.pic1.2.2" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">**Rules:**
+1. Keep all errors in original step positions (e.g., if Step3 had division-by-zero, it must remain Step3)
+2. Map generic arguments to specific theorems from reference
+3. Adopt reference’s proof structure templates
+4. Maintain original miscalculations/incorrect assumptions</span></span>
+<span id="A1.SS3.SSSx1.p6.pic1.2.3" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">**Reference Method Profile:**
+{extracted_method}</span></span>
+<span id="A1.SS3.SSSx1.p6.pic1.2.4" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">**Target Steps (with errors):**
+{target_steps}</span></span>
+<span id="A1.SS3.SSSx1.p6.pic1.2.5" class="ltx_p"><span id="A1.SS3.SSSx1.p6.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">**Output Requirements:**
+- Strictly use valid JSON format (escape special characters like ‘
+<br class="ltx_break">‘, ‘&quot;‘, ‘{{}}‘).
+- No line breaks or unescaped control characters in step strings.
+- Ensure all strings are enclosed in double quotes (‘&quot;‘).
+- Example of valid output:
+“‘json
+{{
+&quot;steps&quot;: [
+&quot;Rephrased Step 1 (error preserved)&quot;,
+&quot;Rephrased Step 2 (no newlines or unescaped symbols)&quot;
+]
+}}</span></span>
+</span></span></span></foreignobject></g></g></svg>

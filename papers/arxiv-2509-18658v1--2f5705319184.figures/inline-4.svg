@@ -1,0 +1,99 @@
+<svg id="A1.F8.pic1" class="ltx_picture ltx_centering" height="1167.97" overflow="visible" version="1.1" viewbox="0 0 653.15 1167.97" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1167.97) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 1167.97 L 653.15 1167.97 L 653.15 0 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 0.69 L 0.69 1146.42 L 652.46 1146.42 L 652.46 0.69 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.38 1153.74)"><foreignobject style="--ltx-fo-width:38.49em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="532.59"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F8.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.49em;">
+<span id="A1.F8.pic1.1.1" class="ltx_p"><span id="A1.F8.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Reprompt on ROSCOE by DeepSeek-R1-Distill-Qwen-32B with SocREval</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.38 12.5)"><foreignobject style="--ltx-fo-width:44.26em;--ltx-fo-height:81.1em;--ltx-fo-depth:0em;font-size:10pt;" height="1122.12" overflow="visible" transform="matrix(1 0 0 -1 0 1122.12)" width="612.43"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F8.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.26em;">
+<span id="A1.F8.pic1.2.1" class="ltx_p"><span id="A1.F8.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Let me show you our evaluation record. Based on all these information, make decision and give me final score. 
+<br class="ltx_break" style="--ltx-break-space:10.0pt;">
+<span id="A1.F8.pic1.2.1.1.1" class="ltx_text ltx_font_bold">Initial Prompt:</span> 
+<br class="ltx_break"><code id="A1.F8.pic1.2.1.1.2" class="ltx_verbatim ltx_font_typewriter">{{Prompt in 1st round}}</code> 
+<br class="ltx_break" style="--ltx-break-space:10.0pt;">
+<span id="A1.F8.pic1.2.1.1.3" class="ltx_text ltx_font_bold">Initial Response:</span> 
+<br class="ltx_break"><code id="A1.F8.pic1.2.1.1.4" class="ltx_verbatim ltx_font_typewriter">{{Response in 1st round}}</code> 
+<br class="ltx_break" style="--ltx-break-space:10.0pt;">
+<span id="A1.F8.pic1.2.1.1.5" class="ltx_text ltx_font_bold">Reprompt and Regrade:</span> 
+<br class="ltx_break"></span></span>
+<span id="A1.F8.pic1.2.2" class="ltx_p"><span id="A1.F8.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Thank you for your initial evaluation! 
+<br class="ltx_break" style="--ltx-break-space:7.5pt;">
+To help you arrive at a final score that more closely aligns with human expert judgment, we have constructed a 90% confidence interval for this task using conformal prediction based on your past scoring records. This interval is provided to help you gauge the uncertainty in your recent assessment, which we hope will enhance your evaluation. 
+<br class="ltx_break" style="--ltx-break-space:7.5pt;">
+<span id="A1.F8.pic1.2.2.1.1" class="ltx_text ltx_font_bold">Interval Information</span>: The confidence interval we have provided is <code id="A1.F8.pic1.2.2.1.2" class="ltx_verbatim ltx_font_typewriter">{{Interval}}</code>. Please keep in mind that there is approximately a 90% probability that the expert’s score lies within this interval, and a 10% probability that it lies outside. 
+<br class="ltx_break" style="--ltx-break-space:10.0pt;">
+— <span id="A1.F8.pic1.2.2.1.3" class="ltx_text ltx_font_bold">Your Objective</span>: Acting as a human expert, use the interval information along with the recent evaluation task to decide whether and how to adjust the initial score. 
+<br class="ltx_break"></span></span>
+<span id="A1.F8.pic1.2.3" class="ltx_p"><span id="A1.F8.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">—Below are some decision-making suggestions for your reference, but we also encourage you to apply your own independent thinking to align as closely as possible with human expert judgment.
+<br class="ltx_break" style="--ltx-break-space:10.0pt;">
+<span id="A1.F8.pic1.2.3.1.1" class="ltx_text ltx_font_bold">Decision-Making Suggestions</span>: 
+<br class="ltx_break" style="--ltx-break-space:5.0pt;"></span></span>
+<span id="A1.I7" class="ltx_enumerate">
+<span id="A1.I7.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A1.I7.i1.p1" class="ltx_para">
+<span id="A1.I7.i1.p1.1" class="ltx_p"><span id="A1.I7.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Key Dimensions to Consider</span><span id="A1.I7.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A1.I7.i1.I1" class="ltx_itemize">
+<span id="A1.I7.i1.I0.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i1.I0.i1.p1" class="ltx_para">
+<span id="A1.I7.i1.I0.i1.p1.1" class="ltx_p"><span id="A1.I7.i1.I0.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Original Score Confidence</span><span id="A1.I7.i1.I0.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Your confidence level in the score you just assigned;</span></span>
+</span></span>
+<span id="A1.I7.i1.I0.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i1.I0.i2.p1" class="ltx_para">
+<span id="A1.I7.i1.I0.i2.p1.1" class="ltx_p"><span id="A1.I7.i1.I0.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Interval Position</span><span id="A1.I7.i1.I0.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Whether the original score falls inside or outside the interval;</span></span>
+</span></span>
+<span id="A1.I7.i1.I0.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i1.I0.i3.p1" class="ltx_para">
+<span id="A1.I7.i1.I0.i3.p1.1" class="ltx_p"><span id="A1.I7.i1.I0.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Interval Width</span><span id="A1.I7.i1.I0.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Whether the interval is narrow (e.g., </span><math id="A1.I7.i1.I0.i3.p1.m1" class="ltx_Math" alttext="\leq 2.0" display="inline" intent=":literal"><semantics><mrow><mphantom></mphantom><mo style="--ltx-fg-color:#000000;" mathcolor="#000000">≤</mo><mn style="--ltx-fg-color:#000000;" mathcolor="#000000">2.0</mn></mrow><annotation encoding="application/x-tex">\leq 2.0</annotation></semantics></math><span id="A1.I7.i1.I0.i3.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;">) or wide (e.g., </span><math id="A1.I7.i1.I0.i3.p1.m2" class="ltx_Math" alttext="\geq 2.0" display="inline" intent=":literal"><semantics><mrow><mphantom></mphantom><mo style="--ltx-fg-color:#000000;" mathcolor="#000000">≥</mo><mn style="--ltx-fg-color:#000000;" mathcolor="#000000">2.0</mn></mrow><annotation encoding="application/x-tex">\geq 2.0</annotation></semantics></math><span id="A1.I7.i1.I0.i3.p1.1.4" class="ltx_text" style="--ltx-fg-color:#000000;">);</span></span>
+</span></span>
+<span id="A1.I7.i1.I0.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i1.I0.i4.p1" class="ltx_para">
+<span id="A1.I7.i1.I0.i4.p1.1" class="ltx_p"><span id="A1.I7.i1.I0.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Potential Labels</span><span id="A1.I7.i1.I0.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: What specific label options lie within the interval (e.g., {3.00, 4.00} for an example interval [3,4]). </span>
+<br class="ltx_break"></span>
+</span></span>
+</span>
+</span></span>
+<span id="A1.I7.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A1.I7.i2.p1" class="ltx_para">
+<span id="A1.I7.i2.p1.1" class="ltx_p"><span id="A1.I7.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Advice on Decision, Reasoning, and Explanation</span><span id="A1.I7.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">:</span></span>
+<span id="A1.I7.i2.I1" class="ltx_itemize">
+<span id="A1.I7.i2.I0.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i2.I0.i1.p1" class="ltx_para">
+<span id="A1.I7.i2.I0.i1.p1.1" class="ltx_p"><span id="A1.I7.i2.I0.i1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">High Confidence &amp; Score Within a Narrow Interval</span><span id="A1.I7.i2.I0.i1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: If the interval is narrow and your score is validated by the interval boundaries, you may confidently retain your original score, provided you believe your evaluation and explanation are seamless. You may also make minor adjustments within the interval where you think the score is most plausible.</span></span>
+</span></span>
+<span id="A1.I7.i2.I0.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i2.I0.i2.p1" class="ltx_para">
+<span id="A1.I7.i2.I0.i2.p1.1" class="ltx_p"><span id="A1.I7.i2.I0.i2.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">High Confidence &amp; Score Outside a Narrow Interval</span><span id="A1.I7.i2.I0.i2.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Although there is a small probability (&lt;10%) that you are correct, we encourage you to question your initial judgment, reconsider the evaluation, and consider adjusting the score to the most probable point within the interval, or retain the original score with a brief justification.</span></span>
+</span></span>
+<span id="A1.I7.i2.I0.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i2.I0.i3.p1" class="ltx_para">
+<span id="A1.I7.i2.I0.i3.p1.1" class="ltx_p"><span id="A1.I7.i2.I0.i3.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Low Confidence &amp; Any Interval</span><span id="A1.I7.i2.I0.i3.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: Use the interval to guide a careful re-examination of the task. For example, consider why an expert rating might take a certain value within the interval and whether that reasoning is sound. After reflection, if you find a value most reasonable, you may choose that score.</span></span>
+</span></span>
+<span id="A1.I7.i2.I0.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A1.I7.i2.I0.i4.p1" class="ltx_para">
+<span id="A1.I7.i2.I0.i4.p1.1" class="ltx_p"><span id="A1.I7.i2.I0.i4.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Challenging the Interval</span><span id="A1.I7.i2.I0.i4.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">: You have the right to firmly believe that the true score cannot possibly fall within the provided interval. However, since we guarantee that the interval covers the expert score 90% of the time, your challenge likely indicates an error in expert judgment. If your explanation convinces us, this would be a valuable discovery. Generally, though, we prefer to treat the expert judgment as ground truth. </span>
+<br class="ltx_break"></span>
+</span></span>
+</span>
+</span></span>
+</span>
+<span id="A1.F8.pic1.2.4" class="ltx_p"><span id="A1.F8.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please use the suggestions above to produce a <span id="A1.F8.pic1.2.4.1.1" class="ltx_text ltx_font_bold">new final score</span> through a step-by-step chain of thought:</span></span>
+<span id="A1.I8" class="ltx_enumerate">
+<span id="A1.I8.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A1.I8.i1.p1" class="ltx_para">
+<span id="A1.I8.i1.p1.1" class="ltx_p"><span id="A1.I8.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Your confidence level in the original score (high/medium/low) and the reason;</span></span>
+</span></span>
+<span id="A1.I8.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A1.I8.i2.p1" class="ltx_para">
+<span id="A1.I8.i2.p1.1" class="ltx_p"><span id="A1.I8.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">How the interval width, potential labels and the position of the original score influence your judgment;</span></span>
+</span></span>
+<span id="A1.I8.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A1.I8.i3.p1" class="ltx_para">
+<span id="A1.I8.i3.p1.1" class="ltx_p"><span id="A1.I8.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Your adjustment action (retain/minor adjustment/re-examination/other) and the rationale;</span></span>
+</span></span>
+<span id="A1.I8.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A1.I8.i4.p1" class="ltx_para">
+<span id="A1.I8.i4.p1.1" class="ltx_p"><span id="A1.I8.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The final score you assign. </span>
+<br class="ltx_break"></span>
+</span></span>
+</span>
+<span id="A1.F8.pic1.2.5" class="ltx_p"><span id="A1.F8.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Finally, please first state your final evaluated score (1–5), followed by your explanation: 
+<br class="ltx_break" style="--ltx-break-space:5.0pt;">
+<span id="A1.F8.pic1.2.5.1.1" class="ltx_text ltx_font_bold">Final Score:</span></span></span>
+</span></span></span></foreignobject></g></g></svg>
