@@ -1,0 +1,33 @@
+<svg id="A23.SS4.p3.pic1" class="ltx_picture" height="475.21" overflow="visible" version="1.1" viewbox="0 0 653.15 475.21" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,475.21) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#BFBFBF;" fill="#BFBFBF" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.46 L 0 471.75 C 0 473.66 1.55 475.21 3.46 475.21 L 649.69 475.21 C 651.6 475.21 653.15 473.66 653.15 471.75 L 653.15 3.46 C 653.15 1.55 651.6 0 649.69 0 L 3.46 0 C 1.55 0 0 1.55 0 3.46 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 3.46 L 0.69 456.5 L 652.46 456.5 L 652.46 3.46 C 652.46 1.93 651.22 0.69 649.69 0.69 L 3.46 0.69 C 1.93 0.69 0.69 1.93 0.69 3.46 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 461.13)"><foreignobject style="--ltx-fo-width:45.33em;--ltx-fo-height:0.68em;--ltx-fo-depth:0em;font-size:10pt;" height="9.46" overflow="visible" transform="matrix(1 0 0 -1 0 9.46)" width="627.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A23.SS4.p3.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:45.33em;">
+<span id="A23.SS4.p3.pic1.1.1" class="ltx_p"><span id="A23.SS4.p3.pic1.1.1.1" class="ltx_text ltx_font_bold ltx_font_smallcaps" style="--ltx-fg-color:#FFFFFF;">User</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 10.16)"><foreignobject style="--ltx-fo-width:43.17em;--ltx-fo-height:31.57em;--ltx-fo-depth:0em;font-size:10pt;" height="436.87" overflow="visible" transform="matrix(1 0 0 -1 0 436.87)" width="597.35"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A23.SS4.p3.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.17em;">
+<span id="A23.SS4.p3.pic1.2.1" class="ltx_p"><span id="A23.SS4.p3.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">###Task Description:
+<br class="ltx_break">An instruction (an agentic tool-calling query with its available tool schemas), a response to evaluate (a proposed tool-call plan), a reference answer that gets a score of 5, and a score rubric representing an evaluation criteria are given.
+<br class="ltx_break">1. Write a detailed feedback that assesses the quality of the response strictly based on the given score rubric, not evaluating in general.
+<br class="ltx_break">2. After writing a feedback, write a score that is an integer between 1 and 5. You should refer to the score rubric.
+<br class="ltx_break">3. The output format should look as follows: &quot;Feedback: (write a feedback for criteria) [RESULT] (an integer number between 1 and 5)&quot;
+<br class="ltx_break">4. Please do not generate any other opening, closing, and explanations.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+###The instruction to evaluate:
+<br class="ltx_break">Given the user query and available tool schemas below, select and structure the correct tool call(s) to satisfy the query.
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+QUERY:
+<br class="ltx_break">{<span id="A23.SS4.p3.pic1.2.1.1.1" class="ltx_text ltx_font_italic">user_message</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+AVAILABLE TOOLS:
+<br class="ltx_break">{<span id="A23.SS4.p3.pic1.2.1.1.2" class="ltx_text ltx_font_italic">available_tools</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+###Response to evaluate:
+<br class="ltx_break">{<span id="A23.SS4.p3.pic1.2.1.1.3" class="ltx_text ltx_font_italic">generated_tool_calls</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+###Reference Answer (Score 5):
+<br class="ltx_break">{<span id="A23.SS4.p3.pic1.2.1.1.4" class="ltx_text ltx_font_italic">expected_responses</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+###Score Rubrics:
+<br class="ltx_break">{<span id="A23.SS4.p3.pic1.2.1.1.5" class="ltx_text ltx_font_italic">one of four metric-specific rubrics: tool selection, parameter structure, sequence &amp; dependency, or query coverage -- each a bracketed criterion followed by five score descriptions, structurally identical to the with GT judge rubric in Appendix <a href="#A23.SS2" title="W.2 Judge prompt: with ground truth (GT condition). ‣ Appendix W Prompts ‣ AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling" class="ltx_ref"><span class="ltx_text ltx_ref_tag">W.2</span></a></span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+###Feedback:
+</span></span>
+</span></span></span></foreignobject></g></g></svg>

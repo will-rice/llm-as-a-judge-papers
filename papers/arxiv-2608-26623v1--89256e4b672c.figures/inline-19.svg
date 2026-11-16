@@ -1,0 +1,55 @@
+<svg id="A23.SS3.p1.pic1" class="ltx_picture" height="980.11" overflow="visible" version="1.1" viewbox="0 0 653.15 980.11" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,980.11) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#BFBFBF;" fill="#BFBFBF" fill-opacity="1.0"><path style="stroke:none" d="M 0 3.46 L 0 976.65 C 0 978.56 1.55 980.11 3.46 980.11 L 649.69 980.11 C 651.6 980.11 653.15 978.56 653.15 976.65 L 653.15 3.46 C 653.15 1.55 651.6 0 649.69 0 L 3.46 0 C 1.55 0 0 1.55 0 3.46 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 3.46 L 0.69 961.4 L 652.46 961.4 L 652.46 3.46 C 652.46 1.93 651.22 0.69 649.69 0.69 L 3.46 0.69 C 1.93 0.69 0.69 1.93 0.69 3.46 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 966.03)"><foreignobject style="--ltx-fo-width:45.33em;--ltx-fo-height:0.68em;--ltx-fo-depth:0em;font-size:10pt;" height="9.46" overflow="visible" transform="matrix(1 0 0 -1 0 9.46)" width="627.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A23.SS3.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:45.33em;">
+<span id="A23.SS3.p1.pic1.1.1" class="ltx_p"><span id="A23.SS3.p1.pic1.1.1.1" class="ltx_text ltx_font_bold ltx_font_smallcaps" style="--ltx-fg-color:#FFFFFF;">User</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.93 13.62)"><foreignobject style="--ltx-fo-width:43.17em;--ltx-fo-height:67.81em;--ltx-fo-depth:0.25em;font-size:10pt;" height="941.77" overflow="visible" transform="matrix(1 0 0 -1 0 938.31)" width="597.35"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A23.SS3.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.17em;">
+<span id="A23.SS3.p1.pic1.2.1" class="ltx_p"><span id="A23.SS3.p1.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">You are a STRICT STRUCTURAL EVALUATOR for AI agent tool-calling plans.
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+IMPORTANT CONTEXT (NON-NEGOTIABLE):
+<br class="ltx_break">- The evaluated model is SINGLE-SHOT and STATELESS.
+<br class="ltx_break">- The model does NOT observe tool execution or tool outputs.
+<br class="ltx_break">- The model ONLY plans tool calls.
+<br class="ltx_break">- ALL evaluation MUST be STATIC and STRUCTURAL.
+<br class="ltx_break">- There is NO expected tool plan available.
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+ABSOLUTELY DO NOT:
+<br class="ltx_break">- Evaluate correctness of parameter VALUES
+<br class="ltx_break">- Infer correctness from tool output logic
+<br class="ltx_break">- Penalize placeholder, symbolic, or dummy values
+<br class="ltx_break">- Penalize derived-value mismatches
+<br class="ltx_break">- Penalize missing runtime-dependent values
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+ONLY evaluate using:
+<br class="ltx_break">- The user QUERY
+<br class="ltx_break">- AVAILABLE TOOLS schema
+<br class="ltx_break">- GENERATED TOOL CALLS
+<br class="ltx_break" style="--ltx-break-space:2.0pt;">
+Treat the AVAILABLE TOOLS as the ONLY source of truth.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+-
+<br class="ltx_break"><span id="A23.SS3.p1.pic1.2.1.1.1" class="ltx_text ltx_font_bold">Evaluation Metrics (STRUCTURAL ONLY)
+<br class="ltx_break"></span>Compute FOUR scores. Scores MUST default to <span id="A23.SS3.p1.pic1.2.1.1.2" class="ltx_text ltx_font_bold">1.0 unless a clear structural violation exists</span>.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+<span id="A23.SS3.p1.pic1.2.1.1.3" class="ltx_text ltx_font_bold">1. TOOL SELECTION ACCURACY.</span> Are selected tools relevant to the query? Tools that clearly do not belong? Rules: if a tool plausibly helps answer the query, treat as valid; only penalize clearly irrelevant tools. Scoring: 1.0 all relevant; 0.5 one questionable/missing; 0.0 selection unrelated.
+<br class="ltx_break" style="--ltx-break-space:3.0pt;">
+<span id="A23.SS3.p1.pic1.2.1.1.4" class="ltx_text ltx_font_bold">2. PARAMETER STRUCTURE ACCURACY (MOST IMPORTANT).</span> Evaluate strictly: arguments exist and are dictionaries; parameter names exist in the tool schema; parameter names logically belong to the tool. Do NOT evaluate parameter values, types, ranges, thresholds, or symbolic references. Rules: matching names <math id="A23.SS3.p1.pic1.m1" class="ltx_Math" alttext="\Rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">⇒</mo><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math> correct; optional parameters never reduce score; extra parameters only penalize if clearly invalid. Scoring: 1.0 valid across all tools; 0.5 minor issues; 0.0 most tools incorrect.
+<br class="ltx_break" style="--ltx-break-space:3.0pt;">
+<span id="A23.SS3.p1.pic1.2.1.1.5" class="ltx_text ltx_font_bold">3. SEQUENCE &amp; DEPENDENCY ACCURACY.</span> Is ordering logically consistent with the query? Are analysis steps before decision/recommendation steps? Assume symbolic dependencies are valid. Scoring: 1.0 logical; 0.5 minor issue; 0.0 illogical.
+<br class="ltx_break" style="--ltx-break-space:3.0pt;">
+<span id="A23.SS3.p1.pic1.2.1.1.6" class="ltx_text ltx_font_bold">4. QUERY COVERAGE ACCURACY.</span> Does the plan attempt to address all parts of the query? Are key sub-goals represented? Scoring: 1.0 full; 0.5 partial; 0.0 major intent missed.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+-
+<br class="ltx_break"><span id="A23.SS3.p1.pic1.2.1.1.7" class="ltx_text ltx_font_bold">OUTPUT FORMAT (STRICT).</span> Return exactly one JSON object with the four metric fields, each containing {&quot;accuracy&quot;: &lt;float&gt;, &quot;justification&quot;: &quot;&lt;1 sentence&gt;&quot;}, plus an &quot;overall_assessment&quot; single-sentence summary.
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+Be conservative. Prefer 1.0 unless a <span id="A23.SS3.p1.pic1.2.1.1.8" class="ltx_text ltx_font_bold">clear structural violation</span> exists. Judge structure, not execution or correctness.
+<br class="ltx_break" style="--ltx-break-space:6.0pt;">
+QUERY:
+<br class="ltx_break">{<span id="A23.SS3.p1.pic1.2.1.1.9" class="ltx_text ltx_font_italic">user_message</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+AVAILABLE TOOLS:
+<br class="ltx_break">{<span id="A23.SS3.p1.pic1.2.1.1.10" class="ltx_text ltx_font_italic">available_tools</span>}
+<br class="ltx_break" style="--ltx-break-space:4.0pt;">
+GENERATED TOOL CALLS:
+<br class="ltx_break">{<span id="A23.SS3.p1.pic1.2.1.1.11" class="ltx_text ltx_font_italic">generated_tool_calls</span>}
+</span></span>
+</span></span></span></foreignobject></g></g></svg>
