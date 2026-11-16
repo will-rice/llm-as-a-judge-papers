@@ -1,0 +1,59 @@
+<svg id="A1.p4.pic1" class="ltx_picture" height="432.79" overflow="visible" version="1.1" viewbox="0 0 653.15 432.79" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,432.79) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#999999;" fill="#999999" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.53 L 0 427.26 C 0 430.31 2.48 432.79 5.53 432.79 L 647.61 432.79 C 650.67 432.79 653.15 430.31 653.15 427.26 L 653.15 5.53 C 653.15 2.48 650.67 0 647.61 0 L 5.53 0 C 2.48 0 0 2.48 0 5.53 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.38 5.53 L 1.38 403.89 L 651.77 403.89 L 651.77 5.53 C 651.77 3.24 649.91 1.38 647.61 1.38 L 5.53 1.38 C 3.24 1.38 1.38 3.24 1.38 5.53 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 22.14 414.88)"><foreignobject style="--ltx-fo-width:38.26em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="529.41"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.p4.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.26em;">
+<span id="A1.p4.pic1.1.1" class="ltx_p"><span id="A1.p4.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Score Range {min_range}-{max_range} for Consistency</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 22.14 24.83)"><foreignobject style="--ltx-fo-width:44em;--ltx-fo-height:25.89em;--ltx-fo-depth:0.19em;font-size:10pt;" height="361" overflow="visible" transform="matrix(1 0 0 -1 0 358.31)" width="608.84"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.p4.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44em;">
+<span id="A1.p4.pic1.2.1" class="ltx_p"><span id="A1.p4.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will be given one summary written for a news article.
+
+<br class="ltx_break">
+<br class="ltx_break">Your task is to rate the summary on one metric.
+
+<br class="ltx_break">
+<br class="ltx_break">Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+<br class="ltx_break">
+<br class="ltx_break">Evaluation Criteria:
+
+<br class="ltx_break">
+<br class="ltx_break">Consistency ({min_range}-{max_range}) - the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts.
+
+<br class="ltx_break">
+<br class="ltx_break">Evaluation Steps:
+
+<br class="ltx_break">
+<br class="ltx_break">1. Read the news article carefully and identify the main topic and key points.
+<br class="ltx_break">2. Read the summary and compare it to the news article. Check if the summary covers the main topic and key points of the news article, and if it presents them in a clear and logical order.
+<br class="ltx_break">3. Assign a score for consistency based on the Evaluation Criteria.
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.2" class="ltx_p"><span id="A1.p4.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Example:
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.3" class="ltx_p"><span id="A1.p4.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Source Text:
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.4" class="ltx_p"><span id="A1.p4.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">{{Document]}}
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.5" class="ltx_p"><span id="A1.p4.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Summary:
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.6" class="ltx_p"><span id="A1.p4.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">{{Summary}}
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.7" class="ltx_p"><span id="A1.p4.pic1.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">Evaluation Form (scores ONLY):
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.8" class="ltx_p"><span id="A1.p4.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">- Consistency:
+
+<br class="ltx_break">
+<br class="ltx_break"></span></span>
+<span id="A1.p4.pic1.2.9" class="ltx_p"><span id="A1.p4.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">What is the consistency of the summary above? Provide only rating and no other text.</span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,28 @@
+<svg id="A3.SS2.SSS0.Px3.p2.pic1" class="ltx_picture" height="690.28" overflow="visible" version="1.1" viewbox="0 0 550 690.28" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,690.28) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#1E3C78;" fill="#1E3C78" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 684.37 C 0 687.63 2.64 690.28 5.91 690.28 L 544.09 690.28 C 547.36 690.28 550 687.63 550 684.37 L 550 5.91 C 550 2.64 547.36 0 544.09 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F5F7FA;" fill="#F5F7FA" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 668.86 L 548.03 668.86 L 548.03 5.91 C 548.03 3.73 546.27 1.97 544.09 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 674.76)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:0.69em;--ltx-fo-depth:0em;font-size:10pt;" height="9.61" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SS2.SSS0.Px3.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A3.SS2.SSS0.Px3.p2.pic1.1.1" class="ltx_p ltx_align_center"><span id="A3.SS2.SSS0.Px3.p2.pic1.1.1.1" class="ltx_text ltx_font_bold ltx_font_smallcaps" style="--ltx-fg-color:#FFFFFF;">Dimensions of the Likert Scale</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.47)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:46.29em;--ltx-fo-depth:0.19em;font-size:10pt;" height="643.27" overflow="visible" transform="matrix(1 0 0 -1 0 640.58)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SS2.SSS0.Px3.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A3.SS2.SSS0.Px3.p2.pic1.2.1" class="ltx_p"><span id="A3.SS2.SSS0.Px3.p2.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Criteria
+<br class="ltx_break"><span id="A3.SS2.SSS0.Px3.p2.pic1.2.1.1.1" class="ltx_text ltx_font_medium">1. Functional Correctness and Completeness
+<br class="ltx_break">- 1.1 **Core Functionality**: Evaluates if the primary features and requirements specified in the user query are implemented correctly and function as expected.
+<br class="ltx_break">- 1.2 **Content Accuracy and Completeness**: Assesses if all the required content (text, images, links, etc.) is present, accurate, and correctly placed as per the user’s query.
+<br class="ltx_break">- 1.3 **Boundary Conditions and Corner Cases**: Examines the solution’s behavior with unexpected or extreme user inputs.
+<br class="ltx_break">- 1.4 **Error Handling**: Evaluates the system’s ability to handle errors gracefully. This includes providing clear, user-friendly error messages and preventing application crashes due to invalid operations.
+<br class="ltx_break"></span></span></span>
+<span id="A3.SS2.SSS0.Px3.p2.pic1.2.2" class="ltx_p"><span id="A3.SS2.SSS0.Px3.p2.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. User Interface Quality
+<br class="ltx_break">- 2.1 **Visual Consistency and Cohesion**: Assesses the consistency of design elements such as color schemes, typography, spacing, and component styling throughout the webpage.
+<br class="ltx_break">- 2.2 **Layout, Structure, and Responsiveness**: Evaluates the overall layout and structural organization of the content. This also critically assesses the responsiveness of the design across different screen sizes (desktop, tablet, mobile).
+<br class="ltx_break">- 2.3 **Aesthetic Appeal**: Assesses the overall visual appeal of the webpage. This includes the effective use of color, typography, imagery, and whitespace to create an engaging and modern user interface.
+<br class="ltx_break"></span></span>
+<span id="A3.SS2.SSS0.Px3.p2.pic1.2.3" class="ltx_p"><span id="A3.SS2.SSS0.Px3.p2.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">3. Code Quality
+<br class="ltx_break">- 3.1 **Readability and Maintainability**: Assesses the clarity and organization of the code. This includes proper indentation, meaningful variable names, comments where necessary, and a logical file structure.
+<br class="ltx_break">- 3.2 **Modularity and Reusability**: Evaluates whether the code is broken down into logical, reusable components or functions, avoiding monolithic structures and code duplication.
+<br class="ltx_break">- 3.3 **Scalability and Efficiency**: Assesses the efficiency of the code, as well as the ability to scale the codebase for future enhancements or new features.
+<br class="ltx_break"></span></span>
+<span id="A3.SS2.SSS0.Px3.p2.pic1.2.4" class="ltx_p"><span id="A3.SS2.SSS0.Px3.p2.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">4. Interactivity:
+<br class="ltx_break">- 4.1 **Effectiveness**: Assesses the functionality and user experience of interactive elements like buttons, forms, menus, and sliders. This includes visual feedback on user actions (e.g., hover states, loading indicators).
+<br class="ltx_break">- 4.2 **Logical Correctness**: Evaluates whether the application state changes correctly in response to user interactions.
+<br class="ltx_break">- 4.3 **Accessibility**: Evaluates how easy and intuitive it is for a user to navigate the webpage and interact with its elements to achieve their goals.
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>

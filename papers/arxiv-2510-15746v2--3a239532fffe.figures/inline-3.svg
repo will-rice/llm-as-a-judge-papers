@@ -1,0 +1,28 @@
+<svg id="A8.p3.pic1" class="ltx_picture" height="277.78" overflow="visible" version="1.1" viewbox="0 0 477.38 277.78" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,277.78) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#006060;" fill="#006060" fill-opacity="1.0"><path style="stroke:none" d="M 0 9.84 L 0 267.94 C 0 273.37 4.41 277.78 9.84 277.78 L 467.53 277.78 C 472.97 277.78 477.38 273.37 477.38 267.94 L 477.38 9.84 C 477.38 4.41 472.97 0 467.53 0 L 9.84 0 C 4.41 0 0 4.41 0 9.84 Z" /></g><g style="--ltx-fill-color:#F2F9F9;" fill="#F2F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 9.84 L 1.97 239.76 L 475.41 239.76 L 475.41 9.84 C 475.41 5.49 471.88 1.97 467.53 1.97 L 9.84 1.97 C 5.49 1.97 1.97 5.49 1.97 9.84 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.78 245.66)"><foreignobject style="--ltx-fo-width:28.27em;--ltx-fo-height:1.89em;--ltx-fo-depth:0em;font-size:10pt;" height="26.21" overflow="visible" transform="matrix(1 0 0 -1 0 26.21)" width="391.18"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A8.p3.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:28.27em;">
+<span id="A8.p3.pic1.1.1" class="ltx_p"><span id="A8.p3.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Comprehensive Evaluation of LLM Capabilities Problem Generation Named GenOverall</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.78 107.79)"><foreignobject style="--ltx-fo-width:32.51em;--ltx-fo-height:8.68em;--ltx-fo-depth:6.79em;font-size:10pt;" height="214.17" overflow="visible" transform="matrix(1 0 0 -1 0 120.15)" width="449.85"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A8.p3.pic1.2" class="ltx_inline-logical-block ltx_minipage ltx_align_bottom" style="width:32.51em;">
+<span id="A8.p3.pic1.p2" class="ltx_para">
+<span id="A8.p3.pic1.p2.1" class="ltx_p"><span id="A8.p3.pic1.p2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please generate <span id="A8.p3.pic1.p2.1.1.1" class="ltx_text ltx_font_bold">50 evaluation questions</span> designed to comprehensively assess the capabilities of large language models (LLMs). The questions should span a wide range of skills and reasoning dimensions.</span></span>
+</span>
+<span id="A8.p3.pic1.p1" class="ltx_para ltx_noindent">
+<span id="A8.p3.pic1.p1.1" class="ltx_p"><span id="A8.p3.pic1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Requirements:</span></span>
+</span>
+<span id="A8.p3.pic1.p3" class="ltx_para">
+<span id="A8.I5" class="ltx_enumerate">
+<span id="A8.I5.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A8.I5.i1.p1" class="ltx_para">
+<span id="A8.I5.i1.p1.1" class="ltx_p"><span id="A8.I5.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Output format should be a JSON array in the following structure:</span></span>
+</span>
+<span id="A8.I5.i1.p2" class="ltx_para"><pre id="A8.I5.i1.p2.1" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">[
+      {&quot;id&quot;: id, &quot;question&quot;: question}
+    ]
+    
+</pre>
+</span></span>
+<span id="A8.I5.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A8.I5.i2.p1" class="ltx_para">
+<span id="A8.I5.i2.p1.1" class="ltx_p"><span id="A8.I5.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">All questions should be written in </span><span id="A8.I5.i2.p1.1.2" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">English</span><span id="A8.I5.i2.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;">, using clear, precise, and instruction-oriented language.</span></span>
+</span></span>
+</span>
+</span></span></span></span></foreignobject></g></g></svg>
