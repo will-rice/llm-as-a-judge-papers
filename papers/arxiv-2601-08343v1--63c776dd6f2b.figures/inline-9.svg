@@ -1,0 +1,42 @@
+<svg id="A3.F15.pic1" class="ltx_picture ltx_centering" height="767.76" overflow="visible" version="1.1" viewbox="0 0 653.15 767.76" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,767.76) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 761.86 C 0 765.12 2.64 767.76 5.91 767.76 L 647.24 767.76 C 650.51 767.76 653.15 765.12 653.15 761.86 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 761.86 C 1.97 764.03 3.73 765.79 5.91 765.79 L 647.24 765.79 C 649.42 765.79 651.18 764.03 651.18 761.86 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 13.78)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:53.5em;--ltx-fo-depth:0em;font-size:10pt;" height="740.21" overflow="visible" transform="matrix(1 0 0 -1 0 740.21)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.F15.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A3.F15.pic1.1.1" class="ltx_p"><span id="A3.F15.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Exemples<span id="A3.F15.pic1.1.1.1.1" class="ltx_text ltx_font_medium"> 
+<br class="ltx_break">Question:
+<br class="ltx_break">John invited 20 people to a birthday party. Each guest will eat 2 hot dogs. He already has 4 hot dogs left over from a previous party. If a pack of hot dogs contains 6 hot dogs and costs $2, how much does he need to spend on hot dogs?
+<br class="ltx_break">Candidate Agent Answers:
+<br class="ltx_break">Agent 1:
+<br class="ltx_break">Let’s think step by step
+<br class="ltx_break">John invited 20 people to his birthday party, and each guest will eat 2 hot dogs.
+So, the total number of hot dogs needed is 20 people * 2 hot dogs/person = 40 hot dogs.
+<br class="ltx_break">John already has 4 hot dogs left over from a previous party, so he needs 40 hot dogs - 4 hot dogs = 36 hot dogs.
+<br class="ltx_break">Since a pack of hot dogs contains 6 hot dogs, John needs 36 hot dogs / 6 hot dogs/pack = 6 packs of hot dogs.
+<br class="ltx_break">Since each pack of hot dogs costs $2, John needs to spend 6 packs * $2/pack = $12 on hot dogs.
+<br class="ltx_break">The answer is 12
+<br class="ltx_break">Agent 3:
+<br class="ltx_break">Let’s think step by step.
+<br class="ltx_break">First, we need to determine how many hot dogs John will need for the party. 
+<br class="ltx_break">He invited 20 people, and each guest will eat 2 hot dogs, so 20 x 2 = 40 hot dogs.
+<br class="ltx_break">He already has 4 hot dogs left over, so he needs 40 + 4 = 44 hot dogs.
+<br class="ltx_break">Since a pack of hot dogs contains 6 hot dogs, we need to divide 44 by 6 to find out how many packs John needs to buy. 
+<br class="ltx_break">44 / 6 = 7.33, so John will need to buy 8 packs of hot dogs (since you can’t buy a fraction of a pack).
+<br class="ltx_break">Each pack costs $2, so 8 packs will cost 8 x 2 = $16.
+The answer is 16
+<br class="ltx_break">Agent 2:
+<br class="ltx_break">Let’s think step by step.
+<br class="ltx_break">First, we need to determine how many hot dogs John will need for the party.
+<br class="ltx_break">He invited 20 people, and each guest will eat 2 hot dogs, so 20 x 2 = 40 hot dogs.
+<br class="ltx_break">John already has 4 hot dogs left over, so he needs 40 + 4 = 44 hot dogs.
+<br class="ltx_break">Since a pack of hot dogs contains 6 hot dogs, we need to divide 44 by 6 to find out how many packs John needs to buy.
+<br class="ltx_break">44 / 6 = 7.33, so John will need to buy 8 packs of hot dogs (since you can’t buy a fraction of a pack).
+<br class="ltx_break">Each pack costs $2, so 8 x $2 = $16.
+<br class="ltx_break">The answer is 16
+<br class="ltx_break">Agent 4:
+<br class="ltx_break">Let’s think step by step.
+<br class="ltx_break">First, we need to determine the total number of hot dogs needed for the party. 
+<br class="ltx_break">There are 20 guests, and each guest will eat 2 hot dogs, so 20 x 2 = 40 hot dogs are needed.
+<br class="ltx_break">John already has 4 hot dogs left over, so he needs 40 - 4 = 36 hot dogs.
+<br class="ltx_break">Since a pack of hot dogs contains 6 hot dogs, John will need to buy 36 / 6 = 6 packs of hot dogs.
+<br class="ltx_break">Each pack of hot dogs costs $2, so John will need to spend 6 x 2 = $12 on hot dogs.
+<br class="ltx_break">The answer is 12
+<br class="ltx_break"></span></span></span>
+</span></span></span></foreignobject></g></g></svg>

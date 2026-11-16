@@ -1,0 +1,97 @@
+<svg id="A3.F6.p1.pic1" class="ltx_picture" height="1231.55" overflow="visible" version="1.1" viewbox="0 0 453.51 1231.55" width="453.51"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1231.55) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 1225.64 C 0 1228.9 2.64 1231.55 5.91 1231.55 L 447.6 1231.55 C 450.86 1231.55 453.51 1228.9 453.51 1225.64 L 453.51 5.91 C 453.51 2.64 450.86 0 447.6 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 1207.01 L 451.54 1207.01 L 451.54 5.91 C 451.54 3.73 449.78 1.97 447.6 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 1208.98 L 1.97 1225.64 C 1.97 1227.81 3.73 1229.58 5.91 1229.58 L 447.6 1229.58 C 449.78 1229.58 451.54 1227.81 451.54 1225.64 L 451.54 1208.98 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.87 1215.82)"><foreignobject style="--ltx-fo-width:25.75em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="356.31"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.F6.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:25.75em;">
+<span id="A3.F6.p1.pic1.1.1" class="ltx_p"><span id="A3.F6.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Prompt for Named Entity Recognition</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.87 597.57)"><foreignobject style="--ltx-fo-width:29.93em;--ltx-fo-height:43.18em;--ltx-fo-depth:42.18em;font-size:10pt;" class="ltx_minipage" height="1181" overflow="visible" transform="matrix(1 0 0 -1 0 597.42)" width="29.61em"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<table id="A3.F6.p1.pic1.2" class="ltx_tabular ltx_align_middle">
+<tr id="A3.F6.p1.pic1.2.1" class="ltx_tr">
+<td id="A3.F6.p1.pic1.2.1.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_tt">
+<span id="A3.F6.p1.pic1.2.1.1.1" class="ltx_inline-block ltx_align_top" style="width:287.3pt;">
+<span id="A3.F6.p1.pic1.2.1.1.1.1" class="ltx_p"><span id="A3.F6.p1.pic1.2.1.1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Role Definition (System Prompt):</span></span>
+</span></td></tr>
+<tr id="A3.F6.p1.pic1.2.2" class="ltx_tr">
+<td id="A3.F6.p1.pic1.2.2.1" class="ltx_td ltx_align_left ltx_align_top">
+<span id="A3.F6.p1.pic1.2.2.1.1" class="ltx_inline-block ltx_align_top" style="width:287.3pt;">
+<span id="A3.F6.p1.pic1.2.2.1.1.1" class="ltx_p"><span id="A3.F6.p1.pic1.2.2.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are an information extraction model that assigns exactly ONE SpaCy NER type to the given original answer.
+Return ONLY the label token. No extra text.</span></span>
+</span></td></tr>
+<tr id="A3.F6.p1.pic1.2.3" class="ltx_tr">
+<td id="A3.F6.p1.pic1.2.3.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_t">
+<span id="A3.F6.p1.pic1.2.3.1.1" class="ltx_inline-block ltx_align_top" style="width:287.3pt;">
+<span id="A3.F6.p1.pic1.2.3.1.1.1" class="ltx_p"><span id="A3.F6.p1.pic1.2.3.1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">User Prompt:</span></span>
+</span></td></tr>
+<tr id="A3.F6.p1.pic1.2.4" class="ltx_tr">
+<td id="A3.F6.p1.pic1.2.4.1" class="ltx_td ltx_align_left ltx_align_top ltx_border_bb">
+<span id="A3.F6.p1.pic1.2.4.1.1" class="ltx_inline-block ltx_align_top" style="width:287.3pt;">
+<span id="A3.F6.p1.pic1.2.4.1.1.1" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">## SpaCy NER labels &amp; definitions</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.2" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">PERSON: People, including fictional.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.3" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">NORP: Nationalities or religious or political groups.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.4" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">FAC: Buildings, airports, highways, bridges, etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.5" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">ORG: Companies, agencies, institutions, etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.6" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">GPE: Countries, cities, states.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.7" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">LOC: Non-GPE locations, mountain ranges, bodies of water.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.8" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">PRODUCT: Objects, vehicles, foods, devices (not services).</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.9" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">EVENT: Named hurricanes, battles, wars, sports events, festivals, etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.10" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">WORK_OF_ART: Titles of books, movies, songs, paintings, etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.11" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">LAW: Named documents made into laws.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.12" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">LANGUAGE: Any named language.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.13" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">DATE: Absolute or relative dates or periods.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.14" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">TIME: Times smaller than a day.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.15" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">PERCENT: Percentage, including “</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.16" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">MONEY: Monetary values, including unit.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.17" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">QUANTITY: Measurements of size/weight/distance/volume/speed/etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.18" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">ORDINAL: “first”, “second”, “23rd”, etc.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.19" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.19.1" class="ltx_text" style="--ltx-fg-color:#000000;">CARDINAL: Numerals that do not fall under another type.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.20" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">## Rules</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.21" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.21.1" class="ltx_text" style="--ltx-fg-color:#000000;">1) Classify the answer string AS WRITTEN (no external lookup).</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.22" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.22.1" class="ltx_text" style="--ltx-fg-color:#000000;">2) If multiple entities appear, label by the main head of the answer.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.23" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.23.1" class="ltx_text" style="--ltx-fg-color:#000000;">3) Numeric answers:
+- With unit → QUANTITY (e.g., 5 km), MONEY (e.g., €10), PERCENT (e.g., 12%), TIME (e.g., 3 hours).
+- Dates/periods → DATE.
+- Ordinals → ORDINAL.
+- Plain counts/integers → CARDINAL.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.24" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.24.1" class="ltx_text" style="--ltx-fg-color:#000000;">4) GPE vs LOC: Countries/cities/states → GPE; geographic features → LOC.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.25" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.25.1" class="ltx_text" style="--ltx-fg-color:#000000;">5) ORG vs PRODUCT: Organizations → ORG; tangible items → PRODUCT.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.26" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.26.1" class="ltx_text" style="--ltx-fg-color:#000000;">6) WORK_OF_ART only for titled creative works.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.27" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.27.1" class="ltx_text" style="--ltx-fg-color:#000000;">7) Output exactly one label from the list above. No explanation.</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.28" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.28.1" class="ltx_text" style="--ltx-fg-color:#000000;">8) If answer do not have an entity just return NAN</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.29" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.29.1" class="ltx_text" style="--ltx-fg-color:#000000;"># Few-shot examples</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.30" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.30.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: Who wrote *Pride and Prejudice?
+Original Answer: Jane Austen
+Label: PERSON</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.31" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.31.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: What is the capital of France?
+Original Answer: Paris
+Label: GPE</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.32" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.32.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: Which company makes the iPhone?
+Original Answer: Apple
+Label: ORG</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.33" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.33.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: What language is primarily spoken in Brazil?
+Original Answer: Portuguese
+Label: LANGUAGE</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.34" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.34.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: When did WW2 end?
+Original Answer: 1945
+Label: DATE</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.35" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.35.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: How long is a marathon?
+Original Answer: 42.195 km
+Label: QUANTITY</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.36" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.36.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: Which event did the Chiefs win in 2024?
+Original Answer: Super Bowl LVIII
+Label: EVENT</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.37" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.37.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: What is “Mona Lisa”?
+Original Answer: Mona Lisa
+Label: WORK_OF_ART</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.38" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.38.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: Where is Mount Everest?
+Original Answer: Himalayas
+Label: LOC</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.39" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.39.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: How much does it cost?
+Original Answer: $20
+Label: MONEY</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.40" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.40.1" class="ltx_text" style="--ltx-fg-color:#000000;">Q: What is John Mayne’s occupation?
+Original Answer: journalist
+Label: NAN</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.41" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.41.1" class="ltx_text" style="--ltx-fg-color:#000000;"># Task</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.42" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.42.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Question: {question}</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.43" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.43.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Original Answer: {answer}</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.44" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.44.1" class="ltx_text" style="--ltx-fg-color:#000000;"># Output</span></span>
+<span id="A3.F6.p1.pic1.2.4.1.1.45" class="ltx_p"><span id="A3.F6.p1.pic1.2.4.1.1.45.1" class="ltx_text" style="--ltx-fg-color:#000000;">Return ONLY the label (one of: PERSON, NORP, FAC, ORG, GPE, LOC, PRODUCT, EVENT, WORK_OF_ART, LAW, LANGUAGE, DATE, TIME, PERCENT, MONEY, QUANTITY, ORDINAL, CARDINAL, None).</span></span>
+</span></td></tr>
+</table></span></span></foreignobject></g></g></svg>
