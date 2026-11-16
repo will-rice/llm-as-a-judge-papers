@@ -1,0 +1,31 @@
+<svg id="A3.SSx9.p1.pic1" class="ltx_picture" height="264.57" overflow="visible" version="1.1" viewbox="0 0 653.15 264.57" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,264.57) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#D2D2D2;" fill="#D2D2D2" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 258.66 C 0 261.93 2.64 264.57 5.91 264.57 L 647.24 264.57 C 650.51 264.57 653.15 261.93 653.15 258.66 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FAFAFA;" fill="#FAFAFA" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 240.46 L 651.18 240.46 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.44 249.06)"><foreignobject style="--ltx-fo-width:39.61em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="548.09"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SSx9.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:39.61em;">
+<span id="A3.SSx9.p1.pic1.1.1" class="ltx_p"><span id="A3.SSx9.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Prompt C.9: Self-Consistency Evaluation Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.44 14.13)"><foreignobject style="--ltx-fo-width:45.55em;--ltx-fo-height:15.67em;--ltx-fo-depth:0.19em;font-size:10pt;" height="219.55" overflow="visible" transform="matrix(1 0 0 -1 0 216.86)" width="630.28"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SSx9.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:45.55em;">
+<span id="A3.SSx9.p1.pic1.2.1" class="ltx_p"><span id="A3.SSx9.p1.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The Chain-of-Thought evaluation prompt is executed independently
+three times with a sampling temperature of <math id="A3.SSx9.p1.pic1.m1" class="ltx_Math" alttext="0.7" display="inline" intent=":literal"><semantics><mn style="--ltx-fg-color:#000000;" mathcolor="#000000">0.7</mn><annotation encoding="application/x-tex">0.7</annotation></semantics></math>.</span></span>
+<span id="A3.SSx9.p1.pic1.2.2" class="ltx_p"><span id="A3.SSx9.p1.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">For each execution, the model:</span></span>
+<span id="A3.I4" class="ltx_enumerate" style="--ltx-enum-leftmargin:1.5em;">
+<span id="A3.I4.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A3.I4.i1.p1" class="ltx_para">
+<span id="A3.I4.i1.p1.1" class="ltx_p"><span id="A3.I4.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">identifies the task requirements;</span></span>
+</span></span>
+<span id="A3.I4.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A3.I4.i2.p1" class="ltx_para">
+<span id="A3.I4.i2.p1.1" class="ltx_p"><span id="A3.I4.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">scores and explains each rubric dimension;</span></span>
+</span></span>
+<span id="A3.I4.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A3.I4.i3.p1" class="ltx_para">
+<span id="A3.I4.i3.p1.1" class="ltx_p"><span id="A3.I4.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">identifies strengths and weaknesses; and</span></span>
+</span></span>
+<span id="A3.I4.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A3.I4.i4.p1" class="ltx_para">
+<span id="A3.I4.i4.p1.1" class="ltx_p"><span id="A3.I4.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">assigns a final overall score.</span></span>
+</span></span>
+</span>
+<span id="A3.SSx9.p1.pic1.2.3" class="ltx_p"><span id="A3.SSx9.p1.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">The final score is determined by majority vote. When all three
+scores differ, the arithmetic mean is used.</span></span>
+<span id="A3.SSx9.p1.pic1.2.4" class="ltx_p"><span id="A3.SSx9.p1.pic1.2.4.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">This strategy is applied only to question answering and
+mathematical reasoning tasks.<span id="A3.SSx9.p1.pic1.2.4.1.1" class="ltx_text"></span></span></span>
+</span></span></span></foreignobject></g></g></svg>
