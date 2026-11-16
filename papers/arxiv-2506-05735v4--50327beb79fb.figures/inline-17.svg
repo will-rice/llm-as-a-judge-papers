@@ -1,0 +1,231 @@
+<svg id="A3.SS1.p1.pic1" class="ltx_picture" height="3659.36" overflow="visible" version="1.1" viewbox="0 0 477.38 3659.36" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,3659.36) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#0000BF;" fill="#0000BF" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 3653.46 C 0 3656.72 2.64 3659.36 5.91 3659.36 L 471.47 3659.36 C 474.73 3659.36 477.38 3656.72 477.38 3653.46 L 477.38 5.91 C 477.38 2.64 474.73 0 471.47 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 3635.25 L 475.41 3635.25 L 475.41 5.91 C 475.41 3.73 473.65 1.97 471.47 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g style="--ltx-fill-color:#0000D9;" fill="#0000D9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 3637.22 L 1.97 3653.46 C 1.97 3655.63 3.73 3657.39 5.91 3657.39 L 471.47 3657.39 C 473.65 3657.39 475.41 3655.63 475.41 3653.46 L 475.41 3637.22 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.78 3643.85)"><foreignobject style="--ltx-fo-width:28.27em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="391.18"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SS1.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:28.27em;">
+<span id="A3.SS1.p1.pic1.1.1" class="ltx_p"><span id="A3.SS1.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">LLM Judge Inference Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.78 16.47)"><foreignobject style="--ltx-fo-width:32.51em;--ltx-fo-height:260.68em;--ltx-fo-depth:0.19em;font-size:10pt;" height="3609.7" overflow="visible" transform="matrix(1 0 0 -1 0 3607.01)" width="449.85"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.SS1.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:32.51em;">
+<span id="A3.SS1.p1.pic1.2.1" class="ltx_p"><span id="A3.SS1.p1.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are a reasoning assistant that evaluates whether a <span id="A3.SS1.p1.pic1.2.1.1.1" class="ltx_text ltx_font_bold">target triple</span> can be logically inferred from a given set of <span id="A3.SS1.p1.pic1.2.1.1.2" class="ltx_text ltx_font_bold">subgraph triples</span>.</span></span>
+<span id="A3.SS1.p1.pic1.2.2" class="ltx_p"><span id="A3.SS1.p1.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Task:<span id="A3.SS1.p1.pic1.2.2.1.1" class="ltx_text"></span></span></span>
+<span id="A3.SS1.p1.pic1.2.3" class="ltx_p"><span id="A3.SS1.p1.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Using only the subgraph triples below, determine whether the target triple can be inferred. Do not use any external knowledge.<span id="A3.SS1.p1.pic1.2.3.1.1" class="ltx_text ltx_font_medium">
+All provided triples must be considered as factual ground truth. Only rely on logical reasoning from the facts.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.4" class="ltx_p"><span id="A3.SS1.p1.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Each edge is annotated with entropy <math id="A3.SS1.p1.pic1.m1" class="ltx_Math" alttext="\in[0,1]" display="inline" intent=":literal"><semantics><mrow><mphantom></mphantom><mo style="--ltx-fg-color:#000000;" mathcolor="#000000">∈</mo><mrow><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">[</mo><mrow><mn style="--ltx-fg-color:#000000;" mathcolor="#000000">0</mn><mo style="--ltx-fg-color:#000000;" mathcolor="#000000">,</mo><mn style="--ltx-fg-color:#000000;" mathcolor="#000000">1</mn></mrow><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">]</mo></mrow></mrow><annotation encoding="application/x-tex">\in[0,1]</annotation></semantics></math>, which quantifies the uncertainty of that triple. Lower entropy means higher confidence in its validity.</span></span>
+<span id="A3.SS1.p1.pic1.2.5" class="ltx_p"><span id="A3.SS1.p1.pic1.2.5.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Entropy Interpretation:<span id="A3.SS1.p1.pic1.2.5.1.1" class="ltx_text"></span></span></span>
+<span id="A3.SS1.p1.pic1.2.6" class="ltx_p"><span id="A3.SS1.p1.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">- 0.00–0.25 → Very Confident
+<br class="ltx_break">- 0.25–0.50 → Confident
+<br class="ltx_break">- 0.50–0.75 → Less Confident
+<br class="ltx_break">- 0.75–1.00 → Not Confident</span></span>
+<span id="A3.SS1.p1.pic1.2.7" class="ltx_p"><span id="A3.SS1.p1.pic1.2.7.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Scoring Rules:<span id="A3.SS1.p1.pic1.2.7.1.1" class="ltx_text"></span></span></span>
+<span id="A3.SS1.p1.pic1.2.8" class="ltx_p"><span id="A3.SS1.p1.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assign a confidence score from <span id="A3.SS1.p1.pic1.2.8.1.1" class="ltx_text ltx_font_bold">0 to 5</span> for the target triple:</span></span>
+<span id="A3.SS1.p1.pic1.2.9" class="ltx_p"><span id="A3.SS1.p1.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">- 0 → No logical path exists; inference is impossible from the given triples.
+<br class="ltx_break">- 1 → Very weak support; entities appear but no relevant path. 
+<br class="ltx_break">- 2 → Some weak logical connection, but with high uncertainty or missing relations. 
+<br class="ltx_break">- 3 → Moderate path exists with reasonable certainty. 
+<br class="ltx_break">- 4 → Confident support; well-formed path with generally low uncertainty. 
+<br class="ltx_break">- 5 → Strong support; direct match or very strong multi-hop support with high confidence.</span></span>
+<span id="A3.SS1.p1.pic1.2.10" class="ltx_p"><span id="A3.SS1.p1.pic1.2.10.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Evaluation Guidelines<span id="A3.SS1.p1.pic1.2.10.1.1" class="ltx_text"></span></span></span>
+<span id="A3.SS1.p1.pic1.2.11" class="ltx_p"><span id="A3.SS1.p1.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">Firstly, you need to classify the direct path and the support path:</span></span>
+<span id="A3.SS1.p1.pic1.2.12" class="ltx_p"><span id="A3.SS1.p1.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. <span id="A3.SS1.p1.pic1.2.12.1.1" class="ltx_text ltx_font_bold">Direct Path</span>: A single triple that directly connects the head entity to the tail entity with a relation that is identical or logically similar(ex. isLocatedIn and hasCapital) to the target relation. The entropy of this triple determines the confidence level of the direct path. If target triple exists in the subgraph, it must be regarded as a direct path.</span></span>
+<span id="A3.SS1.p1.pic1.2.13" class="ltx_p"><span id="A3.SS1.p1.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. <span id="A3.SS1.p1.pic1.2.13.1.1" class="ltx_text ltx_font_bold">Support Path</span>: A multi-hop directed path that connects the head entity to the tail entity through intermediate entities. This path should logically imply the target triple through reasoning. The entropy of all triples in this path collectively determines the confidence level of the support path.</span></span>
+<span id="A3.SS1.p1.pic1.2.14" class="ltx_p"><span id="A3.SS1.p1.pic1.2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">Secondly, when you are evaluating a target triple, please:
+1. Identify all direct paths between the head and tail entities
+<br class="ltx_break">2. Identify all support paths between the head and tail entities
+<br class="ltx_break">3. Record the number of each path type
+<br class="ltx_break">4. Assess the entropy (uncertainty) level of each path
+<br class="ltx_break">5. Assign a score based on the criteria below</span></span>
+<span id="A3.SS1.p1.pic1.2.15" class="ltx_p"><span id="A3.SS1.p1.pic1.2.15.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Criteria:<span id="A3.SS1.p1.pic1.2.15.1.1" class="ltx_text ltx_font_medium"> Scores of 3+ indicate the target triple can be reasonably inferred; scores below 3
+indicate insufficient evidence.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.16" class="ltx_p"><span id="A3.SS1.p1.pic1.2.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">1. <span id="A3.SS1.p1.pic1.2.16.1.1" class="ltx_text ltx_font_bold">Score 5</span></span></span>
+<span id="A3.I1" class="ltx_itemize">
+<span id="A3.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I1.i1.p1" class="ltx_para">
+<span id="A3.I1.i1.p1.1" class="ltx_p"><span id="A3.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Low entropy direct path, OR</span></span>
+</span></span>
+<span id="A3.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I1.i2.p1" class="ltx_para">
+<span id="A3.I1.i2.p1.1" class="ltx_p"><span id="A3.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Moderately low entropy direct path + at least one support path, OR</span></span>
+</span></span>
+<span id="A3.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I1.i3.p1" class="ltx_para">
+<span id="A3.I1.i3.p1.1" class="ltx_p"><span id="A3.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Higher entropy direct path + multiple support paths (more paths needed as entropy increases), OR</span></span>
+</span></span>
+<span id="A3.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I1.i4.p1" class="ltx_para">
+<span id="A3.I1.i4.p1.1" class="ltx_p"><span id="A3.I1.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No direct path but multiple low entropy 2-3 hop paths</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.17" class="ltx_p"><span id="A3.SS1.p1.pic1.2.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. <span id="A3.SS1.p1.pic1.2.17.1.1" class="ltx_text ltx_font_bold">Score 4</span></span></span>
+<span id="A3.I2" class="ltx_itemize">
+<span id="A3.I2.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I2.i1.p1" class="ltx_para">
+<span id="A3.I2.i1.p1.1" class="ltx_p"><span id="A3.I2.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Moderately low entropy direct path without support paths, OR</span></span>
+</span></span>
+<span id="A3.I2.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I2.i2.p1" class="ltx_para">
+<span id="A3.I2.i2.p1.1" class="ltx_p"><span id="A3.I2.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Relatively high entropy direct path + 1-2 support paths, OR</span></span>
+</span></span>
+<span id="A3.I2.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I2.i3.p1" class="ltx_para">
+<span id="A3.I2.i3.p1.1" class="ltx_p"><span id="A3.I2.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">High entropy direct path + numerous support paths, OR</span></span>
+</span></span>
+<span id="A3.I2.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I2.i4.p1" class="ltx_para">
+<span id="A3.I2.i4.p1.1" class="ltx_p"><span id="A3.I2.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No direct path but moderately low entropy 2-3 hop paths</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.18" class="ltx_p"><span id="A3.SS1.p1.pic1.2.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">3. <span id="A3.SS1.p1.pic1.2.18.1.1" class="ltx_text ltx_font_bold">Score 3</span></span></span>
+<span id="A3.I3" class="ltx_itemize">
+<span id="A3.I3.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I3.i1.p1" class="ltx_para">
+<span id="A3.I3.i1.p1.1" class="ltx_p"><span id="A3.I3.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">High entropy direct path, OR</span></span>
+</span></span>
+<span id="A3.I3.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I3.i2.p1" class="ltx_para">
+<span id="A3.I3.i2.p1.1" class="ltx_p"><span id="A3.I3.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">1-3 high entropy support paths</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.19" class="ltx_p"><span id="A3.SS1.p1.pic1.2.19.1" class="ltx_text" style="--ltx-fg-color:#000000;">4. <span id="A3.SS1.p1.pic1.2.19.1.1" class="ltx_text ltx_font_bold">Score 2</span></span></span>
+<span id="A3.I4" class="ltx_itemize">
+<span id="A3.I4.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I4.i1.p1" class="ltx_para">
+<span id="A3.I4.i1.p1.1" class="ltx_p"><span id="A3.I4.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No direct path</span></span>
+</span></span>
+<span id="A3.I4.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I4.i2.p1" class="ltx_para">
+<span id="A3.I4.i2.p1.1" class="ltx_p"><span id="A3.I4.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Multiple high entropy support paths, none completely correct</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.20" class="ltx_p"><span id="A3.SS1.p1.pic1.2.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">5. <span id="A3.SS1.p1.pic1.2.20.1.1" class="ltx_text ltx_font_bold">Score 1</span></span></span>
+<span id="A3.I5" class="ltx_itemize">
+<span id="A3.I5.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I5.i1.p1" class="ltx_para">
+<span id="A3.I5.i1.p1.1" class="ltx_p"><span id="A3.I5.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No direct path</span></span>
+</span></span>
+<span id="A3.I5.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I5.i2.p1" class="ltx_para">
+<span id="A3.I5.i2.p1.1" class="ltx_p"><span id="A3.I5.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Very few support paths with errors, OR</span></span>
+</span></span>
+<span id="A3.I5.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I5.i3.p1" class="ltx_para">
+<span id="A3.I5.i3.p1.1" class="ltx_p"><span id="A3.I5.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Only 1-2 high entropy support paths with errors</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.21" class="ltx_p"><span id="A3.SS1.p1.pic1.2.21.1" class="ltx_text" style="--ltx-fg-color:#000000;">6. <span id="A3.SS1.p1.pic1.2.21.1.1" class="ltx_text ltx_font_bold">Score 0</span></span></span>
+<span id="A3.I6" class="ltx_itemize">
+<span id="A3.I6.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I6.i1.p1" class="ltx_para">
+<span id="A3.I6.i1.p1.1" class="ltx_p"><span id="A3.I6.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No direct path</span></span>
+</span></span>
+<span id="A3.I6.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I6.i2.p1" class="ltx_para">
+<span id="A3.I6.i2.p1.1" class="ltx_p"><span id="A3.I6.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Irrelevant or unrelated paths</span></span>
+</span></span>
+<span id="A3.I6.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A3.I6.i3.p1" class="ltx_para">
+<span id="A3.I6.i3.p1.1" class="ltx_p"><span id="A3.I6.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">No logical connection to target triple</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.22" class="ltx_p"><span id="A3.SS1.p1.pic1.2.22.1" class="ltx_text" style="--ltx-fg-color:#000000;">For each evaluation, please provide:</span></span>
+<span id="A3.I7" class="ltx_enumerate">
+<span id="A3.I7.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A3.I7.i1.p1" class="ltx_para">
+<span id="A3.I7.i1.p1.1" class="ltx_p"><span id="A3.I7.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyze direct paths (It is very important to confirm whether a direct path exists, because an incorrect judgment will lead to a significant difference in the assigned score).</span></span>
+</span></span>
+<span id="A3.I7.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A3.I7.i2.p1" class="ltx_para">
+<span id="A3.I7.i2.p1.1" class="ltx_p"><span id="A3.I7.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Analyze support paths</span></span>
+</span></span>
+<span id="A3.I7.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A3.I7.i3.p1" class="ltx_para">
+<span id="A3.I7.i3.p1.1" class="ltx_p"><span id="A3.I7.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Your reasoning for the assigned score</span></span>
+</span></span>
+<span id="A3.I7.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A3.I7.i4.p1" class="ltx_para">
+<span id="A3.I7.i4.p1.1" class="ltx_p"><span id="A3.I7.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">The final score (0-5)</span></span>
+</span></span>
+</span>
+<span id="A3.SS1.p1.pic1.2.23" class="ltx_p"><span id="A3.SS1.p1.pic1.2.23.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Examples:<span id="A3.SS1.p1.pic1.2.23.1.1" class="ltx_text"></span></span></span>
+<span id="A3.SS1.p1.pic1.2.24" class="ltx_p"><span id="A3.SS1.p1.pic1.2.24.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 5:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.24.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.24.1.1.1" class="ltx_text ltx_font_upright">(Rome, capital_of, Italy) with entropy 0.08
+<br class="ltx_break">(Italy, located_in, Europe) with entropy 0.12</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.25" class="ltx_p"><span id="A3.SS1.p1.pic1.2.25.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.25.1.1" class="ltx_text ltx_font_upright">(Rome, located_in, Europe)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.26" class="ltx_p"><span id="A3.SS1.p1.pic1.2.26.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.26.1.1" class="ltx_text ltx_font_upright">(Rome, capital_of, Italy) and (Italy, located_in, Europe) form a clear inference path
+<br class="ltx_break">Both triples have very low entropy, indicating high confidence
+<br class="ltx_break">The relation &quot;located_in&quot; is logically implied by the combination of &quot;capital_of&quot; and &quot;located_in&quot;
+<br class="ltx_break">This creates a strong transitive relationship between Rome and Europe</span></span></span>
+<span id="A3.SS1.p1.pic1.2.27" class="ltx_p"><span id="A3.SS1.p1.pic1.2.27.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.27.1.1" class="ltx_text ltx_font_upright"> 5</span></span></span>
+<span id="A3.SS1.p1.pic1.2.28" class="ltx_p"><span id="A3.SS1.p1.pic1.2.28.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 4:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.28.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.28.1.1.1" class="ltx_text ltx_font_upright">(Apple, produces, iPhone) with entropy 0.35
+<br class="ltx_break">(iPhone, runs_on, iOS) with entropy 0.15
+<br class="ltx_break">(Apple, develops, iOS) with entropy 0.20</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.29" class="ltx_p"><span id="A3.SS1.p1.pic1.2.29.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.29.1.1" class="ltx_text ltx_font_upright">(Apple, manufactures, iPhone)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.30" class="ltx_p"><span id="A3.SS1.p1.pic1.2.30.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.30.1.1" class="ltx_text ltx_font_upright">(Apple, produces, iPhone) is a direct path with moderately high entropy
+<br class="ltx_break">&quot;produces&quot; and &quot;manufactures&quot; are very similar relations
+<br class="ltx_break">The support path (Apple, develops, iOS) and (iPhone, runs_on, iOS) indirectly reinforces the relationship
+<br class="ltx_break">The combination of a direct path and supporting evidence compensates for the moderate entropy.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.31" class="ltx_p"><span id="A3.SS1.p1.pic1.2.31.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.31.1.1" class="ltx_text ltx_font_upright"> 4</span></span></span>
+<span id="A3.SS1.p1.pic1.2.32" class="ltx_p"><span id="A3.SS1.p1.pic1.2.32.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 3:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.32.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.32.1.1.1" class="ltx_text ltx_font_upright">(Einstein, worked_at, Princeton_University) with entropy 0.55
+<br class="ltx_break">(Princeton_University, located_in, New_Jersey) with entropy 0.30
+<br class="ltx_break">(New_Jersey, part_of, USA) with entropy 0.25</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.33" class="ltx_p"><span id="A3.SS1.p1.pic1.2.33.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.33.1.1" class="ltx_text ltx_font_upright">(Einstein, lived_in, USA)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.34" class="ltx_p"><span id="A3.SS1.p1.pic1.2.34.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.34.1.1" class="ltx_text ltx_font_upright">No direct path exists between Einstein and USA
+<br class="ltx_break">One support path exists: (Einstein, worked_at, Princeton_University) → (Princeton_University, located_in, New_Jersey) → (New_Jersey, part_of, USA)
+<br class="ltx_break">The first triple has high entropy (0.55), creating uncertainty
+<br class="ltx_break">The logical connection is sound (working somewhere typically implies living there)
+<br class="ltx_break">The complete path allows reasonable inference but with moderate uncertainty due to the high entropy in the first connection</span></span></span>
+<span id="A3.SS1.p1.pic1.2.35" class="ltx_p"><span id="A3.SS1.p1.pic1.2.35.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.35.1.1" class="ltx_text ltx_font_upright"> 3</span></span></span>
+<span id="A3.SS1.p1.pic1.2.36" class="ltx_p"><span id="A3.SS1.p1.pic1.2.36.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 2:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.36.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.36.1.1.1" class="ltx_text ltx_font_upright">(Tiger, belongs_to, Felidae) with entropy 0.45
+<br class="ltx_break">(Lion, belongs_to, Felidae) with entropy 0.40
+<br class="ltx_break">(Felidae, is_carnivorous, True) with entropy 0.25</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.37" class="ltx_p"><span id="A3.SS1.p1.pic1.2.37.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.37.1.1" class="ltx_text ltx_font_upright">(Tiger, hunts, Lion)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.38" class="ltx_p"><span id="A3.SS1.p1.pic1.2.38.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.38.1.1" class="ltx_text ltx_font_upright">No direct path between Tiger and Lion
+<br class="ltx_break">Support paths only establish that both animals belong to the same family
+<br class="ltx_break">Being in the same carnivorous family might suggest interaction but doesn’t support hunting specifically
+<br class="ltx_break">The paths have high entropy and none directly supports the target relation.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.39" class="ltx_p"><span id="A3.SS1.p1.pic1.2.39.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.39.1.1" class="ltx_text ltx_font_upright"> 2</span></span></span>
+<span id="A3.SS1.p1.pic1.2.40" class="ltx_p"><span id="A3.SS1.p1.pic1.2.40.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 1:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.40.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.40.1.1.1" class="ltx_text ltx_font_upright">(Sun, larger_than, Earth) with entropy 0.60
+<br class="ltx_break">(Earth, has_satellite, Moon) with entropy 0.30</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.41" class="ltx_p"><span id="A3.SS1.p1.pic1.2.41.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.41.1.1" class="ltx_text ltx_font_upright">(Sun, orbited_by, Moon)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.42" class="ltx_p"><span id="A3.SS1.p1.pic1.2.42.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.42.1.1" class="ltx_text ltx_font_upright">No direct path between Sun and Moon
+<br class="ltx_break">Only one weak support path through Earth with high entropy
+<br class="ltx_break">The path contains a factual error - while the Moon orbits Earth, it doesn’t directly orbit the Sun
+<br class="ltx_break">The relationship is misleading for the inference task.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.43" class="ltx_p"><span id="A3.SS1.p1.pic1.2.43.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.43.1.1" class="ltx_text ltx_font_upright"> 1</span></span></span>
+<span id="A3.SS1.p1.pic1.2.44" class="ltx_p"><span id="A3.SS1.p1.pic1.2.44.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Example for Score 0:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.44.1.1" class="ltx_text ltx_font_medium ltx_font_italic">Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.44.1.1.1" class="ltx_text ltx_font_upright">(Water, contains, Hydrogen) with entropy 0.25
+<br class="ltx_break">(Tree, produces, Oxygen) with entropy 0.40
+<br class="ltx_break">(Fire, consumes, Oxygen) with entropy 0.35</span></span></span></span>
+<span id="A3.SS1.p1.pic1.2.45" class="ltx_p"><span id="A3.SS1.p1.pic1.2.45.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.45.1.1" class="ltx_text ltx_font_upright">(Water, extinguishes, Fire)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.46" class="ltx_p"><span id="A3.SS1.p1.pic1.2.46.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.46.1.1" class="ltx_text ltx_font_upright">No direct path between Water and Fire
+<br class="ltx_break">No logical support paths connecting the entities
+<br class="ltx_break">The existing triples discuss chemical composition but are unrelated to the fire extinguishing property
+<br class="ltx_break">The facts, while individually correct, have no relevance to the inference task.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.47" class="ltx_p"><span id="A3.SS1.p1.pic1.2.47.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">Final Confidence Score:<span id="A3.SS1.p1.pic1.2.47.1.1" class="ltx_text ltx_font_upright"> 0</span></span></span>
+<span id="A3.SS1.p1.pic1.2.48" class="ltx_p"><span id="A3.SS1.p1.pic1.2.48.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Given Subgraph Triples:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.48.1.1" class="ltx_text ltx_font_medium">{facts_str}</span></span></span>
+<span id="A3.SS1.p1.pic1.2.49" class="ltx_p"><span id="A3.SS1.p1.pic1.2.49.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Target Triple:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.49.1.1" class="ltx_text ltx_font_medium">(A, relation, B)</span></span></span>
+<span id="A3.SS1.p1.pic1.2.50" class="ltx_p"><span id="A3.SS1.p1.pic1.2.50.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Your Reasoning:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.50.1.1" class="ltx_text ltx_font_medium">Explain step-by-step how the given facts lead to (or fail to lead to) the target triple.</span></span></span>
+<span id="A3.SS1.p1.pic1.2.51" class="ltx_p"><span id="A3.SS1.p1.pic1.2.51.1" class="ltx_text" style="--ltx-fg-color:#000000;">Then output the score on a new line like:
+<br class="ltx_break"><span id="A3.SS1.p1.pic1.2.51.1.1" class="ltx_text ltx_font_bold">Final Confidence Score:</span> &lt;integer between 0 and 5&gt;</span></span>
+</span></span></span></foreignobject></g></g></svg>

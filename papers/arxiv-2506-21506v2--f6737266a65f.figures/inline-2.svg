@@ -1,0 +1,43 @@
+<svg id="A4.SS2.p5.pic1" class="ltx_picture" height="599.77" overflow="visible" version="1.1" viewbox="0 0 477.38 599.77" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,599.77) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#003B5E;" fill="#003B5E" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 593.87 C 0 597.13 2.64 599.77 5.91 599.77 L 471.47 599.77 C 474.73 599.77 477.38 597.13 477.38 593.87 L 477.38 5.91 C 477.38 2.64 474.73 0 471.47 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#E6F1F8;" fill="#E6F1F8" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 574.12 L 475.41 574.12 L 475.41 5.91 C 475.41 3.73 473.65 1.97 471.47 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 583.49)"><foreignobject style="--ltx-fo-width:31.37em;--ltx-fo-height:0.75em;--ltx-fo-depth:0.25em;font-size:10pt;" height="13.84" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="434.07"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS2.p5.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:31.37em;">
+<span id="A4.SS2.p5.pic1.1.1" class="ltx_p"><span id="A4.SS2.p5.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Prompt for Verifier (Simple Verification)</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.89)"><foreignobject style="--ltx-fo-width:33.91em;--ltx-fo-height:39.42em;--ltx-fo-depth:0.23em;font-size:10pt;" height="548.54" overflow="visible" transform="matrix(1 0 0 -1 0 545.43)" width="469.22"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A4.SS2.p5.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:33.91em;">
+<span id="A4.SS2.p5.pic1.2.1" class="ltx_p"><span id="A4.SS2.p5.pic1.2.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">You are responsible for verifying whether a given claim or simple statement is correct and accurate. Typically, this verification involves straightforward factual judgments or logical checks (e.g., &quot;1+1=2&quot;, or verifying if a given name matches exactly another given name). For context, we are evaluating the correctness of an answer to a web information-gathering task. This verification step helps us determine part of the answer’s accuracy. Your task is to provide a binary judgment (&quot;Correct&quot; or &quot;Incorrect&quot;) along with clear and detailed reasoning supporting your decision.</span></span>
+<span id="A4.SS2.p5.pic1.2.2" class="ltx_p"><span id="A4.SS2.p5.pic1.2.2.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">To assist your judgment, you will receive:</span></span>
+<span id="A4.I1" class="ltx_itemize">
+<span id="A4.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I1.i1.p1" class="ltx_para">
+<span id="A4.I1.i1.p1.1" class="ltx_p"><span id="A4.I1.i1.p1.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">The original task description (as context).</span></span>
+</span></span>
+<span id="A4.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I1.i2.p1" class="ltx_para">
+<span id="A4.I1.i2.p1.1" class="ltx_p"><span id="A4.I1.i2.p1.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">The complete answer to the task (as context).</span></span>
+</span></span>
+<span id="A4.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">•</span> 
+<span id="A4.I1.i3.p1" class="ltx_para">
+<span id="A4.I1.i3.p1.1" class="ltx_p"><span id="A4.I1.i3.p1.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">Additional instructions (occasionally provided to guide your verification).</span></span>
+</span></span>
+</span>
+<span id="A4.SS2.p5.pic1.2.3" class="ltx_p"><span id="A4.SS2.p5.pic1.2.3.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">GENERAL RULES:<span id="A4.SS2.p5.pic1.2.3.1.1" class="ltx_text"></span></span></span>
+<span id="A4.SS2.p5.pic1.2.4" class="ltx_p"><span id="A4.SS2.p5.pic1.2.4.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">1. Carefully examine the provided claim or statement. Use logic, basic factual knowledge, or simple reasoning to determine its accuracy.</span></span>
+<span id="A4.SS2.p5.pic1.2.5" class="ltx_p"><span id="A4.SS2.p5.pic1.2.5.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">2. Clearly understand the provided task description and complete answer, as they offer important context and may influence your decision.</span></span>
+<span id="A4.SS2.p5.pic1.2.6" class="ltx_p"><span id="A4.SS2.p5.pic1.2.6.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">3. Your reasoning must be explicit, concise, and directly support your binary judgment.</span></span>
+<span id="A4.SS2.p5.pic1.2.7" class="ltx_p"><span id="A4.SS2.p5.pic1.2.7.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">4. Carefully follow any additional instructions provided. If none are provided, you may ignore this.</span></span>
+<span id="A4.SS2.p5.pic1.2.8" class="ltx_p"><span id="A4.SS2.p5.pic1.2.8.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">Original Task Description:<span id="A4.SS2.p5.pic1.2.8.1.1" class="ltx_text"></span></span></span>
+<span id="A4.SS2.p5.pic1.2.9" class="ltx_quote">
+<span id="A4.SS2.p5.pic1.2.9.1" class="ltx_p"><span id="A4.SS2.p5.pic1.2.9.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">{task_description}</span></span>
+</span>
+<span id="A4.SS2.p5.pic1.2.10" class="ltx_p"><span id="A4.SS2.p5.pic1.2.10.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">Complete Answer to the Task:<span id="A4.SS2.p5.pic1.2.10.1.1" class="ltx_text"></span></span></span>
+<span id="A4.SS2.p5.pic1.2.11" class="ltx_quote">
+<span id="A4.SS2.p5.pic1.2.11.1" class="ltx_p"><span id="A4.SS2.p5.pic1.2.11.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">{answer}</span></span>
+</span>
+<span id="A4.SS2.p5.pic1.2.12" class="ltx_p"><span id="A4.SS2.p5.pic1.2.12.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">Additional Instructions (if any):<span id="A4.SS2.p5.pic1.2.12.1.1" class="ltx_text"></span></span></span>
+<span id="A4.SS2.p5.pic1.2.13" class="ltx_quote">
+<span id="A4.SS2.p5.pic1.2.13.1" class="ltx_p"><span id="A4.SS2.p5.pic1.2.13.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">{additional_instruction}</span></span>
+</span>
+<span id="A4.SS2.p5.pic1.2.14" class="ltx_p"><span id="A4.SS2.p5.pic1.2.14.1" class="ltx_text ltx_font_bold" style="font-size:90%;--ltx-fg-color:#000000;">Claim or Statement to Verify:<span id="A4.SS2.p5.pic1.2.14.1.1" class="ltx_text"></span></span></span>
+<span id="A4.SS2.p5.pic1.2.15" class="ltx_quote">
+<span id="A4.SS2.p5.pic1.2.15.1" class="ltx_p"><span id="A4.SS2.p5.pic1.2.15.1.1" class="ltx_text" style="font-size:90%;--ltx-fg-color:#000000;">{claim}</span></span>
+</span>
+</span></span></span></foreignobject></g></g></svg>
