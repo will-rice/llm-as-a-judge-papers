@@ -2,6 +2,9 @@
 
 Standalone paper discovery and conversion for LLM-as-a-judge research papers.
 
+Browse the collection on alphaXiv:
+https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
+
 <!-- papers-index:start -->
 
 # Papers
