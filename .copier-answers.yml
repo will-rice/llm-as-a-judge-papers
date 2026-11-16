@@ -1,0 +1,6 @@
+_commit: v0.8.0
+_src_path: https://github.com/will-rice/papers-template.git
+project_name: LLM as a Judge Papers
+project_slug: llm-as-a-judge-papers
+template_version: 0.1.0
+topic_description: LLM-as-a-judge research papers

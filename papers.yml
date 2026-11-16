@@ -1,0 +1,55 @@
+repository:
+  name: "LLM as a Judge Papers"
+  slug: "llm-as-a-judge-papers"
+  description: "LLM-as-a-judge research papers"
+adapters:
+  - name: arxiv
+    enabled: true
+    secret_env: null
+    lookback_days: 8
+    # G-Eval and GPTScore (early 2023) open the field; 2022 catches precursors.
+    backfill_start: 2022-01-01
+    # 2026 has about 230 matching papers a month; 90-day windows stay under
+    # max_results.
+    backfill_days: 90
+    page_size: 200
+    max_pages: 10
+    max_results: 2000
+    filters:
+      # Restricted to computer science. topic_plugin.py decides relevance;
+      # every core paper in docs/research/core-papers.md is matched by it.
+      search_query: '(ti:"LLM-as-a-judge" OR abs:"LLM-as-a-judge" OR ti:"LLM as a judge" OR abs:"LLM as a judge" OR ti:"LLMs-as-judges" OR abs:"LLMs-as-judges" OR ti:"LLM-as-judge" OR abs:"LLM-as-judge" OR ti:"LLM judge" OR abs:"LLM judge" OR ti:"LLM judges" OR abs:"LLM judges" OR ti:"LLM evaluator" OR abs:"LLM evaluator" OR ti:"LLM evaluators" OR abs:"LLM evaluators" OR ti:"LLM-based evaluator" OR abs:"LLM-based evaluator" OR ti:"judge model" OR abs:"judge model" OR ti:"generative judge" OR abs:"generative judge" OR ti:"self-preference bias" OR abs:"self-preference bias" OR ti:"verbosity bias" OR abs:"verbosity bias" OR ti:"language-model-as-an-examiner" OR abs:"language-model-as-an-examiner" OR ti:"agent-as-a-judge" OR abs:"agent-as-a-judge" OR ti:"alternative to human evaluation" OR abs:"alternative to human evaluation" OR ti:"human-LLM agreement" OR abs:"human-LLM agreement" OR ti:"G-Eval" OR abs:"G-Eval" OR ti:"GPTScore" OR abs:"GPTScore" OR ti:"PandaLM" OR abs:"PandaLM" OR ti:"JudgeLM" OR abs:"JudgeLM" OR ti:"ChatEval" OR abs:"ChatEval" OR ti:"MT-Bench" OR abs:"MT-Bench" OR ti:"AlpacaEval" OR abs:"AlpacaEval" OR ti:"JudgeBench" OR abs:"JudgeBench" OR ti:"LLMBar" OR abs:"LLMBar" OR ti:"Prometheus" OR abs:"Prometheus" OR ti:"InstructScore" OR abs:"InstructScore" OR ti:"CritiqueLLM" OR abs:"CritiqueLLM" OR ti:"LLM-Eval" OR abs:"LLM-Eval" OR ti:"SocREval" OR abs:"SocREval" OR ti:"CodeJudge" OR abs:"CodeJudge" OR ti:"fair evaluators" OR abs:"fair evaluators") AND cat:cs.*'
+  - name: huggingface
+    enabled: true
+    secret_env: null
+    lookback_days: 8
+    backfill_start: 2023-05-04
+    backfill_days: 365
+    page_size: 100
+    max_pages: 100
+    max_results: 2000
+    filters: {}
+topic:
+  include_any: []
+  include_all: []
+  exclude_any: []
+  categories: []
+  plugin: "topic_plugin:accept_topic"
+fetch:
+  request_timeout_seconds: 30
+  retries: 3
+  backoff_seconds: 1
+  total_deadline_seconds: 900
+conversion:
+  max_batches_per_run: 20
+  max_papers: 20
+  max_cost: 1000
+  timeout_seconds: 1800
+  html_cost: 2
+  latex_cost: 4
+  pdf_cost: 20
+  deadline_seconds: 10800
+concurrency:
+  html: 4
+  latex: 2
+  pdf: 1
