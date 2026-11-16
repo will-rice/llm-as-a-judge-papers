@@ -1,0 +1,72 @@
+<svg id="A2.SS1.SSS2.p1.pic1" class="ltx_picture" height="741.63" overflow="visible" version="1.1" viewbox="0 0 477.38 741.63" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,741.63) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 735.72 C 0 738.98 2.64 741.63 5.91 741.63 L 471.47 741.63 C 474.73 741.63 477.38 738.98 477.38 735.72 L 477.38 5.91 C 477.38 2.64 474.73 0 471.47 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 720.21 L 475.41 720.21 L 475.41 5.91 C 475.41 3.73 473.65 1.97 471.47 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 726.11)"><foreignobject style="--ltx-fo-width:31.37em;--ltx-fo-height:0.69em;--ltx-fo-depth:0em;font-size:10pt;" height="9.61" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="434.07"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.SS1.SSS2.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:31.37em;">
+<span id="A2.SS1.SSS2.p1.pic1.1.1" class="ltx_p"><span id="A2.SS1.SSS2.p1.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Schema for Data Sources</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 17.24)"><foreignobject style="--ltx-fo-width:31.37em;--ltx-fo-height:49.95em;--ltx-fo-depth:0.25em;font-size:10pt;" class="ltx_minipage" height="694.63" overflow="visible" transform="matrix(1 0 0 -1 0 691.17)" width="29.88em"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><pre id="A2.SS1.SSS2.p1.pic1.2" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">{
+  &quot;name&quot;: &quot;sources&quot;,
+  &quot;schema&quot;: {
+    &quot;type&quot;: &quot;object&quot;,
+    &quot;properties&quot;: {
+      &quot;sources&quot;: {
+        &quot;type&quot;: &quot;array&quot;,
+        &quot;description&quot;: &quot;List of data source entries, each with one modality and a
+        multi-label origin classification.&quot;,
+        &quot;items&quot;: {
+          &quot;type&quot;: &quot;object&quot;,
+          &quot;properties&quot;: {
+            &quot;Modality&quot;: {
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;description&quot;: &quot;The single data modality present (e.g., ’text’, ’image’,
+              ’audio’, ’video’, etc.) based on the enum.&quot;,
+              &quot;enum&quot;: [&quot;text&quot;, &quot;image&quot;, &quot;audio&quot;, &quot;video&quot;, &quot;graph&quot;, &quot;tabular&quot;,
+              &quot;time series&quot;, &quot;signal/sensor&quot;, &quot;other&quot;]
+            },
+            &quot;Human Generated&quot;: {
+              &quot;type&quot;: &quot;boolean&quot;,
+              &quot;description&quot;: &quot;Set to true if the data (for the specified modality)
+              originates from or is captured with human involvement — including
+              manual creation, human recording, or data collected through human-operated
+              tools such as cameras or sensors.&quot;
+            },
+            &quot;Model Generated&quot;: {
+              &quot;type&quot;: &quot;boolean&quot;,
+              &quot;description&quot;: &quot;Set to true if the data (for the specified modality)
+              is generated or simulated by any algorithmic system — including
+              AI models, procedural generators, simulations, or other automated
+              programmatic methods without direct human authorship.&quot;
+            },
+            &quot;Unknown Origin&quot;: {
+              &quot;type&quot;: &quot;boolean&quot;,
+              &quot;description&quot;: &quot;Set to true if the specified data with the modality
+              mentioned is not specified, not reported, or derived from web-crawl data
+              with unclear provenance.&quot;
+            },
+            &quot;Reference&quot;: {
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;description&quot;: &quot;The location in the paper confirming the previous
+              information provided (e.g., ’Section 1.1’).&quot;
+            },
+            &quot;Reasoning&quot;: {
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;description&quot;: &quot;A justification based on the paper content explaining
+              why the dataset is of modality mentioned, along with the reasoning of
+              its origins.&quot;
+            }
+          },
+          &quot;required&quot;: [
+            &quot;Modality&quot;,
+            &quot;Human Generated&quot;,
+            &quot;Model Generated&quot;,
+            &quot;Unknown Origin&quot;,
+            &quot;Reference&quot;,
+            &quot;Reasoning&quot;
+          ],
+          &quot;additionalProperties&quot;: false
+        }
+      }
+    },
+    &quot;required&quot;: [&quot;sources&quot;],
+    &quot;additionalProperties&quot;: false
+  },
+  &quot;strict&quot;: true
+}
+</pre></span></span></foreignobject></g></g></svg>
