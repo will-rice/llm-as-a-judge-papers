@@ -1,0 +1,25 @@
+<svg id="A1.F10.pic1" class="ltx_picture ltx_centering" height="279.48" overflow="visible" version="1.1" viewbox="0 0 653.15 279.48" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,279.48) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 273.58 C 0 276.84 2.64 279.48 5.91 279.48 L 647.24 279.48 C 650.51 279.48 653.15 276.84 653.15 273.58 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 263.25 L 651.18 263.25 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 17.72 267.91)"><foreignobject style="--ltx-fo-width:44.64em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="617.69"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F10.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.64em;">
+<span id="A1.F10.pic1.1.1" class="ltx_p"><span id="A1.F10.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Prompt Template for Generating a Bad Response for an Instruction</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 17.72 13.3)"><foreignobject style="--ltx-fo-width:44.64em;--ltx-fo-height:17.49em;--ltx-fo-depth:0.25em;font-size:10pt;" height="245.53" overflow="visible" transform="matrix(1 0 0 -1 0 242.07)" width="617.69"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F10.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.64em;">
+<span id="A1.F10.pic1.2.1" class="ltx_p"><span id="A1.F10.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Below is a conversation between an user and an AI Assistant.
+
+<br class="ltx_break">
+<br class="ltx_break"> [User Question]
+
+<br class="ltx_break"><span id="A1.F10.pic1.2.1.1.1" class="ltx_text" style="--ltx-fg-color:#0000FF;">{Instruction}</span>
+
+<br class="ltx_break">
+<br class="ltx_break"> [The start of Assistant’s Answer]
+<br class="ltx_break"><span id="A1.F10.pic1.2.1.1.2" class="ltx_text" style="--ltx-fg-color:#0000FF;">{Baseline Response}
+<br class="ltx_break"></span> [The end of Assistant’s Answer]
+
+<br class="ltx_break">
+<br class="ltx_break">Please rewrite the Assistant’s Answer to make it worse. Specifically, the rewritten worse answer should closely resemble the original answer but is worse in terms of one or multiple of the following aspects: helpfulness, correctness, coherence, verbosity.</span></span>
+<span id="A1.F10.pic1.2.2" class="ltx_p"><span id="A1.F10.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">IMPORTANT: Please strictly follow the following format:</span></span>
+<span id="A1.F10.pic1.2.3" class="ltx_p"><span id="A1.F10.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">First, choose one or multiple aspects to generate a worse answer, such as rewrite the original answer to be unhelpful, incorrect, lack of coherence, more verbose, etc.</span></span>
+<span id="A1.F10.pic1.2.4" class="ltx_p"><span id="A1.F10.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The start of a rewritten worse answer]</span></span>
+<span id="A1.F10.pic1.2.5" class="ltx_p"><span id="A1.F10.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">&lt;provide a worse answer here&gt;</span></span>
+<span id="A1.F10.pic1.2.6" class="ltx_p"><span id="A1.F10.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The end of a rewritten worse answer]</span></span>
+</span></span></span></foreignobject></g></g></svg>
