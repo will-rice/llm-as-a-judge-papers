@@ -1,0 +1,55 @@
+<svg id="A1.SS6.p10.pic1" class="ltx_picture" height="1075.64" overflow="visible" version="1.1" viewbox="0 0 550 1075.64" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1075.64) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#4D4D4D;" fill="#4D4D4D" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 1069.73 C 0 1072.99 2.64 1075.64 5.91 1075.64 L 544.09 1075.64 C 547.36 1075.64 550 1072.99 550 1069.73 L 550 5.91 C 550 2.64 547.36 0 544.09 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 1051.53 L 548.03 1051.53 L 548.03 5.91 C 548.03 3.73 546.27 1.97 544.09 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 1060.12)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS6.p10.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A1.SS6.p10.pic1.1.1" class="ltx_p"><span id="A1.SS6.p10.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">ChatEval Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 17.24)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:73.9em;--ltx-fo-depth:0.25em;font-size:10pt;" height="1025.95" overflow="visible" transform="matrix(1 0 0 -1 0 1022.49)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.SS6.p10.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A1.SS6.p10.pic1.2.1" class="ltx_p"><span id="A1.SS6.p10.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">General Public Prompt:
+<br class="ltx_break"><span id="A1.SS6.p10.pic1.2.1.1.1" class="ltx_text ltx_font_medium">[Question]
+<br class="ltx_break">{question}
+<br class="ltx_break"></span></span></span>
+<span id="A1.SS6.p10.pic1.2.2" class="ltx_p"><span id="A1.SS6.p10.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant 1’s Answer]
+<br class="ltx_break">{response_a}
+<br class="ltx_break">[The End of Assistant 1’s Answer]
+<br class="ltx_break">[The Start of Assistant 2’s Answer]
+<br class="ltx_break">{response_b}
+<br class="ltx_break">[The End of Assistant 2’s Answer]
+<br class="ltx_break">[System]
+<br class="ltx_break">We would like to request your feedback on the performance of two AI assistants in response to the user question displayed above. Please consider the helpfulness, relevance, accuracy, and level of detail of their responses. There are a few other referees assigned the same task; it’s your responsibility to discuss with them and think critically before you make your final judgment. Each assistant receives an overall score on a scale of 1 to 10, where a higher score indicates better overall performance.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.3" class="ltx_p"><span id="A1.SS6.p10.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are now General Public, one of the referees in this task. You are interested in the story and looking for updates on the investigation. Please think critically by yourself and note that it’s your responsibility to choose one of which is the better first.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.4" class="ltx_p"><span id="A1.SS6.p10.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Now it’s your time to talk, please make your talk short and clear, General Public !
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.5" class="ltx_p"><span id="A1.SS6.p10.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please first provide a comprehensive explanation of your evaluation, avoiding any potential bias and ensuring that the order in which the responses were presented does not affect your judgment. Then, output two lines indicating the scores for Assistant 1 and 2, respectively.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.6" class="ltx_p"><span id="A1.SS6.p10.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">Remember that you are not required to output the same value as other referees!
+<br class="ltx_break">Output with the following format strictly:
+<br class="ltx_break">Evaluation evidence: [your explanation here]
+<br class="ltx_break">The score of Assistant 1: [score only]
+<br class="ltx_break">The score of Assistant 2: [score only]
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.7" class="ltx_p"><span id="A1.SS6.p10.pic1.2.7.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Critic Prompt:
+<br class="ltx_break"><span id="A1.SS6.p10.pic1.2.7.1.1" class="ltx_text ltx_font_medium">[Question]
+<br class="ltx_break">{question}
+<br class="ltx_break"></span></span></span>
+<span id="A1.SS6.p10.pic1.2.8" class="ltx_p"><span id="A1.SS6.p10.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">[The Start of Assistant 1’s Answer]
+<br class="ltx_break">{response_a}
+<br class="ltx_break">[The End of Assistant 1’s Answer]
+<br class="ltx_break">[The Start of Assistant 2’s Answer]
+<br class="ltx_break">{response_b}
+<br class="ltx_break">[The End of Assistant 2’s Answer]
+<br class="ltx_break">[System]
+<br class="ltx_break">We would like to request your feedback on the performance of two AI assistants in response to the user question displayed above. Please consider the helpfulness, relevance, accuracy, and level of detail of their responses. There are a few other referees assigned the same task; it’s your responsibility to discuss with them and think critically before you make your final judgment. Each assistant receives an overall score on a scale of 1 to 10, where a higher score indicates better overall performance.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.9" class="ltx_p"><span id="A1.SS6.p10.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are now Critic, one of the referees in this task. You will check fluent writing, clear sentences, and good wording in summary writing. Your job is to question others judgment to make sure their judgment is well-considered and offer an alternative solution if two responses are at the same level.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.10" class="ltx_p"><span id="A1.SS6.p10.pic1.2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">Now it’s your time to talk, please make your talk short and clear, Critic!
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.11" class="ltx_p"><span id="A1.SS6.p10.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please first provide a comprehensive explanation of your evaluation, avoiding any potential bias and ensuring that the order in which the responses were presented does not affect your judgment. Then, output two lines indicating the scores for Assistant 1 and 2, respectively.
+<br class="ltx_break"></span></span>
+<span id="A1.SS6.p10.pic1.2.12" class="ltx_p"><span id="A1.SS6.p10.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">Remember that you are not required to output the same value as other referees!
+<br class="ltx_break">Output with the following format strictly:
+<br class="ltx_break">Evaluation evidence: [your explanation here]
+<br class="ltx_break">The score of Assistant 1: [score only]
+<br class="ltx_break">The score of Assistant 2: [score only]</span></span>
+</span></span></span></foreignobject></g></g></svg>
