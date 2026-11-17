@@ -1,0 +1,45 @@
+<svg id="A7.pic4" class="ltx_picture" height="398.24" overflow="visible" version="1.1" viewbox="0 0 653.15 398.24" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,398.24) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 392.33 C 0 395.6 2.64 398.24 5.91 398.24 L 647.24 398.24 C 650.51 398.24 653.15 395.6 653.15 392.33 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 376.82 L 651.18 376.82 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 382.73)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:0.69em;--ltx-fo-depth:0em;font-size:10pt;" height="9.61" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.pic4.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A7.pic4.1.1" class="ltx_p"><span id="A7.pic4.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Anchor</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 13.78)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:25.38em;--ltx-fo-depth:0em;font-size:10pt;" height="351.23" overflow="visible" transform="matrix(1 0 0 -1 0 351.23)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.pic4.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A7.pic4.2.1" class="ltx_p"><span id="A7.pic4.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Here is a user input and responses from two assistants, A and B. Which response is better? You must output only one of the following choices as your final verdict with a label:</span></span>
+<span id="A7.I1" class="ltx_enumerate">
+<span id="A7.I1.i1" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">1.</span> 
+<span id="A7.I1.i1.p1" class="ltx_para">
+<span id="A7.I1.i1.p1.1" class="ltx_p"><span id="A7.I1.i1.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assistant A is significantly better: [[A&gt;&gt;B]]</span></span>
+</span></span>
+<span id="A7.I1.i2" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">2.</span> 
+<span id="A7.I1.i2.p1" class="ltx_para">
+<span id="A7.I1.i2.p1.1" class="ltx_p"><span id="A7.I1.i2.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assistant A is slightly better: [[A&gt;B]]</span></span>
+</span></span>
+<span id="A7.I1.i3" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">3.</span> 
+<span id="A7.I1.i3.p1" class="ltx_para">
+<span id="A7.I1.i3.p1.1" class="ltx_p"><span id="A7.I1.i3.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Tie, relatively the same: [[A=B]]</span></span>
+</span></span>
+<span id="A7.I1.i4" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">4.</span> 
+<span id="A7.I1.i4.p1" class="ltx_para">
+<span id="A7.I1.i4.p1.1" class="ltx_p"><span id="A7.I1.i4.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assistant B is slightly better: [[B&gt;A]]</span></span>
+</span></span>
+<span id="A7.I1.i5" class="ltx_item" style="list-style-type:none;"><span class="ltx_tag ltx_tag_item">5.</span> 
+<span id="A7.I1.i5.p1" class="ltx_para">
+<span id="A7.I1.i5.p1.1" class="ltx_p"><span id="A7.I1.i5.p1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Assistant B is significantly better: [[B&gt;&gt;A]</span></span>
+</span></span>
+</span>
+<span id="A7.pic4.2.2" class="ltx_p"><span id="A7.pic4.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Example output: &quot;My final verdict is tie: [[A=B]]&quot;.
+
+<br class="ltx_break">
+<br class="ltx_break">&lt;|User Prompt|&gt;</span></span>
+<span id="A7.pic4.2.3" class="ltx_p"><span id="A7.pic4.2.3.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">[user instruction]<span id="A7.pic4.2.3.1.1" class="ltx_text ltx_font_upright">
+
+<br class="ltx_break">
+<br class="ltx_break">&lt;|The Start of Assistant A’s Answer|&gt;</span></span></span>
+<span id="A7.pic4.2.4" class="ltx_p"><span id="A7.pic4.2.4.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">[system response]<span id="A7.pic4.2.4.1.1" class="ltx_text"></span></span></span>
+<span id="A7.pic4.2.5" class="ltx_p"><span id="A7.pic4.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">&lt;|The End of Assistant A’s Answer|&gt;
+
+<br class="ltx_break">
+<br class="ltx_break">&lt;|The Start of Assistant B’s Answer|&gt;</span></span>
+<span id="A7.pic4.2.6" class="ltx_p"><span id="A7.pic4.2.6.1" class="ltx_text ltx_font_italic" style="--ltx-fg-color:#000000;">[anchor system response]<span id="A7.pic4.2.6.1.1" class="ltx_text"></span></span></span>
+<span id="A7.pic4.2.7" class="ltx_p"><span id="A7.pic4.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">&lt;|The End of Assistant B’s Answer|&gt;</span></span>
+<span id="A7.pic4.2.8" class="ltx_p"><span id="A7.pic4.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">Final Verdict:</span></span>
+</span></span></span></foreignobject></g></g></svg>

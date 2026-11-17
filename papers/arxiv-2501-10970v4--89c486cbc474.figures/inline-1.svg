@@ -1,0 +1,39 @@
+<svg id="A8.p1.pic1" class="ltx_picture" height="760.04" overflow="visible" version="1.1" viewbox="0 0 653.15 760.04" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,760.04) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#8A2E29;" fill="#8A2E29" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 754.13 C 0 757.39 2.64 760.04 5.91 760.04 L 647.24 760.04 C 650.51 760.04 653.15 757.39 653.15 754.13 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FBF0F0;" fill="#FBF0F0" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 736.04 L 651.18 736.04 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 744.64)"><foreignobject style="--ltx-fo-width:38.32em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.18" overflow="visible" transform="matrix(1 0 0 -1 0 9.49)" width="530.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A8.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.32em;">
+<span id="A8.p1.pic1.1.1" class="ltx_p"><span id="A8.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Box H.1: WAX - Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 17.24)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:51.09em;--ltx-fo-depth:0.25em;font-size:10pt;" height="710.46" overflow="visible" transform="matrix(1 0 0 -1 0 707)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A8.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A8.p1.pic1.2.1" class="ltx_p"><span id="A8.p1.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You will be provided with two words: a cue and an association. Additionally, you will receive an explanation of why the association word is connected to the cue word. 
+<br class="ltx_break">Your task is to determine the relation type between the two words based on the explanation. 
+<br class="ltx_break">Important: Your answer must rely solely on the explanation. 
+<br class="ltx_break">
+<br class="ltx_break">Select one relation type from the following and copy its name exactly: 
+<br class="ltx_break">* HasProperty: Cue has association as a property; or the reverse. Possible properties include shape, color, pattern, texture, size, touch, smell, and taste; or inborn, native or instinctive properties. 
+<br class="ltx_break">* PartOf: A part or component of an entity or event. 
+<br class="ltx_break">* Material-MadeOf: The material something is made of. 
+<br class="ltx_break">* Emotion-Evaluation: An affective/emotional state or evaluation toward the situation or one of its components. 
+<br class="ltx_break">* Time: A time period associated with a situation or with one of its properties. 
+<br class="ltx_break">* Location: A place where an entity can be found, or where people engage in an event or activity. 
+<br class="ltx_break">* Function: The typical purpose, goal, or role for which the cue is used for association. Or the reverse way. 
+<br class="ltx_break">* Has-Prerequisite: In order for the cue to happen, association needs to happen or exist; association is a dependency of cue. Or the reverse way. 
+<br class="ltx_break">* Result-In: The cue causes or produces the association. Or the reverse way. A result (either cue or association) should be involved. 
+<br class="ltx_break">* Action: An action that a participant (could be the cue, association, or others) performs in a situation. Cue and association must be among the (participant, action, object). 
+<br class="ltx_break">* Thematic: Cue and association participate in a common event or scenario. None of the other situational properties applies. 
+<br class="ltx_break">* Category-Exemplar-Pairs: The cue and association are on different levels in a taxonomy. 
+<br class="ltx_break">* Members-of-the-same-Category: The cue and association are members of the same category. 
+<br class="ltx_break">* Synonym: The cue and association are synonyms. 
+<br class="ltx_break">* Antonym: The cue and association are antonyms. 
+<br class="ltx_break">* Common-Phrase: The cue and association is a compound or multi-word expression or form a new concept with two words. 
+<br class="ltx_break">* None-of-the-above: Use this label only if other labels cannot be assigned to the instance or you don’t understand the cue, association, or explanation. 
+<br class="ltx_break">
+<br class="ltx_break">Please follow the JSON format below:
+<br class="ltx_break">```json
+<br class="ltx_break">{
+<br class="ltx_break"><span id="A8.p1.pic1.2.1.1.1" class="ltx_text"></span> &quot;relation&quot;: &quot;copy-pasted relation type from above&quot;
+<br class="ltx_break">}
+<br class="ltx_break">```
+<br class="ltx_break">
+<br class="ltx_break">Cue: [CUE] 
+<br class="ltx_break">Association: [ASSOCIATION] 
+<br class="ltx_break">Explanation: [EXPLANATION]</span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,15 @@
+<svg id="A5.SS2.p1.pic1" class="ltx_picture" height="194.84" overflow="visible" version="1.1" viewbox="0 0 653.15 194.84" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,194.84) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 188.93 C 0 192.19 2.64 194.84 5.91 194.84 L 647.24 194.84 C 650.51 194.84 653.15 192.19 653.15 188.93 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 170.73 L 651.18 170.73 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 179.32)"><foreignobject style="--ltx-fo-width:38.32em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="530.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.32em;">
+<span id="A5.SS2.p1.pic1.1.1" class="ltx_p"><span id="A5.SS2.p1.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Narrative Summarization Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.47)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:10.29em;--ltx-fo-depth:0.19em;font-size:10pt;" height="145.14" overflow="visible" transform="matrix(1 0 0 -1 0 142.45)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A5.SS2.p1.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A5.SS2.p1.pic1.2.1" class="ltx_p"><span id="A5.SS2.p1.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">This is a part of a script from a Movie. Read the following content carefully, then answer my question: 
+<br class="ltx_break">{<span id="A5.SS2.p1.pic1.2.1.1.1" class="ltx_text ltx_font_italic">chunk of narrative</span>} 
+<br class="ltx_break">The script has ended now. 
+<br class="ltx_break"></span></span>
+<span id="A5.SS2.p1.pic1.2.2" class="ltx_p"><span id="A5.SS2.p1.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Summary instructions:<span id="A5.SS2.p1.pic1.2.2.1.1" class="ltx_text ltx_font_medium"> 
+<br class="ltx_break">- Provide a detailed summary of the key characters’ actions, emotions, and situations as reflected in the dialogue or context. 
+<br class="ltx_break">- Clearly state the outcome of the events. 
+<br class="ltx_break">- The summary should be between 2 to 5 sentences long. 
+<br class="ltx_break"></span></span></span>
+</span></span></span></foreignobject></g></g></svg>
