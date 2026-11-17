@@ -9,10 +9,11 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 723 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 897 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-14T06:41:22+00:00 | arxiv:2611.19199v1 | [What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](https://arxiv.org/abs/2611.19199v1)                                                                                | arxiv       |
 | 2026-11-13T11:50:28+00:00 | arxiv:2611.18067v1 | [Agent-as-a-Judge](papers/arxiv-2611-18067v1--87f52009c8a2.md)                                                                                                                            | arxiv       |
 | 2026-11-12T00:00:00+00:00 | arxiv:2611.17167   | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](papers/arxiv-2611-17167--5d2a7591cdd5.md)                                                                | huggingface |
 | 2026-11-11T00:21:38+00:00 | arxiv:2611.14861v1 | [Is Jev a Good Multilingual Judge?](papers/arxiv-2611-14861v1--4becfec1fe84.md)                                                                                                           | arxiv       |
@@ -42,7 +43,6 @@ The 30 most recent of 723 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-10-27T13:38:28+00:00 | arxiv:2610.37229v1 | [Decision Models as Judges for Hallucination Detection](papers/arxiv-2610-37229v1--842b5314d918.md)                                                                                       | arxiv       |
 | 2026-10-26T08:05:21+00:00 | arxiv:2610.34993v1 | [Reason or Recite: Complementary Specialists with an LLM Judge for Traffic Anomaly Reasoning](papers/arxiv-2610-34993v1--6dbef615db25.md)                                                 | arxiv       |
 | 2026-10-26T05:45:11+00:00 | arxiv:2610.34875v1 | [RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge](papers/arxiv-2610-34875v1--6b052cbb9cd1.md)                                                                                | arxiv       |
-| 2026-10-25T05:38:57+00:00 | arxiv:2610.34080v1 | [The LALA Benchmark: Evaluating Literary and Linguistic Analysis in LLMs](https://arxiv.org/abs/2610.34080v1)                                                                             | arxiv       |
 
 <!-- papers-index:end -->
 

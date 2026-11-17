@@ -1,0 +1,41 @@
+<svg id="A6.F8.pic1" class="ltx_picture ltx_centering" height="570.67" overflow="visible" version="1.1" viewbox="0 0 653.15 570.67" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,570.67) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0"><path style="stroke:none" d="M 0 7.09 L 0 563.58 C 0 567.5 3.17 570.67 7.09 570.67 L 646.06 570.67 C 649.98 570.67 653.15 567.5 653.15 563.58 L 653.15 7.09 C 653.15 3.17 649.98 0 646.06 0 L 7.09 0 C 3.17 0 0 3.17 0 7.09 Z" /></g><g style="--ltx-fill-color:#E6FFE6;" fill="#E6FFE6" fill-opacity="1.0"><path style="stroke:none" d="M 3.15 7.09 L 3.15 544.2 L 650 544.2 L 650 7.09 C 650 4.91 648.24 3.15 646.06 3.15 L 7.09 3.15 C 4.91 3.15 3.15 4.91 3.15 7.09 Z" /></g><g style="--ltx-fill-color:#80FF80;" fill="#80FF80" fill-opacity="1.0"><path style="stroke:none" d="M 3.15 547.35 L 3.15 563.58 C 3.15 565.76 4.91 567.52 7.09 567.52 L 646.06 567.52 C 648.24 567.52 650 565.76 650 563.58 L 650 547.35 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 22.83 553.98)"><foreignobject style="--ltx-fo-width:38.17em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="528.17"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A6.F8.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.17em;">
+<span id="A6.F8.pic1.1.1" class="ltx_p"><span id="A6.F8.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Augmentation - Question Elaboration Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 22.83 18.42)"><foreignobject style="--ltx-fo-width:43.9em;--ltx-fo-height:37.14em;--ltx-fo-depth:0.25em;font-size:10pt;" height="517.43" overflow="visible" transform="matrix(1 0 0 -1 0 513.97)" width="607.45"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A6.F8.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.9em;">
+<span id="A6.F8.pic1.2.1" class="ltx_p"><span id="A6.F8.pic1.2.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;TASK OVERVIEW&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.1.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">Your task is to generate multiple additional questions to evaluate benchmark performance under specific constraints. You will receive the key component and sub-component evaluating {dimension} and the question related to it. The definition of {dimension} is as follows: {def}. The evaluation for dimension {dimension} will be centered around the key component {key components}.<span id="A6.F8.pic1.2.1.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A6.F8.pic1.2.2" class="ltx_p"><span id="A6.F8.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;TASK&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.2.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium"># Your role: You have to break down sub-questions into 3 to 10 sub-sub-questions considering {dimension} when pairs of seed name and question are given.
+<br class="ltx_break"># Benchmark information: {benchmark info}<span id="A6.F8.pic1.2.2.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A6.F8.pic1.2.3" class="ltx_p"><span id="A6.F8.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;CONSTRAINTS&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.3.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">{constraints}<span id="A6.F8.pic1.2.3.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A6.F8.pic1.2.4" class="ltx_p"><span id="A6.F8.pic1.2.4.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;Conditions for a Good Question List&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.4.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">{conditions}<span id="A6.F8.pic1.2.4.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A6.F8.pic1.2.5" class="ltx_p"><span id="A6.F8.pic1.2.5.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;FORMAT&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.5.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">
+1. sub_component_name_1:
+<br class="ltx_break">1-1. q1-1_origin_question
+<br class="ltx_break">1-1-1. q1-1-1_aug_question
+<br class="ltx_break">1-1-2. q1-1-2_aug_question
+<br class="ltx_break">...
+<br class="ltx_break">1-2. q1-2_origin_question
+<br class="ltx_break">1-2-1. q1-2-1_aug_question
+<br class="ltx_break">1-2-2. q1-2-2_aug_question
+<br class="ltx_break">...
+<br class="ltx_break">
+<br class="ltx_break">2. sub_component_name_2:
+<br class="ltx_break">2-1. q2-1_origin_question
+<br class="ltx_break">2-1-1. q2-1-1_aug_question
+<br class="ltx_break">...
+<br class="ltx_break">2-2. q2-2_origin_question
+<br class="ltx_break">...<span id="A6.F8.pic1.2.5.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+<span id="A6.F8.pic1.2.6" class="ltx_p"><span id="A6.F8.pic1.2.6.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">&lt;EXAMPLE&gt;
+<br class="ltx_break"><span id="A6.F8.pic1.2.6.1.1" class="ltx_text ltx_font_typewriter ltx_font_medium">{example}<span id="A6.F8.pic1.2.6.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,18 @@
+<svg id="A1.F11.pic1" class="ltx_picture" height="322.13" overflow="visible" version="1.1" viewbox="0 0 653.15 322.13" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,322.13) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#008080;" fill="#008080" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 316.23 C 0 319.49 2.64 322.13 5.91 322.13 L 647.24 322.13 C 650.51 322.13 653.15 319.49 653.15 316.23 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#FFFFF0;" fill="#FFFFF0" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 316.23 C 1.97 318.4 3.73 320.16 5.91 320.16 L 647.24 320.16 C 649.42 320.16 651.18 318.4 651.18 316.23 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 16.47)"><foreignobject style="--ltx-fo-width:44.07em;--ltx-fo-height:21.09em;--ltx-fo-depth:0.19em;font-size:10pt;" height="294.58" overflow="visible" transform="matrix(1 0 0 -1 0 291.89)" width="609.8"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F11.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:44.07em;">
+<span id="A1.F11.pic1.1.1" class="ltx_p"><span id="A1.F11.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are required to generate a multi-turn English dialogue to evaluate the rephrasing capabilities of large language models, with a total of three rounds of dialogue following six steps.
+<br class="ltx_break">Step 1: Generate the first question.
+<br class="ltx_break">Step 2: Generate the response to the first question.
+<br class="ltx_break">Step 3: Pose the second question, which requires a formal rephrase of the answer from the first round. (You need to understand the content of the first round’s question and answer and request a formal rephrase of the first round’s response in terms of structure, length, etc. Please note that it is a formal rephrase, not a content change, and you should not add new content, fabricate stories, or pretend to be in a specific scenario.)
+<br class="ltx_break">Step 4: Generate the answer to the second round’s question.
+<br class="ltx_break">Step 5: Repeat Step 3, continuing to request a formal rephrase from the model.
+<br class="ltx_break">Step 6: Generate the answer to the third round’s question.
+<br class="ltx_break">
+<br class="ltx_break">You can refer to these examples:
+<br class="ltx_break"># Example 1 #
+<br class="ltx_break"># Example 2 #
+<br class="ltx_break"># Example 3 #
+<br class="ltx_break">
+<br class="ltx_break">Please output the dialogue content directly with ‘Human:’ and ‘Assistant:’ as role prompts, without stating ‘step1’, ‘step2’, and so on.
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>
