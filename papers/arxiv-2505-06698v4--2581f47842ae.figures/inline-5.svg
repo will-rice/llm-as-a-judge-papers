@@ -1,0 +1,144 @@
+<svg id="A3.F12.pic1" class="ltx_picture ltx_centering" height="3988.21" overflow="visible" version="1.1" viewbox="0 0 653.15 3988.21" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,3988.21) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#969696;" fill="#969696" fill-opacity="1.0"><path style="stroke:none" d="M 0 7.61 L 0 3980.6 C 0 3984.8 3.41 3988.21 7.61 3988.21 L 645.54 3988.21 C 649.74 3988.21 653.15 3984.8 653.15 3980.6 L 653.15 7.61 C 653.15 3.41 649.74 0 645.54 0 L 7.61 0 C 3.41 0 0 3.41 0 7.61 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 0.69 7.61 L 0.69 3963.45 L 652.46 3963.45 L 652.46 7.61 C 652.46 3.79 649.36 0.69 645.54 0.69 L 7.61 0.69 C 3.79 0.69 0.69 3.79 0.69 7.61 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 6.23 3972.37)"><foreignobject style="--ltx-fo-width:40.26em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="557.09"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.F12.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:40.26em;">
+<span id="A3.F12.pic1.1.1" class="ltx_p"><span id="A3.F12.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Initial low-quality Type Labeling</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 8.99 12.45)"><foreignobject style="--ltx-fo-width:45.9em;--ltx-fo-height:284.94em;--ltx-fo-depth:0.25em;font-size:10pt;" height="3946.21" overflow="visible" transform="matrix(1 0 0 -1 0 3942.75)" width="635.13"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A3.F12.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:45.9em;">
+<span id="A3.F12.pic1.2.1" class="ltx_p"><span id="A3.F12.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">### Task 
+<br class="ltx_break">Your task is to categorize a given query based on the following rules. For each rule, explain your reasoning before assigning a label. Evaluate the query against each domain in the order provided below until a match is found. Once a domain is identified, proceed with its specific sub-rules. If no domain matches, proceed to the next domain check. If no specific domain applies, return a generic <span id="A3.F12.pic1.2.1.1.1" class="ltx_text ltx_font_typewriter">&quot;other&quot;</span> label.
+<br class="ltx_break">#### Rules 
+<br class="ltx_break">##### ⁢⁢Step 1: Determine the Domain⁢⁢ 
+<br class="ltx_break">Evaluate the query against the following domains in this order. Stop and proceed with the corresponding sub-rules once a domain is matched. If the domain is labeled <span id="A3.F12.pic1.2.1.1.2" class="ltx_text ltx_font_typewriter">&quot;other&quot;</span>, return <span id="A3.F12.pic1.2.1.1.3" class="ltx_text ltx_font_typewriter">{&quot;domain&quot;: &quot;other&quot;, &quot;domain_name&quot;: &quot;&lt;custom_domain_name&gt;&quot;}</span> and do not proceed further. Explain your reasoning before assigning a label.
+<br class="ltx_break">1. ⁢⁢Writing⁢⁢
+- Condition: If the query relates to writing, purposeful professional writing, literature, storytelling, grammar, or language-related topics.
+- Label: <span id="A3.F12.pic1.2.1.1.4" class="ltx_text ltx_font_typewriter">&quot;writing&quot;</span>
+- If not matched, proceed to the next domain.</span></span>
+<span id="A3.F12.pic1.2.2" class="ltx_p"><span id="A3.F12.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">2. ⁢⁢Roleplay⁢⁢
+- Condition: If the query involves roleplay, character interactions, storytelling, or immersive scenario-based dialogue.
+- Label: <span id="A3.F12.pic1.2.2.1.1" class="ltx_text ltx_font_typewriter">&quot;roleplay&quot;</span>
+- If not matched, proceed to the next domain.</span></span>
+<span id="A3.F12.pic1.2.3" class="ltx_p"><span id="A3.F12.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">3. ⁢⁢Coding⁢⁢
+- Condition: If the query relates to programming, algorithms, or code-related topics.
+- Label: <span id="A3.F12.pic1.2.3.1.1" class="ltx_text ltx_font_typewriter">&quot;coding&quot;</span>
+- If not matched, proceed to the next domain.</span></span>
+<span id="A3.F12.pic1.2.4" class="ltx_p"><span id="A3.F12.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">4. ⁢⁢Mathematics⁢⁢
+- Condition: If the query pertains to mathematical concepts, computations, proofs, or problem-solving.
+- Label: <span id="A3.F12.pic1.2.4.1.1" class="ltx_text ltx_font_typewriter">&quot;mathematics&quot;</span>
+- If not matched, proceed to the next domain.</span></span>
+<span id="A3.F12.pic1.2.5" class="ltx_p"><span id="A3.F12.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">5. ⁢⁢Reasoning⁢⁢
+- Condition: If the query pertains to reasoning, logic, critical thinking, or problem-solving without direct reference to specific knowledge or programming.
+- Label: <span id="A3.F12.pic1.2.5.1.1" class="ltx_text ltx_font_typewriter">&quot;reasoning&quot;</span>
+- If not matched, proceed to the next domain.</span></span>
+<span id="A3.F12.pic1.2.6" class="ltx_p"><span id="A3.F12.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">6. ⁢⁢Knowledge⁢⁢
+- Condition: If the query pertains to factual knowledge or general subject areas such as science, history, literature, philosophy, or current affairs.
+- Label: <span id="A3.F12.pic1.2.6.1.1" class="ltx_text ltx_font_typewriter">&quot;knowledge&quot;</span>
+- If not matched, label as <span id="A3.F12.pic1.2.6.1.2" class="ltx_text ltx_font_typewriter">&quot;other&quot;</span> with a custom <span id="A3.F12.pic1.2.6.1.3" class="ltx_text ltx_font_typewriter">&quot;domain_name&quot;</span> and stop.</span></span>
+<span id="A3.F12.pic1.2.7" class="ltx_p"><span id="A3.F12.pic1.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">#### Step 2: Domain-Specific Categorization 
+<br class="ltx_break">Once the domain is determined, apply the corresponding sub-rules below. If the domain is <span id="A3.F12.pic1.2.7.1.1" class="ltx_text ltx_font_typewriter">&quot;other&quot;</span>, skip this step. Explain your reasoning before assigning a label. 
+<br class="ltx_break">- ⁢⁢Domain: &quot;writing&quot;⁢⁢
+- ⁢⁢Label 2: Writing Topic⁢⁢
+- Specify the writing topic in lowercase (e.g., <span id="A3.F12.pic1.2.7.1.2" class="ltx_text ltx_font_typewriter">&quot;creative writing&quot;</span>, <span id="A3.F12.pic1.2.7.1.3" class="ltx_text ltx_font_typewriter">&quot;speech&quot;</span>, <span id="A3.F12.pic1.2.7.1.4" class="ltx_text ltx_font_typewriter">&quot;LLM prompt&quot;</span>, <span id="A3.F12.pic1.2.7.1.5" class="ltx_text ltx_font_typewriter">&quot;game&quot;</span>, <span id="A3.F12.pic1.2.7.1.6" class="ltx_text ltx_font_typewriter">&quot;academic&quot;</span>, <span id="A3.F12.pic1.2.7.1.7" class="ltx_text ltx_font_typewriter">&quot;social media&quot;</span>, <span id="A3.F12.pic1.2.7.1.8" class="ltx_text ltx_font_typewriter">&quot;shopping&quot;</span>, <span id="A3.F12.pic1.2.7.1.9" class="ltx_text ltx_font_typewriter">&quot;formal&quot;</span>, <span id="A3.F12.pic1.2.7.1.10" class="ltx_text ltx_font_typewriter">&quot;casual&quot;</span>, etc.).
+- If unclear or not explicitly mentioned, use <span id="A3.F12.pic1.2.7.1.11" class="ltx_text ltx_font_typewriter">&quot;null&quot;</span>.
+- If none of the predefined topics fit, provide a custom description.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.7.1.12" class="ltx_text ltx_font_typewriter">&quot;Creative Writing&quot;</span>: Crafting original content, poems, or creative pieces.
+- <span id="A3.F12.pic1.2.7.1.13" class="ltx_text ltx_font_typewriter">&quot;Polishing&quot;</span>: Improving clarity, style, and flow.
+- <span id="A3.F12.pic1.2.7.1.14" class="ltx_text ltx_font_typewriter">&quot;Grammar Check&quot;</span>: Identifying and correcting grammar mistakes.
+- <span id="A3.F12.pic1.2.7.1.15" class="ltx_text ltx_font_typewriter">&quot;Content Refining&quot;</span>: Enhancing word choice, tone, or style.
+- <span id="A3.F12.pic1.2.7.1.16" class="ltx_text ltx_font_typewriter">&quot;Summarization&quot;</span>: Condensing text while retaining the core message.
+- <span id="A3.F12.pic1.2.7.1.17" class="ltx_text ltx_font_typewriter">&quot;Expanding&quot;</span>: Adding details or elaboration.
+- <span id="A3.F12.pic1.2.7.1.18" class="ltx_text ltx_font_typewriter">&quot;Paraphrasing&quot;</span>: Restating content differently.
+- <span id="A3.F12.pic1.2.7.1.19" class="ltx_text ltx_font_typewriter">&quot;Writing Feedback&quot;</span>: Providing constructive feedback.
+- <span id="A3.F12.pic1.2.7.1.20" class="ltx_text ltx_font_typewriter">&quot;Translating&quot;</span>: Converting text between languages.
+- <span id="A3.F12.pic1.2.7.1.21" class="ltx_text ltx_font_typewriter">&quot;Tone Adjustment&quot;</span>: Modifying tone for audience/context.
+- <span id="A3.F12.pic1.2.7.1.22" class="ltx_text ltx_font_typewriter">&quot;Text Summarization&quot;</span>: Analyzing meaning, themes, or key points.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.8" class="ltx_p"><span id="A3.F12.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">- ⁢⁢Domain: &quot;roleplay&quot;⁢⁢
+- ⁢⁢Label 2: Genre⁢⁢
+- Specify the genre in lowercase (e.g., <span id="A3.F12.pic1.2.8.1.1" class="ltx_text ltx_font_typewriter">&quot;sci-fi&quot;</span>, <span id="A3.F12.pic1.2.8.1.2" class="ltx_text ltx_font_typewriter">&quot;fantasy&quot;</span>, <span id="A3.F12.pic1.2.8.1.3" class="ltx_text ltx_font_typewriter">&quot;historical&quot;</span>, <span id="A3.F12.pic1.2.8.1.4" class="ltx_text ltx_font_typewriter">&quot;romance&quot;</span>, <span id="A3.F12.pic1.2.8.1.5" class="ltx_text ltx_font_typewriter">&quot;mystery&quot;</span>, <span id="A3.F12.pic1.2.8.1.6" class="ltx_text ltx_font_typewriter">&quot;horror&quot;</span>, <span id="A3.F12.pic1.2.8.1.7" class="ltx_text ltx_font_typewriter">&quot;action/adventure&quot;</span>, <span id="A3.F12.pic1.2.8.1.8" class="ltx_text ltx_font_typewriter">&quot;supernatural&quot;</span>, etc.).
+- If multiple genres apply, list them all.
+- If none fit, provide a custom description.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.8.1.9" class="ltx_text ltx_font_typewriter">&quot;Dialogue Generation&quot;</span>: Creating natural character conversations.
+- <span id="A3.F12.pic1.2.8.1.10" class="ltx_text ltx_font_typewriter">&quot;Content Creation&quot;</span>: Writing from a character’s perspective.
+- <span id="A3.F12.pic1.2.8.1.11" class="ltx_text ltx_font_typewriter">&quot;Question Answering&quot;</span>: Responding within character constraints.
+- <span id="A3.F12.pic1.2.8.1.12" class="ltx_text ltx_font_typewriter">&quot;Emotional Simulation&quot;</span>: Modeling character-appropriate emotions.
+- <span id="A3.F12.pic1.2.8.1.13" class="ltx_text ltx_font_typewriter">&quot;Decision Support&quot;</span>: Providing character-based guidance.
+- <span id="A3.F12.pic1.2.8.1.14" class="ltx_text ltx_font_typewriter">&quot;Skill Training&quot;</span>: Simulating expert/practice partners.
+- <span id="A3.F12.pic1.2.8.1.15" class="ltx_text ltx_font_typewriter">&quot;Behavior Simulation&quot;</span>: Replicating character behaviors.
+- <span id="A3.F12.pic1.2.8.1.16" class="ltx_text ltx_font_typewriter">&quot;Evaluation &amp; Feedback&quot;</span>: Assessing from a character’s perspective.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.9" class="ltx_p"><span id="A3.F12.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">- ⁢⁢Domain: &quot;coding&quot;⁢⁢
+- ⁢⁢Label 2: Programming Language⁢⁢
+- Specify the language in lowercase (e.g., <span id="A3.F12.pic1.2.9.1.1" class="ltx_text ltx_font_typewriter">&quot;python&quot;</span>, <span id="A3.F12.pic1.2.9.1.2" class="ltx_text ltx_font_typewriter">&quot;java&quot;</span>, <span id="A3.F12.pic1.2.9.1.3" class="ltx_text ltx_font_typewriter">&quot;c++&quot;</span>, <span id="A3.F12.pic1.2.9.1.4" class="ltx_text ltx_font_typewriter">&quot;sql&quot;</span>, etc.).
+- If unclear or not mentioned, use <span id="A3.F12.pic1.2.9.1.5" class="ltx_text ltx_font_typewriter">&quot;null&quot;</span>.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.9.1.6" class="ltx_text ltx_font_typewriter">&quot;Code Generation&quot;</span>: Creating code from a prompt.
+- <span id="A3.F12.pic1.2.9.1.7" class="ltx_text ltx_font_typewriter">&quot;Debugging&quot;</span>: Resolving code errors.
+- <span id="A3.F12.pic1.2.9.1.8" class="ltx_text ltx_font_typewriter">&quot;Code Explanation&quot;</span>: Explaining code functionality.
+- <span id="A3.F12.pic1.2.9.1.9" class="ltx_text ltx_font_typewriter">&quot;Code Editing&quot;</span>: Modifying existing code.
+- <span id="A3.F12.pic1.2.9.1.10" class="ltx_text ltx_font_typewriter">&quot;Conceptual QA&quot;</span>: Answering programming theory questions.
+- <span id="A3.F12.pic1.2.9.1.11" class="ltx_text ltx_font_typewriter">&quot;Code Translation&quot;</span>: Converting code between languages.
+- <span id="A3.F12.pic1.2.9.1.12" class="ltx_text ltx_font_typewriter">&quot;Bug Fixing&quot;</span>: Fixing specific code issues.
+- <span id="A3.F12.pic1.2.9.1.13" class="ltx_text ltx_font_typewriter">&quot;Testing&quot;</span>: Writing/analyzing tests.
+- <span id="A3.F12.pic1.2.9.1.14" class="ltx_text ltx_font_typewriter">&quot;Data Structures &amp; Algorithms&quot;</span>: Solving related problems.
+- <span id="A3.F12.pic1.2.9.1.15" class="ltx_text ltx_font_typewriter">&quot;System Design&quot;</span>: Designing software architecture.
+- <span id="A3.F12.pic1.2.9.1.16" class="ltx_text ltx_font_typewriter">&quot;Optimization&quot;</span>: Improving code efficiency.
+- <span id="A3.F12.pic1.2.9.1.17" class="ltx_text ltx_font_typewriter">&quot;Security&quot;</span>: Addressing vulnerabilities.
+- <span id="A3.F12.pic1.2.9.1.18" class="ltx_text ltx_font_typewriter">&quot;Documentation&quot;</span>: Writing/improving documentation.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.10" class="ltx_p"><span id="A3.F12.pic1.2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">- ⁢⁢Domain: &quot;mathematics&quot;⁢⁢
+- ⁢⁢Label 2: Subfield⁢⁢
+- Specify the subfield in lowercase (e.g., <span id="A3.F12.pic1.2.10.1.1" class="ltx_text ltx_font_typewriter">&quot;algebra&quot;</span>, <span id="A3.F12.pic1.2.10.1.2" class="ltx_text ltx_font_typewriter">&quot;calculus&quot;</span>, <span id="A3.F12.pic1.2.10.1.3" class="ltx_text ltx_font_typewriter">&quot;geometry&quot;</span>, <span id="A3.F12.pic1.2.10.1.4" class="ltx_text ltx_font_typewriter">&quot;statistics &amp; probability&quot;</span>, etc.).
+- If unclear, use <span id="A3.F12.pic1.2.10.1.5" class="ltx_text ltx_font_typewriter">&quot;null&quot;</span>.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.10.1.6" class="ltx_text ltx_font_typewriter">&quot;Computation&quot;</span>: Performing calculations.
+- <span id="A3.F12.pic1.2.10.1.7" class="ltx_text ltx_font_typewriter">&quot;Proof Writing&quot;</span>: Writing formal proofs.
+- <span id="A3.F12.pic1.2.10.1.8" class="ltx_text ltx_font_typewriter">&quot;Conceptual Understanding&quot;</span>: Explaining concepts.
+- <span id="A3.F12.pic1.2.10.1.9" class="ltx_text ltx_font_typewriter">&quot;Problem-Solving&quot;</span>: Applying techniques to challenges.
+- <span id="A3.F12.pic1.2.10.1.10" class="ltx_text ltx_font_typewriter">&quot;Real-World Application&quot;</span>: Connecting math to scenarios.
+- <span id="A3.F12.pic1.2.10.1.11" class="ltx_text ltx_font_typewriter">&quot;Graphing &amp; Visualization&quot;</span>: Interpreting/drawing graphs.
+- <span id="A3.F12.pic1.2.10.1.12" class="ltx_text ltx_font_typewriter">&quot;Logical Deduction&quot;</span>: Deriving conclusions logically.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.11" class="ltx_p"><span id="A3.F12.pic1.2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">- ⁢⁢Domain: &quot;reasoning&quot;⁢⁢
+- ⁢⁢Label 2: Reasoning Type⁢⁢
+- Specify the type in lowercase (e.g., <span id="A3.F12.pic1.2.11.1.1" class="ltx_text ltx_font_typewriter">&quot;logical reasoning&quot;</span>, <span id="A3.F12.pic1.2.11.1.2" class="ltx_text ltx_font_typewriter">&quot;critical thinking&quot;</span>, <span id="A3.F12.pic1.2.11.1.3" class="ltx_text ltx_font_typewriter">&quot;problem-solving&quot;</span>, <span id="A3.F12.pic1.2.11.1.4" class="ltx_text ltx_font_typewriter">&quot;analytical thinking&quot;</span>, etc.).
+- If unclear, use <span id="A3.F12.pic1.2.11.1.5" class="ltx_text ltx_font_typewriter">&quot;null&quot;</span>.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.11.1.6" class="ltx_text ltx_font_typewriter">&quot;Logical Deduction&quot;</span>: Deriving conclusions logically.
+- <span id="A3.F12.pic1.2.11.1.7" class="ltx_text ltx_font_typewriter">&quot;Puzzle Solving&quot;</span>: Solving riddles or brainteasers.
+- <span id="A3.F12.pic1.2.11.1.8" class="ltx_text ltx_font_typewriter">&quot;Argument Evaluation&quot;</span>: Analyzing argument validity.
+- <span id="A3.F12.pic1.2.11.1.9" class="ltx_text ltx_font_typewriter">&quot;Scenario Analysis&quot;</span>: Considering scenario outcomes.
+- <span id="A3.F12.pic1.2.11.1.10" class="ltx_text ltx_font_typewriter">&quot;Theoretical Reasoning&quot;</span>: Exploring abstract concepts.
+- <span id="A3.F12.pic1.2.11.1.11" class="ltx_text ltx_font_typewriter">&quot;Creative Problem-Solving&quot;</span>: Finding novel solutions.
+- <span id="A3.F12.pic1.2.11.1.12" class="ltx_text ltx_font_typewriter">&quot;Ethical Reasoning&quot;</span>: Evaluating based on ethics.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.12" class="ltx_p"><span id="A3.F12.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">- ⁢⁢Domain: &quot;knowledge&quot;⁢⁢
+- ⁢⁢Label 2: Subject⁢⁢
+- Specify the subject in lowercase (e.g., <span id="A3.F12.pic1.2.12.1.1" class="ltx_text ltx_font_typewriter">&quot;history&quot;</span>, <span id="A3.F12.pic1.2.12.1.2" class="ltx_text ltx_font_typewriter">&quot;philosophy&quot;</span>, <span id="A3.F12.pic1.2.12.1.3" class="ltx_text ltx_font_typewriter">&quot;geography&quot;</span>, <span id="A3.F12.pic1.2.12.1.4" class="ltx_text ltx_font_typewriter">&quot;medicine&quot;</span>, <span id="A3.F12.pic1.2.12.1.5" class="ltx_text ltx_font_typewriter">&quot;economics&quot;</span>, etc.).
+- If unclear, use <span id="A3.F12.pic1.2.12.1.6" class="ltx_text ltx_font_typewriter">&quot;null&quot;</span>.
+- ⁢⁢Label 3: Task Type⁢⁢
+- Choose applicable task types (multiple may apply):
+- <span id="A3.F12.pic1.2.12.1.7" class="ltx_text ltx_font_typewriter">&quot;Fact Recall&quot;</span>: Retrieving specific facts.
+- <span id="A3.F12.pic1.2.12.1.8" class="ltx_text ltx_font_typewriter">&quot;Conceptual Understanding&quot;</span>: Explaining/interpreting ideas.
+- <span id="A3.F12.pic1.2.12.1.9" class="ltx_text ltx_font_typewriter">&quot;Comparative Analysis&quot;</span>: Comparing concepts.
+- <span id="A3.F12.pic1.2.12.1.10" class="ltx_text ltx_font_typewriter">&quot;Causal Reasoning&quot;</span>: Examining cause-and-effect.
+- <span id="A3.F12.pic1.2.12.1.11" class="ltx_text ltx_font_typewriter">&quot;Logical Deduction&quot;</span>: Applying logic to conclude.
+- <span id="A3.F12.pic1.2.12.1.12" class="ltx_text ltx_font_typewriter">&quot;Hypothetical Thinking&quot;</span>: Exploring &quot;what if&quot; scenarios.
+- <span id="A3.F12.pic1.2.12.1.13" class="ltx_text ltx_font_typewriter">&quot;Problem-Solving&quot;</span>: Solving practical/theoretical problems.
+- <span id="A3.F12.pic1.2.12.1.14" class="ltx_text ltx_font_typewriter">&quot;Opinion-Based&quot;</span>: Providing subjective reasoning.
+- If none fit, provide a custom description.</span></span>
+<span id="A3.F12.pic1.2.13" class="ltx_p"><span id="A3.F12.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">#### Step 3: Final Output 
+<br class="ltx_break">Return a Python dictionary based on the identified domain and labels:
+<br class="ltx_break">- For <span id="A3.F12.pic1.2.13.1.1" class="ltx_text ltx_font_typewriter">&quot;other&quot;</span>: <span id="A3.F12.pic1.2.13.1.2" class="ltx_text ltx_font_typewriter">{&quot;domain&quot;: &quot;other&quot;, &quot;domain_name&quot;: &quot;&lt;custom_domain_name&gt;&quot;}
+<br class="ltx_break"></span>- For specific domains: 
+<br class="ltx_break"><span id="A3.F12.pic1.2.13.1.3" class="ltx_text ltx_font_typewriter">{&quot;domain&quot;: &quot;&lt;domain&gt;&quot;, &quot;task_type&quot;: [&quot;&lt;task1&gt;&quot;, &quot;&lt;task2&gt;&quot;], &quot;content_type&quot;: [&quot;&lt;content1&gt;&quot;, &quot;&lt;content2&gt;&quot;]}
+<br class="ltx_break"></span> - Replace <span id="A3.F12.pic1.2.13.1.4" class="ltx_text ltx_font_typewriter">&lt;domain&gt;</span> with the identified domain (e.g., <span id="A3.F12.pic1.2.13.1.5" class="ltx_text ltx_font_typewriter">&quot;writing&quot;</span>).
+<br class="ltx_break"> - Replace <span id="A3.F12.pic1.2.13.1.6" class="ltx_text ltx_font_typewriter">&quot;task&quot;</span> with the list of identified task types (or empty list <span id="A3.F12.pic1.2.13.1.7" class="ltx_text ltx_font_typewriter">[]</span> if none apply).
+<br class="ltx_break"> - Replace <span id="A3.F12.pic1.2.13.1.8" class="ltx_text ltx_font_typewriter">&lt;content&gt;</span> with the corresponding value (e.g., <span id="A3.F12.pic1.2.13.1.9" class="ltx_text ltx_font_typewriter">&quot;poetry&quot;</span>, <span id="A3.F12.pic1.2.13.1.10" class="ltx_text ltx_font_typewriter">&quot;sci-fi&quot;</span>, <span id="A3.F12.pic1.2.13.1.11" class="ltx_text ltx_font_typewriter">&quot;history&quot;</span>, etc.).
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>

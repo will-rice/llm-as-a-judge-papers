@@ -1,0 +1,30 @@
+<svg id="A1.F8.p1.pic1" class="ltx_picture" height="753.64" overflow="visible" version="1.1" viewbox="0 0 201.58 753.64" width="201.58"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,753.64) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 747.73 C 0 750.99 2.64 753.64 5.91 753.64 L 195.67 753.64 C 198.94 753.64 201.58 750.99 201.58 747.73 L 201.58 5.91 C 201.58 2.64 198.94 0 195.67 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 747.73 C 1.97 749.9 3.73 751.67 5.91 751.67 L 195.67 751.67 C 197.85 751.67 199.61 749.9 199.61 747.73 L 199.61 5.91 C 199.61 3.73 197.85 1.97 195.67 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 7.29 -116.38)"><foreignobject style="--ltx-fo-width:16.95em;--ltx-fo-height:71.29em;--ltx-fo-depth:0em;font-size:10pt;" height="986.4" overflow="visible" transform="matrix(1 0 0 -1 0 986.4)" width="234.54"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F8.p1.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:16.95em;">
+<span id="A1.F8.p1.pic1.1.1" class="ltx_p"><span id="A1.F8.p1.pic1.1.1.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">To evaluate the quality of the machine translation, consider the following criteria:</span></span>
+<span id="A1.F8.p1.pic1.1.2" class="ltx_p"><span id="A1.F8.p1.pic1.1.2.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">1. **Accuracy**: The translation should accurately convey the meaning of the original sentence without adding, omitting, or altering information.
+<br class="ltx_break">2. **Fluency**: The translated sentence should read naturally in the target language, maintaining proper grammar, syntax, and word order.
+<br class="ltx_break">3. **Consistency**: The translation should be consistent in terms of tense, person, and number across the sentence.
+<br class="ltx_break">4. **Relevance**: The translation should be relevant to the context and purpose of the original sentence.
+<br class="ltx_break">5. **Preservation of Style**: The translation should maintain the style and tone of the original sentence, including any formal or informal elements.
+<br class="ltx_break">6. **Proper Names and Terms**: Names, titles, and technical terms should be correctly transliterated or translated as per the reference.
+<br class="ltx_break">7. **Punctuation and Spacing**: The use of punctuation and spacing should be correct and consistent with the target language standards.
+<br class="ltx_break">8. **Coherence**: The translation should be coherent and logically connected, ensuring that the sentence makes sense as a whole.</span></span>
+<span id="A1.F8.p1.pic1.1.3" class="ltx_p"><span id="A1.F8.p1.pic1.1.3.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Assign a score from 0 to 100 based on the overall quality of the translation, considering the above criteria.
+<br class="ltx_break">Now please evaluate the following translation based on the above guideline criteria:</span></span>
+<span id="A1.F8.p1.pic1.1.4" class="ltx_p"><span id="A1.F8.p1.pic1.1.4.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Original:
+<br class="ltx_break">{original}</span></span>
+<span id="A1.F8.p1.pic1.1.5" class="ltx_p"><span id="A1.F8.p1.pic1.1.5.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Reference:
+<br class="ltx_break">{reference}</span></span>
+<span id="A1.F8.p1.pic1.1.6" class="ltx_p"><span id="A1.F8.p1.pic1.1.6.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Translation:
+<br class="ltx_break">{translation}</span></span>
+<span id="A1.F8.p1.pic1.1.7" class="ltx_p"><span id="A1.F8.p1.pic1.1.7.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Please just directly output the quality score in a json format.
+<br class="ltx_break">For example:
+<br class="ltx_break">“‘json
+<br class="ltx_break">{
+<br class="ltx_break">&quot;original&quot;: &quot;{original}&quot;,
+<br class="ltx_break">&quot;reference&quot;: &quot;{reference}&quot;,
+<br class="ltx_break">&quot;translation&quot;: &quot;{translation}&quot;,
+<br class="ltx_break">&quot;quality_score&quot;: &lt;a score between 0 and 100&gt;
+<br class="ltx_break">}
+<br class="ltx_break">“‘</span></span>
+</span></span></span></foreignobject></g></g></svg>

@@ -1,0 +1,26 @@
+<svg id="A1.F4.p2.pic1" class="ltx_picture" height="680.71" overflow="visible" version="1.1" viewbox="0 0 201.58 680.71" width="201.58"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,680.71) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 674.8 C 0 678.06 2.64 680.71 5.91 680.71 L 195.67 680.71 C 198.94 680.71 201.58 678.06 201.58 674.8 L 201.58 5.91 C 201.58 2.64 198.94 0 195.67 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F9F9F9;" fill="#F9F9F9" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 674.8 C 1.97 676.97 3.73 678.74 5.91 678.74 L 195.67 678.74 C 197.85 678.74 199.61 676.97 199.61 674.8 L 199.61 5.91 C 199.61 3.73 197.85 1.97 195.67 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 7.29 -8.47)"><foreignobject style="--ltx-fo-width:16.95em;--ltx-fo-height:50.42em;--ltx-fo-depth:0em;font-size:10pt;" height="697.66" overflow="visible" transform="matrix(1 0 0 -1 0 697.66)" width="234.54"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A1.F4.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:16.95em;">
+<span id="A1.F4.p2.pic1.1.1" class="ltx_p"><span id="A1.F4.p2.pic1.1.1.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#008000;">You will be given a news article. You will then be given one summary written for this article.</span></span>
+<span id="A1.F4.p2.pic1.1.2" class="ltx_p"><span id="A1.F4.p2.pic1.1.2.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#008000;">Your task is to rate the summary on one metric.</span></span>
+<span id="A1.F4.p2.pic1.1.3" class="ltx_p"><span id="A1.F4.p2.pic1.1.3.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#008000;">Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.<span id="A1.F4.p2.pic1.1.3.1.1" class="ltx_text"></span></span></span>
+<span id="A1.F4.p2.pic1.1.4" class="ltx_p"><span id="A1.F4.p2.pic1.1.4.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#BF0000;">Evaluation Criteria:</span></span>
+<span id="A1.F4.p2.pic1.1.5" class="ltx_p"><span id="A1.F4.p2.pic1.1.5.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#BF0000;">Consistency (1-5) - the factual alignment between the summary and the summarised source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalise summaries that contained hallucinated facts.<span id="A1.F4.p2.pic1.1.5.1.1" class="ltx_text"></span></span></span>
+<span id="A1.F4.p2.pic1.1.6" class="ltx_p"><span id="A1.F4.p2.pic1.1.6.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#0000FF;">Evaluation Steps:</span></span>
+<span id="A1.F4.p2.pic1.1.7" class="ltx_p"><span id="A1.F4.p2.pic1.1.7.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#0000FF;">1. Read the news article carefully and identify the main facts and details it presents. 
+<br class="ltx_break">2. Read the summary and compare it to the article. Check if the summary contains any factual errors that are not supported by the article. 
+<br class="ltx_break">3. Assign a score for consistency based on the Evaluation Criteria.<span id="A1.F4.p2.pic1.1.7.1.1" class="ltx_text"></span></span></span>
+<span id="A1.F4.p2.pic1.1.8" class="ltx_p"><span id="A1.F4.p2.pic1.1.8.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Please evaluate the following summary:
+<br class="ltx_break">Source Text:</span></span>
+<span id="A1.F4.p2.pic1.1.9" class="ltx_p"><span id="A1.F4.p2.pic1.1.9.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">{article}</span></span>
+<span id="A1.F4.p2.pic1.1.10" class="ltx_p"><span id="A1.F4.p2.pic1.1.10.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Summary:</span></span>
+<span id="A1.F4.p2.pic1.1.11" class="ltx_p"><span id="A1.F4.p2.pic1.1.11.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">{summary}</span></span>
+<span id="A1.F4.p2.pic1.1.12" class="ltx_p"><span id="A1.F4.p2.pic1.1.12.1" class="ltx_text" style="font-size:70%;--ltx-fg-color:#000000;">Please just directly output the consistency score in a json format.
+<br class="ltx_break">For example:
+<br class="ltx_break">“‘json 
+<br class="ltx_break">{
+<br class="ltx_break">&quot;article&quot;: &quot;content of the article&quot;, 
+<br class="ltx_break">&quot;summary&quot;: &quot;content of the summary&quot;, 
+<br class="ltx_break">&quot;consistency_score&quot;: &lt;a score between 1 and 5&gt; 
+<br class="ltx_break">}
+<br class="ltx_break">“‘</span></span>
+</span></span></span></foreignobject></g></g></svg>

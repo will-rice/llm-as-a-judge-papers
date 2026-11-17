@@ -1,0 +1,25 @@
+<svg id="A2.F13.pic1" class="ltx_picture ltx_centering" height="482.3" overflow="visible" version="1.1" viewbox="0 0 550 482.3" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,482.3) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 476.4 C 0 479.66 2.64 482.3 5.91 482.3 L 544.09 482.3 C 547.36 482.3 550 479.66 550 476.4 L 550 5.91 C 550 2.64 547.36 0 544.09 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 448.22 L 548.03 448.22 L 548.03 5.91 C 548.03 3.73 546.27 1.97 544.09 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.81 452.15)"><foreignobject style="--ltx-fo-width:38.04em;--ltx-fo-height:1.89em;--ltx-fo-depth:0em;font-size:10pt;" height="26.21" overflow="visible" transform="matrix(1 0 0 -1 0 26.21)" width="526.37"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F13.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.04em;">
+<span id="A2.F13.pic1.1.1" class="ltx_p"><span id="A2.F13.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Thinking Seed Prompt Template for Training Pointwise <span id="A2.F13.pic1.1.1.1.1" class="ltx_text ltx_font_typewriter">J1</span></span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.81 95.99)"><foreignobject style="--ltx-fo-width:38.04em;--ltx-fo-height:24.74em;--ltx-fo-depth:6.08em;font-size:10pt;" height="426.57" overflow="visible" transform="matrix(1 0 0 -1 0 342.39)" width="526.37"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F13.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.04em;">
+<span id="A2.F13.pic1.2.1" class="ltx_p"><span id="A2.F13.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">You are given a user question and a response from an AI assistant. Your task is to act as an impartial judge and evaluate how well the response fulfills the user’s instructions. You will be shown multiple responses to the same prompt, but only one at a time. Evaluate each response independently.
+<br class="ltx_break"></span></span>
+<span id="A2.F13.pic1.2.2" class="ltx_p"><span id="A2.F13.pic1.2.2.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Think carefully about how to assess the quality of the response, and enclose your reasoning within &lt;think&gt; and &lt;/think&gt; tags. Your reasoning should include your evaluation criteria, a clear understanding of what an ideal response would look like for this particular question, and a concrete example of such an ideal or reference answer if possible. Then compare the assistant’s response to your ideal or reference answer, explaining how it aligns with or deviates from your expectations. Be specific and avoid vague or overly general judgments. Remain as objective as possible.
+<br class="ltx_break"></span></span>
+<span id="A2.F13.pic1.2.3" class="ltx_p"><span id="A2.F13.pic1.2.3.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Finally, assign the assistant’s response a score from 0 to 10, using either an integer or a decimal with up to 0.1 precision. A higher score should indicate a higher-quality response. Enclose the score within &lt;score&gt; and &lt;/score&gt; tags.
+<br class="ltx_break"></span></span>
+<span id="A2.F13.pic1.2.4" class="ltx_p"><span id="A2.F13.pic1.2.4.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Format your output like this:
+<br class="ltx_break">&lt;think&gt; your_thinking_process &lt;/think&gt; 
+<br class="ltx_break">&lt;score&gt; your_score &lt;/score&gt;
+<br class="ltx_break"></span></span>
+<span id="A2.F13.pic1.2.5" class="ltx_p"><span id="A2.F13.pic1.2.5.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Below are the user’s question and the assistant’s response:
+<br class="ltx_break">
+<br class="ltx_break"> [User Question]
+<br class="ltx_break">  <span id="A2.F13.pic1.2.5.1.1" class="ltx_text" style="--ltx-fg-color:#1461BD;">{instruction}
+<br class="ltx_break">
+<br class="ltx_break"></span> [The Start of the Assistant’s Answer]
+<br class="ltx_break">  <span id="A2.F13.pic1.2.5.1.2" class="ltx_text" style="--ltx-fg-color:#1461BD;">{response}
+<br class="ltx_break"></span> [The End of the Assistant’s Answer]<span id="A2.F13.pic1.2.5.1.3" class="ltx_text ltx_font_serif">
+</span></span></span>
+</span></span></span></foreignobject></g></g></svg>

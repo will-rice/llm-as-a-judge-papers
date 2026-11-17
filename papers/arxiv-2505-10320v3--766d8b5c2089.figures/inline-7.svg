@@ -1,0 +1,31 @@
+<svg id="A2.F12.pic1" class="ltx_picture ltx_centering" height="572.17" overflow="visible" version="1.1" viewbox="0 0 550 572.17" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,572.17) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 566.26 C 0 569.52 2.64 572.17 5.91 572.17 L 544.09 572.17 C 547.36 572.17 550 569.52 550 566.26 L 550 5.91 C 550 2.64 547.36 0 544.09 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 521.48 L 548.03 521.48 L 548.03 5.91 C 548.03 3.73 546.27 1.97 544.09 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.81 525.41)"><foreignobject style="--ltx-fo-width:38.04em;--ltx-fo-height:3.09em;--ltx-fo-depth:0em;font-size:10pt;" height="42.82" overflow="visible" transform="matrix(1 0 0 -1 0 42.82)" width="526.37"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F12.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.04em;">
+<span id="A2.F12.pic1.1.1" class="ltx_p"><span id="A2.F12.pic1.1.1.1" class="ltx_text" style="--ltx-fg-color:#FFFFFF;">Thinking Seed Prompt Template for Training Pairwise <span id="A2.F12.pic1.1.1.1.1" class="ltx_text ltx_font_typewriter">J1</span> with Verdict and Score</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 11.81 145.8)"><foreignobject style="--ltx-fo-width:38.04em;--ltx-fo-height:26.44em;--ltx-fo-depth:9.68em;font-size:10pt;" height="499.83" overflow="visible" transform="matrix(1 0 0 -1 0 365.84)" width="526.37"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F12.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:38.04em;">
+<span id="A2.F12.pic1.2.1" class="ltx_p"><span id="A2.F12.pic1.2.1.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">You are given a user question and two responses from two AI assistants. Your task is to act as an impartial judge and evaluate which response better follows the user’s instructions and provides a higher-quality answer.
+<br class="ltx_break"></span></span>
+<span id="A2.F12.pic1.2.2" class="ltx_p"><span id="A2.F12.pic1.2.2.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">First, provide your reasoning within &lt;think&gt; and &lt;/think&gt; tags. This should include your evaluation criteria for a high-quality response, a detailed comparison of the two responses, and when helpful, a reference answer as part of your evaluation. Be explicit in your thought process, referencing your criteria and explaining how each response aligns with or deviates from them.
+<br class="ltx_break"></span></span>
+<span id="A2.F12.pic1.2.3" class="ltx_p"><span id="A2.F12.pic1.2.3.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Avoid any position biases and ensure that the order in which the responses were presented does not influence your decision. Do not allow the length of the responses to influence your evaluation. Do not favor certain names of the assistants. Be as objective as possible.
+<br class="ltx_break"></span></span>
+<span id="A2.F12.pic1.2.4" class="ltx_p"><span id="A2.F12.pic1.2.4.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Finally, assign the assistant’s response a score from 0 to 10, using either an integer or a decimal with up to 0.1 precision, with a higher score indicating a higher-quality response that better satisfies the criteria. Enclose the scores within the tags &lt;score_A&gt; &lt;/score_A&gt;, and &lt;score_B&gt; &lt;/score_B&gt;.
+<br class="ltx_break"></span></span>
+<span id="A2.F12.pic1.2.5" class="ltx_p"><span id="A2.F12.pic1.2.5.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Finally, provide your verdict within &lt;answer&gt; and &lt;/answer&gt; tags, strictly following this format:
+<br class="ltx_break">  - &lt;answer&gt; [[A]] &lt;/answer&gt; if Assistant A is better
+<br class="ltx_break"> - &lt;answer&gt; [[B]] &lt;/answer&gt; if Assistant B is better
+<br class="ltx_break"></span></span>
+<span id="A2.F12.pic1.2.6" class="ltx_p"><span id="A2.F12.pic1.2.6.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">Below are the user’s question and the two responses:
+<br class="ltx_break">
+<br class="ltx_break"> [User Question]
+<br class="ltx_break">  <span id="A2.F12.pic1.2.6.1.1" class="ltx_text" style="--ltx-fg-color:#1461BD;">{instruction}
+<br class="ltx_break">
+<br class="ltx_break"></span> [The Start of Assistant A’s Answer]
+<br class="ltx_break">  <span id="A2.F12.pic1.2.6.1.2" class="ltx_text" style="--ltx-fg-color:#1461BD;">{response A}
+<br class="ltx_break"></span> [The End of Assistant A’s Answer]
+<br class="ltx_break">
+<br class="ltx_break"> [The Start of Assistant B’s Answer]
+<br class="ltx_break">  <span id="A2.F12.pic1.2.6.1.3" class="ltx_text" style="--ltx-fg-color:#1461BD;">{response B}
+<br class="ltx_break"></span> [The End of Assistant B’s Answer]<span id="A2.F12.pic1.2.6.1.4" class="ltx_text ltx_font_serif">
+</span></span></span>
+</span></span></span></foreignobject></g></g></svg>
