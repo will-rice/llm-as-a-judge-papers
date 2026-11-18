@@ -1,5 +1,0 @@
-paper: arxiv:2610.15938v1
-latest_error: docling exhausts the runner's memory (16.6 GB peak converting locally); the runner is shut down mid-batch, so the failure is never recorded
-attempt: 2026-11-16T12:30:20+00:00 docling exhausts the runner's memory (16.6 GB peak converting locally); the runner is shut down mid-batch, so the failure is never recorded
-attempt: 2026-11-17T02:39:31+00:00 docling exhausts the runner's memory (16.6 GB peak converting locally); the runner is shut down mid-batch, so the failure is never recorded
-attempt: 2026-11-18T02:58:06+00:00 docling exhausts the runner's memory (16.6 GB peak converting locally); the runner is shut down mid-batch, so the failure is never recorded
