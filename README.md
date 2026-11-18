@@ -9,10 +9,15 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 897 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 949 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-16T12:01:19+00:00 | arxiv:2611.20955v1 | [Jev-as-a-Reward: Validating Probabilistic Safety Judges for Reinforcement Learning](https://arxiv.org/abs/2611.20955v1)                                                                  | arxiv       |
+| 2026-11-16T10:00:57+00:00 | arxiv:2611.20818v1 | [Tight PAC-Bayes Generalisation Guarantees for Large Language Model Judges](https://arxiv.org/abs/2611.20818v1)                                                                           | arxiv       |
+| 2026-11-15T17:45:49+00:00 | arxiv:2611.20156v1 | [Risk-certified prompt optimization for LLM-as-a-judge guardrails](https://arxiv.org/abs/2611.20156v1)                                                                                    | arxiv       |
+| 2026-11-15T17:16:09+00:00 | arxiv:2611.20140v2 | [Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems](https://arxiv.org/abs/2611.20140v2)                                                         | arxiv       |
+| 2026-11-14T17:44:04+00:00 | arxiv:2611.19525v1 | [Objectify, Don't Delete: Complaint-Derived Evaluation of Ambient Clinical Notes](https://arxiv.org/abs/2611.19525v1)                                                                     | arxiv       |
 | 2026-11-14T06:41:22+00:00 | arxiv:2611.19199v1 | [What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](papers/arxiv-2611-19199v1--5adec10ea2c8.md)                                                                        | arxiv       |
 | 2026-11-13T11:50:28+00:00 | arxiv:2611.18067v1 | [Agent-as-a-Judge](papers/arxiv-2611-18067v1--87f52009c8a2.md)                                                                                                                            | arxiv       |
 | 2026-11-12T00:00:00+00:00 | arxiv:2611.17167   | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](papers/arxiv-2611-17167--5d2a7591cdd5.md)                                                                | huggingface |
@@ -38,11 +43,6 @@ The 30 most recent of 897 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-10-30T15:18:29+00:00 | arxiv:2610.41866v1 | [AI evaluators favor job applications written by certain AI models, independent of candidate quality](papers/arxiv-2610-41866v1--ca5f4262760a.md)                                         | arxiv       |
 | 2026-10-30T02:12:30+00:00 | arxiv:2610.41149v1 | [Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges](papers/arxiv-2610-41149v1--e77345a01bef.md)                                                                    | arxiv       |
 | 2026-10-28T07:46:54+00:00 | arxiv:2610.38402v2 | [LLMs as Judges and Examinees for Medical Item Difficulty Prediction](papers/arxiv-2610-38402v2--4904447bb4a8.md)                                                                         | arxiv       |
-| 2026-10-27T23:45:24+00:00 | arxiv:2610.38076v2 | [Prompt Lottery in LLM-as-a-Judge: Measuring and Mitigating Sensitivity to Syntactic Rephrasing](papers/arxiv-2610-38076v2--97091d2b5eaa.md)                                              | arxiv       |
-| 2026-10-27T19:13:01+00:00 | arxiv:2610.37868v1 | [Human-Residual Steering: Aligning Frozen LLM Judges with Human Judgment Distributions](papers/arxiv-2610-37868v1--7dd46ff4731d.md)                                                       | arxiv       |
-| 2026-10-27T13:38:28+00:00 | arxiv:2610.37229v1 | [Decision Models as Judges for Hallucination Detection](papers/arxiv-2610-37229v1--842b5314d918.md)                                                                                       | arxiv       |
-| 2026-10-26T08:05:21+00:00 | arxiv:2610.34993v1 | [Reason or Recite: Complementary Specialists with an LLM Judge for Traffic Anomaly Reasoning](papers/arxiv-2610-34993v1--6dbef615db25.md)                                                 | arxiv       |
-| 2026-10-26T05:45:11+00:00 | arxiv:2610.34875v1 | [RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge](papers/arxiv-2610-34875v1--6b052cbb9cd1.md)                                                                                | arxiv       |
 
 <!-- papers-index:end -->
 

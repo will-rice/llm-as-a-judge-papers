@@ -1,0 +1,72 @@
+<svg id="A4.SS2.p1.pic1" class="ltx_picture" height="1369.09" overflow="visible" version="1.1" viewbox="0 0 550 1369.09" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1369.09) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#404040;" fill="#404040" fill-opacity="0.1"><path style="stroke:none" d="M 0 4.53 L 0 1364.57 C 0 1367.07 2.03 1369.09 4.53 1369.09 L 545.47 1369.09 C 547.97 1369.09 550 1367.07 550 1364.57 L 550 4.53 C 550 2.03 547.97 0 545.47 0 L 4.53 0 C 2.03 0 0 2.03 0 4.53 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="0.1"><path style="stroke:none" d="M 1.57 4.53 L 1.57 1364.57 C 1.57 1366.2 2.9 1367.52 4.53 1367.52 L 545.47 1367.52 C 547.1 1367.52 548.43 1366.2 548.43 1364.57 L 548.43 4.53 C 548.43 2.9 547.1 1.57 545.47 1.57 L 4.53 1.57 C 2.9 1.57 1.57 2.9 1.57 4.53 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.39 9.19)"><foreignobject style="--ltx-fo-width:37.81em;--ltx-fo-height:97.81em;--ltx-fo-depth:0.19em;font-size:10pt;" height="1356.12" overflow="visible" transform="matrix(1 0 0 -1 0 1353.43)" width="523.18"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content"><span id="A4.SS2.p1.pic1.1" class="ltx_inline-logical-block ltx_minipage ltx_align_bottom" style="width:37.81em;">
+<span id="A4.SS2.p1.pic1.p1" class="ltx_para ltx_noindent">
+<span id="A4.SS2.p1.pic1.p1.1" class="ltx_p"><span id="A4.SS2.p1.pic1.p1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Field: </span><span id="A4.SS2.p1.pic1.p1.1.2" class="ltx_text" style="--ltx-fg-color:#000000;">
+Hobbies &amp; Leisure </span><math id="A4.SS2.p1.pic1.p1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A4.SS2.p1.pic1.p1.1.3" class="ltx_text" style="--ltx-fg-color:#000000;"> Cycling </span><math id="A4.SS2.p1.pic1.p1.m2" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math><span id="A4.SS2.p1.pic1.p1.1.4" class="ltx_text" style="--ltx-fg-color:#000000;"> Bicycles &amp; Accessories
+</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.5" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Question: Which material is most commonly used for road bike frames? </span><span id="A4.SS2.p1.pic1.p1.1.6" class="ltx_text" style="--ltx-fg-color:#000000;">
+</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.7" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Answer-Flan-T5: </span><span id="A4.SS2.p1.pic1.p1.1.8" class="ltx_text" style="--ltx-fg-color:#000000;">
+Aluminium is most commonly used for road bike frames. ✓</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.9" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Following-Question: What are the advantages and disadvantages of using aluminium for road bike frames compared to other materials like carbon fiber and steel? </span><span id="A4.SS2.p1.pic1.p1.1.10" class="ltx_text" style="--ltx-fg-color:#000000;">
+</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.11" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Answer-Flan-T5: </span><span id="A4.SS2.p1.pic1.p1.1.12" class="ltx_text" style="--ltx-fg-color:#000000;">
+Aluminium is a light, strong, and durable material that is used for road bike frames. Aluminium is also a cheap material, making it a popular choice for budget road bikes. Aluminium is also a good choice for road bikes because it is easy to weld and can be made into a variety of shapes.
+</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.13" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Score: accuracy: 2 coherence: 3 factuality: 3 comprehensive: 1 overall: 2 </span><span id="A4.SS2.p1.pic1.p1.1.14" class="ltx_text" style="--ltx-fg-color:#000000;">
+</span>
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p1.1.15" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Reason: </span><span id="A4.SS2.p1.pic1.p1.1.16" class="ltx_text" style="--ltx-fg-color:#000000;">
+Accuracy: 2
+The answer mentions some advantages of using aluminium but does not discuss the disadvantages or compare it to carbon fiber and steel.</span></span>
+</span>
+<span id="A4.SS2.p1.pic1.p2" class="ltx_para">
+<span id="A4.SS2.p1.pic1.p2.1" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Coherence: 3</span></span>
+<span id="A4.SS2.p1.pic1.p2.2" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">The answer is well-structured, clear, and easily understandable.</span></span>
+<span id="A4.SS2.p1.pic1.p2.3" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">Factuality: 3</span></span>
+<span id="A4.SS2.p1.pic1.p2.4" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">The facts presented about aluminium are correct.</span></span>
+<span id="A4.SS2.p1.pic1.p2.5" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Comprehensive: 1</span></span>
+<span id="A4.SS2.p1.pic1.p2.6" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">The answer does not cover multiple aspects of the question; it only focuses on the advantages of aluminium and does not discuss disadvantages or comparisons with carbon fiber and steel.</span></span>
+<span id="A4.SS2.p1.pic1.p2.7" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">Overall score: 2</span></span>
+<span id="A4.SS2.p1.pic1.p2.8" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">The answer provides some accurate information about aluminium but fails to fully address the question regarding disadvantages and comparisons with other materials. 
+<br class="ltx_break">
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.1" class="ltx_text ltx_font_bold">Field: </span>
+Sports
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.2" class="ltx_text ltx_font_bold">Question: In basketball, what defensive strategies are commonly employed to disrupt an opposing team’s offensive flow? </span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.3" class="ltx_text ltx_font_bold">Answer-GLM-130B: </span>
+In basketball, defensive strategies commonly employed to disrupt an opposing team’s offensive flow include trapping, double-teaming, and switching. ✓
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.4" class="ltx_text ltx_font_bold">Following Question: Can you describe the differences between trapping, double-teaming, and switching in basketball defense? </span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.5" class="ltx_text ltx_font_bold">Answer-GLM-130B: </span>
+Trapping is a defensive strategy in which a defender attempts to block the path of a ball-handler by moving in front of him or her. Double-teaming is a defensive strategy in which two defenders attempt to block the path of a ball-handler by moving in front of him or her. Switching is a defensive strategy in which a defender moves from one side of the court to the other to block the path of a ball-handler.
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.6" class="ltx_text ltx_font_bold">Score: accuracy: 2 coherence: 3 factuality: 2 comprehensive: 2 overall: 3 </span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.8.1.7" class="ltx_text ltx_font_bold">Reason: </span>
+Accuracy: 2 The answer provides a basic understanding of the three defensive strategies but lacks some important details. For example, trapping usually involves two defenders closing in on the ball-handler, not just one.</span></span>
+<span id="A4.SS2.p1.pic1.p2.9" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">Coherence: 3 The answer is well-structured and easy to understand for non-professionals.</span></span>
+<span id="A4.SS2.p1.pic1.p2.10" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">Factuality: 2 The answer contains some factual errors, such as the description of trapping involving only one defender.</span></span>
+<span id="A4.SS2.p1.pic1.p2.11" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.11.1" class="ltx_text" style="--ltx-fg-color:#000000;">Comprehensive: 2 The answer provides a basic understanding of the three defensive strategies but lacks some important details, such as the purpose of each strategy and how they are executed in a game.</span></span>
+<span id="A4.SS2.p1.pic1.p2.12" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">Overall Score: 3 The answer provides a basic understanding of the three defensive strategies but could be improved with more accurate and detailed information. 
+<br class="ltx_break">
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.1" class="ltx_text ltx_font_bold">Field: </span>
+Health <math id="A4.SS2.p1.pic1.m1" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math> Health News <math id="A4.SS2.p1.pic1.m2" class="ltx_Math" alttext="\rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">→</mo><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math> Health Policy
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.2" class="ltx_text ltx_font_bold">Question: Which organization is primarily responsible for global health policies and guidelines? </span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.3" class="ltx_text ltx_font_bold">Answer-LLaMA-65B: </span>
+The World Health Organization (WHO) is primarily responsible for global health policies and guidelines. ✓
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.4" class="ltx_text ltx_font_bold">Following Question Can you describe the process by which the World Health Organization develops and implements these global health policies and guidelines?</span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.5" class="ltx_text ltx_font_bold">Answer-LLaMA-65B: </span>
+The World Health Organization develops and implements global health policies and guidelines through a process of consultation with experts, member states, and other stakeholders.
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.6" class="ltx_text ltx_font_bold">Score: accuracy: 3 coherence: 3 factuality: 3 comprehensive: 2 overall: 4 </span>
+
+<br class="ltx_break"><span id="A4.SS2.p1.pic1.p2.12.1.7" class="ltx_text ltx_font_bold">Reason: </span>
+Accuracy: 3 Reason: The answer correctly describes the process of consultation with experts, member states, and stakeholders.</span></span>
+<span id="A4.SS2.p1.pic1.p2.13" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">Coherence: 3 Reason: The answer is well-structured, logical, and easily understandable by non-professionals.</span></span>
+<span id="A4.SS2.p1.pic1.p2.14" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">Factuality: 3 Reason: The answer contains no factual errors.</span></span>
+<span id="A4.SS2.p1.pic1.p2.15" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">Comprehensiveness: 2 Reason: The answer provides a general overview of the process but could include more details about the specific steps involved in developing and implementing policies and guidelines.</span></span>
+<span id="A4.SS2.p1.pic1.p2.16" class="ltx_p"><span id="A4.SS2.p1.pic1.p2.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">Overall Score: 4 Reason: The answer is accurate, coherent, and factual, but could be more comprehensive in describing the process.</span></span>
+</span></span></span></span></foreignobject></g></g></svg>
