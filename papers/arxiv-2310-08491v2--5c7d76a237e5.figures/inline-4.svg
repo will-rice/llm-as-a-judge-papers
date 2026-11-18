@@ -1,0 +1,35 @@
+<svg id="A7.p6.pic1" class="ltx_picture" height="591.42" overflow="visible" version="1.1" viewbox="0 0 550 591.42" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,591.42) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#8CFF8C;" fill="#8CFF8C" fill-opacity="1.0"><path style="stroke:none" d="M 0 0 L 0 591.42 L 550 591.42 L 550 0 Z" /></g><g style="--ltx-fill-color:#FFFFFF;" fill="#FFFFFF" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 1.97 L 1.97 567.31 L 548.03 567.31 L 548.03 1.97 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 575.9)"><foreignobject style="--ltx-fo-width:31.84em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="440.58"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p6.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:31.84em;">
+<span id="A7.p6.pic1.1.1" class="ltx_p"><span id="A7.p6.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Prompt for Generating Responses and Feedback</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 21.65 13.78)"><foreignobject style="--ltx-fo-width:36.62em;--ltx-fo-height:39.15em;--ltx-fo-depth:0em;font-size:10pt;" height="541.73" overflow="visible" transform="matrix(1 0 0 -1 0 541.73)" width="506.72"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A7.p6.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:36.62em;">
+<span id="A7.p6.pic1.2.1" class="ltx_p"><span id="A7.p6.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Your job is to generate a response that would get a score of {SCORE} and corresponding feedback based on the given score rubric. For reference, a reference response that would get a score of 5 is also given.
+<br class="ltx_break">
+<br class="ltx_break">Instruction:
+<br class="ltx_break">{INSTRUCTION}
+<br class="ltx_break">
+<br class="ltx_break">The score rubric:
+<br class="ltx_break">{CRITERIA}
+<br class="ltx_break">
+<br class="ltx_break">Reference response (Score 5):
+<br class="ltx_break">{REFERENCE}
+<br class="ltx_break">
+<br class="ltx_break">* Response
+<br class="ltx_break">- The quality of the score {SCORE} response should be determined based on the score rubric, not by its length.
+<br class="ltx_break">- The score {SCORE} response should have the same length as the reference response, composed of {SENT NUM} sentences.
+<br class="ltx_break">- Do not explicitly state the keywords of the score rubric inside the response.
+<br class="ltx_break">
+<br class="ltx_break">* Feedback
+<br class="ltx_break">- The score {SCORE} feedback should each be an explanation of why the response would get a score of {SCORE}. It should be written based on the generated response and score rubric.
+<br class="ltx_break">- The score {SCORE} feedback shouldn’t just copy and paste the score rubric, but it should also give very detailed feedback on the content of the corresponding response.
+<br class="ltx_break">- The score {SCORE} feedback should include the phrase ”So the overall score is {SCORE}” in the last sentence.
+<br class="ltx_break">
+<br class="ltx_break">* Format
+<br class="ltx_break">- DO NOT WRITE ANY GREETING MESSAGES, just write the problem and response only.
+<br class="ltx_break">- In front of the response, append the phrase ”Response:” and in front of the feedback, append the phrase ”Feedback:”.
+<br class="ltx_break">- Write in the order of ”Response” - ”Feedback”, where the two items are separated by the phrase ”[NEXT]”.
+<br class="ltx_break">- Write [END] after you are done.
+<br class="ltx_break">
+<br class="ltx_break">Data Generation:
+<br class="ltx_break"></span></span>
+</span></span></span></foreignobject></g></g></svg>
