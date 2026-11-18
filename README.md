@@ -9,10 +9,11 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 949 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 954 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-17T15:39:40+00:00 | arxiv:2611.22949v1 | [Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?](papers/arxiv-2611-22949v1--46a7a10d6c4d.md)                                             | arxiv       |
 | 2026-11-16T12:01:19+00:00 | arxiv:2611.20955v1 | [Jev-as-a-Reward: Validating Probabilistic Safety Judges for Reinforcement Learning](papers/arxiv-2611-20955v1--69729befc44e.md)                                                          | arxiv       |
 | 2026-11-16T10:00:57+00:00 | arxiv:2611.20818v1 | [Tight PAC-Bayes Generalisation Guarantees for Large Language Model Judges](papers/arxiv-2611-20818v1--7cc2c0217d92.md)                                                                   | arxiv       |
 | 2026-11-15T17:45:49+00:00 | arxiv:2611.20156v1 | [Risk-certified prompt optimization for LLM-as-a-judge guardrails](papers/arxiv-2611-20156v1--82df10ed72ae.md)                                                                            | arxiv       |
@@ -42,7 +43,6 @@ The 30 most recent of 949 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-10-30T23:02:26+00:00 | arxiv:2611.00447v1 | [Quantiles, Not Points: Streaming Quantile Matching for Ordinal-Aware LLM-as-a-Judge Calibration](papers/arxiv-2611-00447v1--47b2337fb16f.md)                                             | arxiv       |
 | 2026-10-30T15:18:29+00:00 | arxiv:2610.41866v1 | [AI evaluators favor job applications written by certain AI models, independent of candidate quality](papers/arxiv-2610-41866v1--ca5f4262760a.md)                                         | arxiv       |
 | 2026-10-30T02:12:30+00:00 | arxiv:2610.41149v1 | [Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges](papers/arxiv-2610-41149v1--e77345a01bef.md)                                                                    | arxiv       |
-| 2026-10-28T07:46:54+00:00 | arxiv:2610.38402v2 | [LLMs as Judges and Examinees for Medical Item Difficulty Prediction](papers/arxiv-2610-38402v2--4904447bb4a8.md)                                                                         | arxiv       |
 
 <!-- papers-index:end -->
 
