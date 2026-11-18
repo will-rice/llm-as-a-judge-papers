@@ -1,0 +1,48 @@
+<svg id="A8.p10.pic1" class="ltx_picture" height="829.53" overflow="visible" version="1.1" viewbox="0 0 477.38 829.53" width="477.38"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,829.53) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#000000;" fill="#000000" fill-opacity="1.0" fill-rule="evenodd"><path style="stroke:none" d="M 0 0 L 0 829.53 L 477.38 829.53 L 477.38 0 Z M 0.42 0.42 L 0.42 829.12 L 476.96 829.12 L 476.96 0.42 Z" /></g><g style="--ltx-fill-color:#F2F2F2;" fill="#F2F2F2" fill-opacity="0"><path style="stroke:none" d="M 0.42 0.42 L 0.42 829.12 L 476.96 829.12 L 476.96 0.42 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 20.1 811.39)"><foreignobject style="--ltx-fo-width:39.64em;--ltx-fo-height:0.63em;--ltx-fo-depth:84.87em;font-size:6.81pt;" height="805.09" overflow="visible" transform="matrix(1 0 0 -1 0 5.92)" width="373.29"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A8.p10.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:39.64em;">
+<span id="A8.p10.pic1.1.1" class="ltx_p"><span id="A8.p10.pic1.1.1.1" class="ltx_text ltx_font_typewriter" style="font-size:70%;--ltx-fg-color:#000000;">You are a helpful AI software assistant that reasons about how code behaves. Given a program, you can find loop invariants, which can then be used to verify some property in the program. 
+<br class="ltx_break">Frama-C is a software verification tool for C programs. The input to Frama-C is a C program file with ACSL (ANSI/ISO C Specification Language) annotations.
+<br class="ltx_break">For the given program, find the necessary loop invariants of the while loop to help Frama-C verify the post-condition.
+<br class="ltx_break">
+<br class="ltx_break">Instructions:
+<br class="ltx_break">- Make a note of the pre-conditions or variable assignments in the program.
+<br class="ltx_break">- Analyze the loop body and make a note of the loop condition. 
+<br class="ltx_break">- Output loop invariants that are true 
+<br class="ltx_break">(i) before the loop execution, 
+<br class="ltx_break">(ii) in every iteration of the loop and 
+<br class="ltx_break">(iii) after the loop termination, 
+<br class="ltx_break">such that the loop invariants imply the post condition.
+<br class="ltx_break">- If a loop invariant is a conjunction, split it into its parts.
+<br class="ltx_break">- Output all the loop invariants in one code block. For example:
+<br class="ltx_break">‘‘‘
+<br class="ltx_break">/*@ 
+<br class="ltx_break">loop invariant i1;
+<br class="ltx_break">loop invariant i2;
+<br class="ltx_break">*/
+<br class="ltx_break">‘‘‘
+<br class="ltx_break">Rules:
+<br class="ltx_break">- **Do not use variables or functions that are not declared in the program.** 
+<br class="ltx_break">- **Do not make any assumptions about functions whose definitions are not given.**
+<br class="ltx_break">- **All undefined variables contain garbage values. Do not use variables that have garbage values.**
+<br class="ltx_break">- **Do not use keywords that are not supported in ACSL annotations for loops.**
+<br class="ltx_break">- **Variables that are not explicitly initialized, could have garbage values. Do not make any assumptions about such values.**
+<br class="ltx_break">- **Do not use the 
+<br class="ltx_break">at(x, Pre) notation for any variable x.**
+<br class="ltx_break">- **Do not use non-deterministic function calls.**
+<br class="ltx_break">Consider the following C program:
+<br class="ltx_break">‘‘‘
+<br class="ltx_break"> code 
+<br class="ltx_break">‘‘‘
+<br class="ltx_break">You are allowed to use implication to take care of the conditional nature of the code. Use implication (<math id="A8.p10.pic1.m1" class="ltx_Math" alttext="\Rightarrow" display="inline" intent=":literal"><semantics><mo style="--ltx-fg-color:#000000;" mathcolor="#000000" stretchy="false">⇒</mo><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math>) instead of using if-then.
+<br class="ltx_break">
+<br class="ltx_break">For all variables, add conjunctions that bound the maximum and minimum values that they can take, if such bounds exist.
+<br class="ltx_break">
+<br class="ltx_break">If a variable is always equal to or smaller or larger than another variable, add a conjunction for their relation.
+<br class="ltx_break">
+<br class="ltx_break">If the assertion is guarded by a condition, use the guard condition in an implication.
+<br class="ltx_break">
+<br class="ltx_break">If certain variables are non-deterministic at the beginning or end of the loop, use an implication to make the invariant trivially true at that location. 
+<br class="ltx_break">
+<br class="ltx_break">Output the loop invariants for the loop in the program above. Let’s think step by step.<span id="A8.p10.pic1.1.1.1.1" class="ltx_text ltx_font_serif">
+</span></span></span>
+</span></span></span></foreignobject></g></g></svg>
