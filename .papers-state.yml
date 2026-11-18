@@ -1,13 +1,10 @@
 backfill:
   arxiv:
-    continuation:
-      cursor: eyJjb25zdW1lZCI6NywicGFnZSI6MSwic3RhcnQiOjd9
-      window_end: '2023-02-27T03:16:31.879801Z'
-      window_start: '2022-11-29T03:16:31.879801Z'
-    covered_from: '2023-02-27T03:16:31.879801Z'
+    continuation: null
+    covered_from: '2022-01-01T00:00:00Z'
   huggingface:
     continuation:
-      cursor: eyJkYXRlIjoiMjAyNi0wMS0zMCIsInBhZ2UiOjEsInNvdXJjZV9jb25zdW1lZCI6NzgyMn0
+      cursor: eyJkYXRlIjoiMjAyNS0xMi0wMyIsInBhZ2UiOjEsInNvdXJjZV9jb25zdW1lZCI6ODkwNH0
       window_end: '2026-11-08T03:16:31.879801Z'
       window_start: '2025-11-08T03:16:31.879801Z'
     covered_from: '2026-11-08T03:16:31.879801Z'
