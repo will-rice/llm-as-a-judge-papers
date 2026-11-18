@@ -1,0 +1,213 @@
+<svg id="A2.p3.pic1" class="ltx_picture" height="3464.53" overflow="visible" version="1.1" viewbox="0 0 550 3464.53" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,3464.53) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 0 8.84 L 0 3455.69 C 0 3460.57 3.96 3464.53 8.84 3464.53 L 541.16 3464.53 C 546.04 3464.53 550 3460.57 550 3455.69 L 550 8.84 C 550 3.96 546.04 0 541.16 0 L 8.84 0 C 3.96 0 0 3.96 0 8.84 Z" /></g><g style="--ltx-fill-color:#F0F6FB;" fill="#F0F6FB" fill-opacity="1.0"><path style="stroke:none" d="M 0.97 8.84 L 0.97 3442.42 L 549.03 3442.42 L 549.03 8.84 C 549.03 4.49 545.51 0.97 541.16 0.97 L 8.84 0.97 C 4.49 0.97 0.97 4.49 0.97 8.84 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.21 3450.01)"><foreignobject style="--ltx-fo-width:32.9em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="455.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.p3.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:32.9em;">
+<span id="A2.p3.pic1.1.1" class="ltx_p"><span id="A2.p3.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Coder Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.21 3419.8)"><foreignobject style="--ltx-fo-width:37.84em;--ltx-fo-height:0.75em;--ltx-fo-depth:246.2em;font-size:10pt;" height="3417.01" overflow="visible" transform="matrix(1 0 0 -1 0 10.38)" width="523.6"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.p3.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:37.84em;">
+<span id="A2.p3.pic1.2.1" class="ltx_p"><span id="A2.p3.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Initial Website Generation]
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.2" class="ltx_p"><span id="A2.p3.pic1.2.2.1" class="ltx_text" style="--ltx-fg-color:#000000;">Create a single-page web application based on the following specification:
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.3" class="ltx_p"><span id="A2.p3.pic1.2.3.1" class="ltx_text" style="--ltx-fg-color:#000000;">{instruction}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.4" class="ltx_p"><span id="A2.p3.pic1.2.4.1" class="ltx_text" style="--ltx-fg-color:#000000;">Requirements:
+<br class="ltx_break">1. Create a complete HTML file with embedded CSS and JavaScript
+<br class="ltx_break">2. The app should be fully functional and interactive
+<br class="ltx_break">3. Use modern HTML5, CSS3, and vanilla JavaScript (no external libraries)
+<br class="ltx_break">4. Include proper semantic HTML structure
+<br class="ltx_break">5. Make the UI clean, responsive, and user-friendly
+<br class="ltx_break">6. Add unique IDs to interactive elements for easier automation testing
+<br class="ltx_break">7. Ensure the app works in a 1280x720 viewport
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.5" class="ltx_p"><span id="A2.p3.pic1.2.5.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please generate the complete HTML file:
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.6" class="ltx_p"><span id="A2.p3.pic1.2.6.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Revision from CUA Failures — Core Prompt]
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.7" class="ltx_p"><span id="A2.p3.pic1.2.7.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are tasked with improving a web application based on detailed failure analysis from automated testing.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.8" class="ltx_p"><span id="A2.p3.pic1.2.8.1" class="ltx_text" style="--ltx-fg-color:#000000;">## CONTEXT
+<br class="ltx_break">Application: {app_name}
+<br class="ltx_break">Model: {model_name}
+<br class="ltx_break">Total Failed Tasks: {len(failed_tasks)}
+<br class="ltx_break">Failure Categories: {list(failure_categories.keys())}
+<br class="ltx_break">Original HTML Length: {len(initial_html.strip())}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.9" class="ltx_p"><span id="A2.p3.pic1.2.9.1" class="ltx_text" style="--ltx-fg-color:#000000;">## OUTPUT FORMAT
+<br class="ltx_break">Generate a single, complete, and self-contained HTML file. The file must be fully functional, including all necessary CSS and JavaScript, from ‘!DOCTYPE html‘ to ‘/html‘. Do not use placeholders or truncate the code.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.10" class="ltx_p"><span id="A2.p3.pic1.2.10.1" class="ltx_text" style="--ltx-fg-color:#000000;">## ORIGINAL INITIAL WEBSITE (FULL)
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.11" class="ltx_listing ltx_lst_language_Python ltx_lstlisting ltx_framed ltx_framed_rectangle ltx_listing" style="--ltx-border-color:#BFBFBF;"><span class="ltx_listing_data"><a href="data:text/plain;base64,e2luaXRpYWxfaHRtbH0=" download>⬇</a></span>
+<span id="lstnumberx7" class="ltx_listingline"><span id="lstnumberx7.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{</span><span id="lstnumberx7.2" class="ltx_text ltx_lst_identifier ltx_font_typewriter" style="--ltx-fg-color:#000000;">initial_html</span><span id="lstnumberx7.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">}</span>
+</span>
+</span>
+<span id="A2.p3.pic1.2.12" class="ltx_p"><span id="A2.p3.pic1.2.12.1" class="ltx_text" style="--ltx-fg-color:#000000;">## COMMENTER UI ANALYSIS
+<br class="ltx_break">{(failure_analysis or ”No visual UI analysis available”).strip()}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.13" class="ltx_p"><span id="A2.p3.pic1.2.13.1" class="ltx_text" style="--ltx-fg-color:#000000;">{(non_regression_contract_prompt or ”).strip()}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.14" class="ltx_p"><span id="A2.p3.pic1.2.14.1" class="ltx_text" style="--ltx-fg-color:#000000;">## IMPROVEMENT REQUIREMENTS
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.15" class="ltx_p"><span id="A2.p3.pic1.2.15.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 1. Core Issues to Address
+<br class="ltx_break">Based on the failure analysis, you must:
+<br class="ltx_break">- Identify missing DOM elements that tasks expect to exist
+<br class="ltx_break">- Add missing JavaScript functionality for user interactions
+<br class="ltx_break">- Fix timing issues that prevent task completion
+<br class="ltx_break">- Ensure proper event handling and state management
+<br class="ltx_break">- Add missing visual feedback and UI updates
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.16" class="ltx_p"><span id="A2.p3.pic1.2.16.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 2. Specific Fixes Needed
+<br class="ltx_break">For each failed task category:
+<br class="ltx_break">- **basic_usage**: Ensure fundamental interactions work (clicking, displaying, updating)
+<br class="ltx_break">- **workflow**: Support complete user workflows and multi-step processes
+<br class="ltx_break">- **advanced_feature**: Implement sophisticated UI behaviors and animations
+<br class="ltx_break">- **edge_case**: Handle unusual inputs and boundary conditions properly
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.17" class="ltx_p"><span id="A2.p3.pic1.2.17.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 3. Technical Implementation Guidelines
+<br class="ltx_break">- Preserve ALL existing working functionality from initial version
+<br class="ltx_break">- Add missing HTML elements with unique IDs for automation
+<br class="ltx_break">- Implement complete JavaScript event handlers and state updates
+<br class="ltx_break">- Ensure synchronous UI updates for immediate feedback
+<br class="ltx_break">- Do NOT introduce new input constraints that would block task inputs implied by the tasks (e.g., accept plain text or non-HTTP payloads if tasks need them). Validation must be permissive and never reduce what the initial version allowed.
+<br class="ltx_break">- Do NOT auto-trigger flows on page load that would change initial states relied upon by tasks (e.g., auto-generation, auto-download, auto-navigation). Initial state should be neutral and idle.
+<br class="ltx_break">- Keep critical controls visible within a 1280x720 viewport without scrolling. Avoid multi-panel ”hub” layouts; prefer single-view, compact layouts that fit important controls on screen.
+<br class="ltx_break">- Avoid adding non-essential animations/transitions; prioritize high visibility and clarity over decoration.
+<br class="ltx_break">- Make sure timers, counters, and dynamic content work correctly
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.18" class="ltx_p"><span id="A2.p3.pic1.2.18.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 4. DOM Structure Requirements
+<br class="ltx_break">- Every interactive element MUST have a unique ID
+<br class="ltx_break">- Form controls must have proper event listeners
+<br class="ltx_break">- Dynamic content areas must update immediately on state changes
+<br class="ltx_break">- Visual feedback must be implemented for all user actions
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.19" class="ltx_p"><span id="A2.p3.pic1.2.19.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 5. JavaScript Functionality Requirements
+<br class="ltx_break">- All user interactions mentioned in failed tasks must be fully implemented
+<br class="ltx_break">- State changes must be reflected in the DOM immediately
+<br class="ltx_break">- Event handlers must properly update all related UI elements
+<br class="ltx_break">- Any game logic, scoring, timing must be complete and functional
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.20" class="ltx_p"><span id="A2.p3.pic1.2.20.1" class="ltx_text" style="--ltx-fg-color:#000000;">Surgical Revision Policy
+<br class="ltx_break">- Preserve existing IDs; do not rename or remove working elements from initial version.
+<br class="ltx_break">- Avoid large rewrites. Patch only the functions, event handlers, and minimal markup necessary to satisfy the failed/unsupported tasks.
+<br class="ltx_break">- Preserve working logic from initial version; do not regress features that already work.
+<br class="ltx_break">- Reuse existing elements/IDs for state wherever possible; only add new IDs if strictly necessary to expose the state of new logic.
+<br class="ltx_break">- Preserve initial version immediacy semantics. Do NOT introduce extra confirmation steps as prerequisites where initial version achieved completion via immediate interactions. Implement functional logic first, then expose proxies from the same code path; never update proxies without the underlying state change.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.21" class="ltx_p"><span id="A2.p3.pic1.2.21.1" class="ltx_text" style="--ltx-fg-color:#000000;">Commenter JSON (if provided)
+<br class="ltx_break">- If the COMMENTER UI ANALYSIS is a JSON object, prioritize applying entries in ‘actionable_changes‘ precisely.
+<br class="ltx_break">- Keep changes surgical and bounded by those actionable suggestions; do not broaden scope beyond them.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.22" class="ltx_p"><span id="A2.p3.pic1.2.22.1" class="ltx_text" style="--ltx-fg-color:#000000;">## OUTPUT REQUIREMENTS
+<br class="ltx_break">Generate a COMPLETE, FULLY FUNCTIONAL HTML file that:
+<br class="ltx_break">1. Addresses ALL failure points identified in the analysis
+<br class="ltx_break">2. Maintains existing successful functionality from initial version
+<br class="ltx_break">3. Implements missing features causing task failures
+<br class="ltx_break">4. Provides proper DOM elements for automation testing
+<br class="ltx_break">5. Ensures immediate UI feedback for all user actions
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.23" class="ltx_p"><span id="A2.p3.pic1.2.23.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Revision — Agent-centric Design Principles]
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.24" class="ltx_p"><span id="A2.p3.pic1.2.24.1" class="ltx_text" style="--ltx-fg-color:#000000;">While improving functionality, apply the following design principles to optimize the UI for automated agents. The goal is functionality and testability, not human aesthetics.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.25" class="ltx_p"><span id="A2.p3.pic1.2.25.1" class="ltx_text" style="--ltx-fg-color:#000000;">### A. Visual Clarity and Simplicity
+<br class="ltx_break">- Use a simple color scheme (e.g., black text on a white background).
+<br class="ltx_break">- Avoid decorative elements that do not serve a functional purpose, such as animations, gradients, or shadows.
+<br class="ltx_break">- Establish a clear visual hierarchy using typography and spacing. Logically group related controls.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.26" class="ltx_p"><span id="A2.p3.pic1.2.26.1" class="ltx_text" style="--ltx-fg-color:#000000;">### B. Robust Agent Interaction
+<br class="ltx_break">- All interactive controls must be clearly labeled and sized appropriately to be easily and unambiguously targeted by automation tools.
+<br class="ltx_break">- Support keyboard-based interaction for all core functionality. Navigable elements should have clear focus indicators.
+<br class="ltx_break">- Prioritize immediate state updates upon interaction. Avoid complex, multi-step confirmation dialogs for actions where direct manipulation is sufficient.
+<br class="ltx_break">- All critical functionality should be accessible within a standard 1280x720 viewport without requiring scrolling.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.27" class="ltx_p"><span id="A2.p3.pic1.2.27.1" class="ltx_text" style="--ltx-fg-color:#000000;">### C. Transparent State Management
+<br class="ltx_break">- The DOM must serve as a reliable, single source of truth for the application’s state.
+<br class="ltx_break">- Ensure that any significant state change (e.g., a result is generated, a calculation is complete) is clearly and synchronously reflected in the DOM. This can be achieved by updating element attributes, text content, or values.
+<br class="ltx_break">- Interactive elements and state indicators must have unique and stable IDs to facilitate reliable testing and interaction.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.28" class="ltx_p"><span id="A2.p3.pic1.2.28.1" class="ltx_text" style="--ltx-fg-color:#000000;">### D. Versatile Input Handling
+<br class="ltx_break">- For continuous inputs (like sliders), provide alternative discrete control mechanisms (e.g., step buttons, direct text input). No interaction should rely solely on pointer-dragging.
+<br class="ltx_break">- Input validation should be permissive and should not block inputs that an automated task might reasonably provide.
+<br class="ltx_break">- Distinguish between actions that cause immediate, reversible state changes (e.g., selecting an option) and those that trigger irreversible, multi-step processes (e.g., submitting a form).
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.29" class="ltx_p"><span id="A2.p3.pic1.2.29.1" class="ltx_text" style="--ltx-fg-color:#000000;">### E. Behavior Preservation
+<br class="ltx_break">- Simplifying the visual design must not alter the core interaction logic.
+<br class="ltx_break">- Any user action that was immediate in initial version must remain immediate in the revised version.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.30" class="ltx_p"><span id="A2.p3.pic1.2.30.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please generate the complete improved HTML file:
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.31" class="ltx_p"><span id="A2.p3.pic1.2.31.1" class="ltx_text" style="--ltx-fg-color:#000000;">[Revision from Unsupported Tasks]
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.32" class="ltx_p"><span id="A2.p3.pic1.2.32.1" class="ltx_text" style="--ltx-fg-color:#000000;">You are tasked with improving a web application to support additional tasks that are currently unsupported.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.33" class="ltx_p"><span id="A2.p3.pic1.2.33.1" class="ltx_text" style="--ltx-fg-color:#000000;">## CONTEXT
+<br class="ltx_break">Application: {app_name}
+<br class="ltx_break">Model: {model_name}
+<br class="ltx_break">Total Unsupported Tasks: {len(unsupported_tasks)}
+<br class="ltx_break">Original HTML Length: {len(initial_html.strip())}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.34" class="ltx_p"><span id="A2.p3.pic1.2.34.1" class="ltx_text" style="--ltx-fg-color:#000000;">## OUTPUT FORMAT
+<br class="ltx_break">Generate a single, complete, and self-contained HTML file. The file must be fully functional, including all necessary CSS and JavaScript, from ‘!DOCTYPE html‘ to ‘/html‘. Do not use placeholders or truncate the code.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.35" class="ltx_p"><span id="A2.p3.pic1.2.35.1" class="ltx_text" style="--ltx-fg-color:#000000;">## ORIGINAL INITIAL WEBSITE (FULL)
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.36" class="ltx_listing ltx_lst_language_Python ltx_lstlisting ltx_framed ltx_framed_rectangle ltx_listing" style="--ltx-border-color:#BFBFBF;"><span class="ltx_listing_data"><a href="data:text/plain;base64,e2luaXRpYWxfaHRtbH0=" download>⬇</a></span>
+<span id="lstnumberx8" class="ltx_listingline"><span id="lstnumberx8.1" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">{</span><span id="lstnumberx8.2" class="ltx_text ltx_lst_identifier ltx_font_typewriter" style="--ltx-fg-color:#000000;">initial_html</span><span id="lstnumberx8.3" class="ltx_text ltx_font_typewriter" style="--ltx-fg-color:#000000;">}</span>
+</span>
+</span>
+<span id="A2.p3.pic1.2.37" class="ltx_p"><span id="A2.p3.pic1.2.37.1" class="ltx_text" style="--ltx-fg-color:#000000;">## UNSUPPORTED TASKS ANALYSIS
+<br class="ltx_break">{unsupported_summary}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.38" class="ltx_p"><span id="A2.p3.pic1.2.38.1" class="ltx_text" style="--ltx-fg-color:#000000;">## CODE PRESERVATION CONTRACT (Non-Regression)
+<br class="ltx_break">{” if ablate_no_contract else (non_regression_contract_prompt or ”).strip()}
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.39" class="ltx_p"><span id="A2.p3.pic1.2.39.1" class="ltx_text" style="--ltx-fg-color:#000000;">## IMPROVEMENT REQUIREMENTS
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.40" class="ltx_p"><span id="A2.p3.pic1.2.40.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 1. Task Support Issues to Address
+<br class="ltx_break">Based on the unsupported task analysis, you must ADD missing functionality:
+<br class="ltx_break">- Add missing DOM elements that tasks expect to exist
+<br class="ltx_break">- Implement missing JavaScript functionality for user interactions
+<br class="ltx_break">- Add missing form controls and input handling
+<br class="ltx_break">- Implement missing display areas and visual feedback
+<br class="ltx_break">- Add missing navigation and UI components
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.41" class="ltx_p"><span id="A2.p3.pic1.2.41.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 2. Implementation Guidelines
+<br class="ltx_break">- PRESERVE all existing working functionality from initial version
+<br class="ltx_break">- ADD new HTML elements with unique IDs for automation
+<br class="ltx_break">- IMPLEMENT complete JavaScript event handlers for new features
+<br class="ltx_break">- ENSURE new UI elements are properly styled and visible
+<br class="ltx_break">- DO NOT introduce new input constraints that would block task inputs implied by tasks; validation must be permissive and must not reduce what the initial version allowed.
+<br class="ltx_break">- DO NOT auto-trigger flows on load that change initial states (no auto-generation, auto-download, auto-navigation). Start in a neutral, idle state.
+<br class="ltx_break">- FIT critical controls within a 1280x720 viewport without scrolling. Avoid multi-panel hub layouts and unnecessary panels that push controls below the fold.
+<br class="ltx_break">- IMPLEMENT missing workflows and user interaction patterns
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.42" class="ltx_p"><span id="A2.p3.pic1.2.42.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 3. DOM Structure Requirements
+<br class="ltx_break">- Every new interactive element MUST have a unique ID
+<br class="ltx_break">- New form controls must have proper event listeners
+<br class="ltx_break">- New content areas must update appropriately on state changes
+<br class="ltx_break">- New visual feedback must be implemented for added interactions
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.43" class="ltx_p"><span id="A2.p3.pic1.2.43.1" class="ltx_text" style="--ltx-fg-color:#000000;">### 4. JavaScript Functionality Requirements
+<br class="ltx_break">- All new user interactions mentioned in unsupported tasks must be fully implemented
+<br class="ltx_break">- New state changes must be reflected in the DOM immediately
+<br class="ltx_break">- New event handlers must properly update all related UI elements
+<br class="ltx_break">- Any new game logic, scoring, timing must be complete and functional
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.44" class="ltx_p"><span id="A2.p3.pic1.2.44.1" class="ltx_text" style="--ltx-fg-color:#000000;">## OUTPUT REQUIREMENTS
+<br class="ltx_break">Generate a complete and fully functional HTML file that:
+<br class="ltx_break">1. Maintains all existing functionality from initial version.
+<br class="ltx_break">2. Adds the missing functionality required to support the new tasks.
+<br class="ltx_break">3. Implements all necessary DOM elements and JavaScript for task support.
+<br class="ltx_break">4. Ensures all new features are robust and testable.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.45" class="ltx_p"><span id="A2.p3.pic1.2.45.1" class="ltx_text" style="--ltx-fg-color:#000000;">Commenter JSON (if provided)
+<br class="ltx_break">- If upstream provides a commenter JSON analysis with ‘actionable_changes‘, follow those changes first, precisely and surgically.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.46" class="ltx_p"><span id="A2.p3.pic1.2.46.1" class="ltx_text" style="--ltx-fg-color:#000000;">Surgical Revision Policy
+<br class="ltx_break">- Preserve existing IDs; do not rename or remove working elements from initial version.
+<br class="ltx_break">- Avoid large rewrites. Patch only the functions, event handlers, and minimal markup necessary to satisfy the failed/unsupported tasks.
+<br class="ltx_break">- Preserve working logic from initial version; do not regress features that already work.
+<br class="ltx_break">- Reuse existing elements/IDs for state wherever possible; only add new IDs if strictly necessary to expose the state of new logic.
+<br class="ltx_break">- Preserve initial version immediacy semantics. Do NOT introduce extra confirmation steps as prerequisites where initial version achieved completion via immediate interactions. Implement functional logic first, then expose proxies from the same code path; never update proxies without the underlying state change.
+<br class="ltx_break"></span></span>
+<span id="A2.p3.pic1.2.47" class="ltx_p"><span id="A2.p3.pic1.2.47.1" class="ltx_text" style="--ltx-fg-color:#000000;">Please generate the complete improved HTML file:</span></span>
+</span></span></span></foreignobject></g></g></svg>

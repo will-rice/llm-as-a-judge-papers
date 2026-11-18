@@ -1,0 +1,145 @@
+<svg id="A2.p2.pic1" class="ltx_picture" height="1986.74" overflow="visible" version="1.1" viewbox="0 0 550 1986.74" width="550"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,1986.74) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#333333;" fill="#333333" fill-opacity="1.0"><path style="stroke:none" d="M 0 8.84 L 0 1977.89 C 0 1982.78 3.96 1986.74 8.84 1986.74 L 541.16 1986.74 C 546.04 1986.74 550 1982.78 550 1977.89 L 550 8.84 C 550 3.96 546.04 0 541.16 0 L 8.84 0 C 3.96 0 0 3.96 0 8.84 Z" /></g><g style="--ltx-fill-color:#F0F6FB;" fill="#F0F6FB" fill-opacity="1.0"><path style="stroke:none" d="M 0.97 8.84 L 0.97 1964.63 L 549.03 1964.63 L 549.03 8.84 C 549.03 4.49 545.51 0.97 541.16 0.97 L 8.84 0.97 C 4.49 0.97 0.97 4.49 0.97 8.84 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.21 1972.22)"><foreignobject style="--ltx-fo-width:32.9em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="455.24"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.p2.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:32.9em;">
+<span id="A2.p2.pic1.1.1" class="ltx_p"><span id="A2.p2.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Task Proposer Prompt</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 13.21 1942.78)"><foreignobject style="--ltx-fo-width:37.84em;--ltx-fo-height:0.69em;--ltx-fo-depth:139.45em;font-size:10pt;" height="1939.2" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="523.6"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.p2.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:37.84em;">
+<span id="A2.p2.pic1.2.1" class="ltx_p"><span id="A2.p2.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">Propose a comprehensive set of 30 diverse, realistic user tasks for the following {tag_type} application:
+<br class="ltx_break">
+<br class="ltx_break">Application: {app_title}
+<br class="ltx_break">Description: {app_description}
+<br class="ltx_break">
+<br class="ltx_break">Each task should be:
+<br class="ltx_break">- Clear and specific in its description
+<br class="ltx_break">- Represent realistic user scenarios
+<br class="ltx_break">- Cover different complexity levels and use cases
+<br class="ltx_break">- Grounded in an observable outcome: The task’s completion must be marked by a clear and unambiguous change in the application’s state or interface. The expected outcome description must precisely define this terminal state.
+<br class="ltx_break">- Avoid single element grounding (focus on complete workflows)
+<br class="ltx_break">- Test the application’s core functionality effectively
+<br class="ltx_break">
+<br class="ltx_break">{tag_specific_content}
+<br class="ltx_break">
+<br class="ltx_break">Tag Philosophy Template: 
+<br class="ltx_break">
+<br class="ltx_break">Game:
+<br class="ltx_break">Focus on GAME-SPECIFIC user tasks:
+<br class="ltx_break">1. Playing complete game rounds or levels
+<br class="ltx_break">2. Achieving high scores and personal bests
+<br class="ltx_break">3. Completing specific game objectives or challenges
+<br class="ltx_break">4. Using game controls and input methods
+<br class="ltx_break">5. Navigating game menus and settings
+<br class="ltx_break">6. Restarting games and trying different strategies
+<br class="ltx_break">7. Progressing through difficulty levels
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on actual gameplay actions and goals
+<br class="ltx_break">- Include winning and losing scenarios
+<br class="ltx_break">- Cover different skill levels and strategies
+<br class="ltx_break">- Test game restart and replay functionality
+<br class="ltx_break">- Emphasize user enjoyment and engagement
+<br class="ltx_break">
+<br class="ltx_break">Tool:
+<br class="ltx_break">Focus on TOOL-SPECIFIC user tasks:
+<br class="ltx_break">1. Creating or generating content using the tool
+<br class="ltx_break">2. Inputting data in various formats and types (typed/pasted text or on-page controls)
+<br class="ltx_break">3. Transforming and processing information
+<br class="ltx_break">4. Previewing results in-page (no file uploads/downloads)
+<br class="ltx_break">5. Using tool-specific features and options
+<br class="ltx_break">6. Working with both simple and complex inputs
+<br class="ltx_break">7. Completing end-to-end workflows within the page
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on practical use cases and workflows
+<br class="ltx_break">- Include both basic and advanced tool usage
+<br class="ltx_break">- Cover different input types and scenarios without external files
+<br class="ltx_break">- Verify visible in-page outputs or status changes in the DOM
+<br class="ltx_break">- Emphasize real-world problem solving
+<br class="ltx_break">
+<br class="ltx_break">Utility:
+<br class="ltx_break">Focus on UTILITY-SPECIFIC user tasks:
+<br class="ltx_break">1. Setting up and configuring the utility for personal use
+<br class="ltx_break">2. Adding, organizing, and managing data or items
+<br class="ltx_break">3. Tracking progress and monitoring status over time
+<br class="ltx_break">4. Using timers, reminders, and scheduling features
+<br class="ltx_break">5. Customizing settings and preferences
+<br class="ltx_break">6. Completing daily or routine activities
+<br class="ltx_break">7. Accessing and updating information quickly
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on everyday productivity scenarios
+<br class="ltx_break">- Include setup and personalization tasks
+<br class="ltx_break">- Cover routine and habitual usage patterns
+<br class="ltx_break">- Test organization and tracking features
+<br class="ltx_break">- Emphasize practical daily life applications
+<br class="ltx_break">
+<br class="ltx_break">Interactive:
+<br class="ltx_break">Focus on INTERACTIVE-SPECIFIC user tasks:
+<br class="ltx_break">1. Exploring and experimenting with interactive elements
+<br class="ltx_break">2. Creating and manipulating visual or audio content
+<br class="ltx_break">3. Adjusting parameters and settings in real-time
+<br class="ltx_break">4. Playing with creative tools and features
+<br class="ltx_break">5. Experiencing immersive visual or audio effects
+<br class="ltx_break">6. Using touch, click, and gesture interactions
+<br class="ltx_break">7. Customizing appearance and behavior
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on creative and exploratory activities
+<br class="ltx_break">- Include experimentation and play scenarios
+<br class="ltx_break">- Cover different interaction methods
+<br class="ltx_break">- Test customization and personalization
+<br class="ltx_break">- Emphasize sensory and aesthetic experiences
+<br class="ltx_break">
+<br class="ltx_break">Landing:
+<br class="ltx_break">Focus on LANDING-SPECIFIC user tasks:
+<br class="ltx_break">1. Browsing and exploring page content and sections
+<br class="ltx_break">2. Reading and understanding key information
+<br class="ltx_break">3. Clicking on call-to-action buttons and links
+<br class="ltx_break">4. Navigating through different page sections
+<br class="ltx_break">5. Finding contact information and ways to engage
+<br class="ltx_break">6. Viewing team, product, or service details
+<br class="ltx_break">7. Accessing additional resources and links
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on visitor browsing and exploration
+<br class="ltx_break">- Include information-seeking behaviors
+<br class="ltx_break">- Cover engagement and conversion actions
+<br class="ltx_break">- Test navigation and content discovery
+<br class="ltx_break">- Emphasize typical visitor journey scenarios
+<br class="ltx_break">
+<br class="ltx_break">App (default/other):
+<br class="ltx_break">Focus on APP-SPECIFIC user tasks:
+<br class="ltx_break">1. Creating, editing, and managing content or data
+<br class="ltx_break">2. Using multiple features in combination
+<br class="ltx_break">3. Setting up and personalizing the application
+<br class="ltx_break">4. Completing complex multi-step workflows
+<br class="ltx_break">5. Organizing and categorizing information
+<br class="ltx_break">6. Accessing and updating saved information
+<br class="ltx_break">
+<br class="ltx_break">Additional task requirements:
+<br class="ltx_break">- Focus on practical in-app usage
+<br class="ltx_break">- Include multi-feature workflows and combinations
+<br class="ltx_break">- Cover content creation and management
+<br class="ltx_break">- Test personalization and customization
+<br class="ltx_break">- Verify completion via visible state changes in the DOM (no external integrations)
+<br class="ltx_break">
+<br class="ltx_break">Task Categorization Framework:
+<br class="ltx_break">
+<br class="ltx_break">Each task must be categorized into one of the following three archetypes, which provides a structured approach to evaluating different facets of the application’s functionality:
+<br class="ltx_break">- ”core_function”: Tests a single, primary feature in isolation.
+<br class="ltx_break">- ”user_workflow”: Tests a sequence of features that represent a complete user goal.
+<br class="ltx_break">- ”edge_case”: Tests non-standard inputs, boundary conditions, or less common interaction patterns.
+<br class="ltx_break">
+<br class="ltx_break">Please respond in JSON format:</span></span><pre id="A2.p2.pic1.2.2" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">
+{
+  &quot;app_name&quot;: &quot;&lt;app_name&gt;&quot;,
+  &quot;tags&quot;: [&quot;&lt;tag1&gt;&quot;, &quot;...&quot;],
+  &quot;tasks&quot;: [
+    {
+      &quot;id&quot;: 1,
+      &quot;description&quot;: &quot;Clear, specific task description&quot;,
+      &quot;category&quot;: &quot;core_function|user_workflow|edge_case&quot;,
+      &quot;expected_outcome&quot;: &quot;What should happen when task completes&quot;
+    }
+  ]
+}
+</pre>
+</span></span></span></foreignobject></g></g></svg>
