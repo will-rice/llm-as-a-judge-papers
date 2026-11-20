@@ -6,9 +6,4 @@ backfill:
     continuation: null
     covered_from: '2023-05-04T00:00:00Z'
 continuations: {}
-failures:
-  arxiv:2610.15938v1:
-  - error: 'conversion exceeded the 8192 MiB memory limit: docling'
-    occurred_at: '2026-11-18T14:18:52.779222Z'
-  - error: 'conversion exceeded the 8192 MiB memory limit: docling'
-    occurred_at: '2026-11-20T02:25:27.720293Z'
+failures: {}
