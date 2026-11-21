@@ -9,10 +9,13 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 977 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 980 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-19T13:17:49+00:00 | arxiv:2611.26077v1 | [Same Judgement, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation](papers/arxiv-2611-26077v1--f488ccde4b38.md)                                                   | arxiv       |
+| 2026-11-19T13:15:13+00:00 | arxiv:2611.26073v1 | [AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators](papers/arxiv-2611-26073v1--01455e76a822.md)                                                          | arxiv       |
+| 2026-11-19T06:31:51+00:00 | arxiv:2611.25588v1 | [Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges](papers/arxiv-2611-25588v1--fd85c788f05b.md)                                                           | arxiv       |
 | 2026-11-18T21:13:28+00:00 | arxiv:2611.25191v1 | [Blind Spots Travel, Knowledge Stays Home: What RL Inherits from an LLM Judge](papers/arxiv-2611-25191v1--7c2bde1705f3.md)                                                                | arxiv       |
 | 2026-11-18T18:09:16+00:00 | arxiv:2611.24849v1 | [Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling](papers/arxiv-2611-24849v1--cb71acba18ac.md)                                    | arxiv       |
 | 2026-11-17T15:39:40+00:00 | arxiv:2611.22949v1 | [Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?](papers/arxiv-2611-22949v1--46a7a10d6c4d.md)                                             | arxiv       |
@@ -40,9 +43,6 @@ The 30 most recent of 977 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-11-02T07:41:05+00:00 | arxiv:2611.02692v1 | [LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models](papers/arxiv-2611-02692v1--e4fe16dab033.md)                                                        | arxiv       |
 | 2026-11-01T15:52:25+00:00 | arxiv:2611.02009v1 | [Retrieval-Enhanced Cultural Evaluation for Social Media Translation Training](papers/arxiv-2611-02009v1--4954bf4fe3db.md)                                                                | arxiv       |
 | 2026-10-31T22:19:54+00:00 | arxiv:2611.01311v1 | [What Do LLM Judges Actually Verify? Matched Controls and Record Gaps for Document Currency](papers/arxiv-2611-01311v1--4383fb050cd2.md)                                                  | arxiv       |
-| 2026-10-31T00:51:19+00:00 | arxiv:2611.00505v1 | [To Jev or Not to Jev: When Can System-1 Decision Models Replace LLM Judges?](papers/arxiv-2611-00505v1--d6612b31536d.md)                                                                 | arxiv       |
-| 2026-10-31T00:33:11+00:00 | arxiv:2611.00491v1 | [VoirDire: Counterfactual Calibration for Reliable LLM-as-a-Judge Aggregation](papers/arxiv-2611-00491v1--0c2cdeeb0866.md)                                                                | arxiv       |
-| 2026-10-30T23:02:26+00:00 | arxiv:2611.00447v1 | [Quantiles, Not Points: Streaming Quantile Matching for Ordinal-Aware LLM-as-a-Judge Calibration](papers/arxiv-2611-00447v1--47b2337fb16f.md)                                             | arxiv       |
 
 <!-- papers-index:end -->
 
