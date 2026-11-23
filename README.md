@@ -9,10 +9,11 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 980 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 981 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-19T22:48:23+00:00 | arxiv:2611.26881v1 | [Your Judge Inherits Your Prompt: In-Context Label Bias in an LLM-as-Judge Is Directional, Not Symmetric](papers/arxiv-2611-26881v1--46e1b388908f.md)                                     | arxiv       |
 | 2026-11-19T13:17:49+00:00 | arxiv:2611.26077v1 | [Same Judgement, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation](papers/arxiv-2611-26077v1--f488ccde4b38.md)                                                   | arxiv       |
 | 2026-11-19T13:15:13+00:00 | arxiv:2611.26073v1 | [AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators](papers/arxiv-2611-26073v1--01455e76a822.md)                                                          | arxiv       |
 | 2026-11-19T06:31:51+00:00 | arxiv:2611.25588v1 | [Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges](papers/arxiv-2611-25588v1--fd85c788f05b.md)                                                           | arxiv       |
@@ -42,7 +43,6 @@ The 30 most recent of 980 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-11-03T00:01:35+00:00 | arxiv:2611.04090v1 | [Swapping the Judge Changes the Ranking: A Preregistered Study of Cross-Provider Replication in LLM-Judged System Comparisons](papers/arxiv-2611-04090v1--09c6dd012fc4.md)                | arxiv       |
 | 2026-11-02T07:41:05+00:00 | arxiv:2611.02692v1 | [LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models](papers/arxiv-2611-02692v1--e4fe16dab033.md)                                                        | arxiv       |
 | 2026-11-01T15:52:25+00:00 | arxiv:2611.02009v1 | [Retrieval-Enhanced Cultural Evaluation for Social Media Translation Training](papers/arxiv-2611-02009v1--4954bf4fe3db.md)                                                                | arxiv       |
-| 2026-10-31T22:19:54+00:00 | arxiv:2611.01311v1 | [What Do LLM Judges Actually Verify? Matched Controls and Record Gaps for Document Currency](papers/arxiv-2611-01311v1--4383fb050cd2.md)                                                  | arxiv       |
 
 <!-- papers-index:end -->
 
