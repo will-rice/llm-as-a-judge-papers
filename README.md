@@ -9,10 +9,15 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 981 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 986 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-23T16:16:40+00:00 | arxiv:2611.30925v1 | [PRIMEAPE: A Multilingual Benchmark for Fine-Grained Meta-Evaluation of Judge Models](papers/arxiv-2611-30925v1--8d1e6c521c67.md)                                                         | arxiv       |
+| 2026-11-23T14:19:52+00:00 | arxiv:2611.30742v1 | [Transport-Safe Evaluation of LLM Agents: Trajectory-Dependent Judge Error and Anytime-Valid Auditing](https://arxiv.org/abs/2611.30742v1)                                                | arxiv       |
+| 2026-11-23T03:41:03+00:00 | arxiv:2611.29975v1 | [Aligning Judge Models to Be Logically Consistent Multi-Rule Interpreters](papers/arxiv-2611-29975v1--c1438b3cc0e0.md)                                                                    | arxiv       |
+| 2026-11-23T00:00:00+00:00 | arxiv:2611.31595   | [LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation](papers/arxiv-2611-31595--e40edf4c6bf4.md)                                                                    | huggingface |
+| 2026-11-22T17:52:26+00:00 | arxiv:2611.29651v1 | [Which Loopholes Get Found? Predicting Reward Hacking of LLM Judges Before RL Training](papers/arxiv-2611-29651v1--3957dd028be1.md)                                                       | arxiv       |
 | 2026-11-19T22:48:23+00:00 | arxiv:2611.26881v1 | [Your Judge Inherits Your Prompt: In-Context Label Bias in an LLM-as-Judge Is Directional, Not Symmetric](papers/arxiv-2611-26881v1--46e1b388908f.md)                                     | arxiv       |
 | 2026-11-19T13:17:49+00:00 | arxiv:2611.26077v1 | [Same Judgement, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation](papers/arxiv-2611-26077v1--f488ccde4b38.md)                                                   | arxiv       |
 | 2026-11-19T13:15:13+00:00 | arxiv:2611.26073v1 | [AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators](papers/arxiv-2611-26073v1--01455e76a822.md)                                                          | arxiv       |
@@ -38,11 +43,6 @@ The 30 most recent of 981 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-11-04T20:48:34+00:00 | arxiv:2611.07126v1 | [Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning](papers/arxiv-2611-07126v1--7b1e336a2523.md)                                                          | arxiv       |
 | 2026-11-04T20:38:52+00:00 | arxiv:2611.07123v1 | [PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems](papers/arxiv-2611-07123v1--ca4c773d21e3.md)                                                                         | arxiv       |
 | 2026-11-03T21:47:19+00:00 | arxiv:2611.05662v1 | [Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge](papers/arxiv-2611-05662v1--1580cf3047a6.md)                                                                              | arxiv       |
-| 2026-11-03T19:49:01+00:00 | arxiv:2611.05556v2 | [AGORA: Reliability-Aware Aggregation of LLM Judges on Small Evaluation Sets](papers/arxiv-2611-05556v2--602715e8d65c.md)                                                                 | arxiv       |
-| 2026-11-03T00:01:56+00:00 | arxiv:2611.04091v1 | [Same Rule, Different Verdicts: Rubric Language and Clause Structure in LLM Judges for Korean Support Dialogues](papers/arxiv-2611-04091v1--2c6597efc1d1.md)                              | arxiv       |
-| 2026-11-03T00:01:35+00:00 | arxiv:2611.04090v1 | [Swapping the Judge Changes the Ranking: A Preregistered Study of Cross-Provider Replication in LLM-Judged System Comparisons](papers/arxiv-2611-04090v1--09c6dd012fc4.md)                | arxiv       |
-| 2026-11-02T07:41:05+00:00 | arxiv:2611.02692v1 | [LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models](papers/arxiv-2611-02692v1--e4fe16dab033.md)                                                        | arxiv       |
-| 2026-11-01T15:52:25+00:00 | arxiv:2611.02009v1 | [Retrieval-Enhanced Cultural Evaluation for Social Media Translation Training](papers/arxiv-2611-02009v1--4954bf4fe3db.md)                                                                | arxiv       |
 
 <!-- papers-index:end -->
 
