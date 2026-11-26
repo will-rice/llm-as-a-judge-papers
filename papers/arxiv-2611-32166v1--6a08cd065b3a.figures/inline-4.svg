@@ -1,0 +1,40 @@
+<svg id="A2.F7.pic1" class="ltx_picture ltx_figure_panel" height="513.33" overflow="visible" version="1.1" viewbox="0 0 653.15 513.33" width="653.15"><g style="--ltx-stroke-color:#000000;--ltx-fill-color:#000000;" fill="#000000" stroke="#000000" stroke-width="0.4pt" transform="translate(0,513.33) matrix(1 0 0 -1 0 0)"><g style="--ltx-fill-color:#6464B4;" fill="#6464B4" fill-opacity="1.0"><path style="stroke:none" d="M 0 5.91 L 0 507.42 C 0 510.68 2.64 513.33 5.91 513.33 L 647.24 513.33 C 650.51 513.33 653.15 510.68 653.15 507.42 L 653.15 5.91 C 653.15 2.64 650.51 0 647.24 0 L 5.91 0 C 2.64 0 0 2.64 0 5.91 Z" /></g><g style="--ltx-fill-color:#F5F5FA;" fill="#F5F5FA" fill-opacity="1.0"><path style="stroke:none" d="M 1.97 5.91 L 1.97 489.22 L 651.18 489.22 L 651.18 5.91 C 651.18 3.73 649.42 1.97 647.24 1.97 L 5.91 1.97 C 3.73 1.97 1.97 3.73 1.97 5.91 Z" /></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.82 497.81)"><foreignobject style="--ltx-fo-width:39.44em;--ltx-fo-height:0.69em;--ltx-fo-depth:0.19em;font-size:10pt;" height="12.3" overflow="visible" transform="matrix(1 0 0 -1 0 9.61)" width="545.74"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F7.pic1.1" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:39.44em;">
+<span id="A2.F7.pic1.1.1" class="ltx_p"><span id="A2.F7.pic1.1.1.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#FFFFFF;">Teacher Stage 1: Contrast</span></span>
+</span></span></span></foreignobject></g><g fill-opacity="1.0" transform="matrix(1.0 0.0 0.0 1.0 12.82 16.28)"><foreignobject style="--ltx-fo-width:43.19em;--ltx-fo-height:33.39em;--ltx-fo-depth:0.25em;font-size:10pt;" height="465.54" overflow="visible" transform="matrix(1 0 0 -1 0 462.08)" width="597.63"><span class="ltx_foreignobject_container"><span class="ltx_foreignobject_content">
+<span id="A2.F7.pic1.2" class="ltx_inline-block ltx_minipage ltx_align_bottom" style="width:43.19em;">
+<span id="A2.F7.pic1.2.1" class="ltx_p"><span id="A2.F7.pic1.2.1.1" class="ltx_text" style="--ltx-fg-color:#000000;">You compare two responses to the same instruction. Your only job is to say where they DIFFER. You must not decide which is better and must not hint at a preference.</span></span>
+<span id="A2.F7.pic1.2.2" class="ltx_p"><span id="A2.F7.pic1.2.2.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Rules<span id="A2.F7.pic1.2.2.1.1" class="ltx_text ltx_font_medium">
+1. List differences in BOTH directions: points where Response A does better and points where Response B does better. A list that only favours one side is invalid and will be discarded.
+2. At most 6 differences, ordered by how much they matter. Do not pad the list; if there are only two real differences, write two.
+3. Every difference needs evidence: a VERBATIM excerpt of at most 20 words copied exactly out of that response. Copy characters exactly; do not paraphrase, do not fix typos, do not add ellipses.
+4. Say which requirement in the instruction the difference bears on, as a VERBATIM excerpt of the instruction. Use null if it bears on none.
+5. Classify each difference as “material” or “immaterial”. A difference is “material” only if it changes how useful the answer is to the user: it changes a conclusion, fails a requirement the instruction actually makes, drops or adds required content, or introduces a safety or policy problem. Style, wording, length, and decorative formatting are NOT material. Do not treat them as decisive unless the instruction explicitly asks for a length, a format, or a structure, or unless the content is otherwise identical.
+6. If any length or formatting difference exists you MUST list it and mark it immaterial, with the reason. Omitting it is a failure.
+7. Never write “Response A” or “Response B” inside an evidence excerpt. Quote the response text itself.</span></span></span>
+<span id="A2.F7.pic1.2.3" class="ltx_p"><span id="A2.F7.pic1.2.3.1" class="ltx_text ltx_font_bold" style="--ltx-fg-color:#000000;">Output: strict JSON, nothing else<span id="A2.F7.pic1.2.3.1.1" class="ltx_text"></span></span></span><pre id="A2.F7.pic1.2.4" class="ltx_verbatim ltx_font_typewriter" style="--ltx-fg-color:#000000;">{
+  &quot;differences&quot;: [
+    {
+      &quot;id&quot;: 1,
+      &quot;a_side&quot;: &quot;what Response A concretely does, includes or omits&quot;,
+      &quot;b_side&quot;: &quot;what Response B concretely does, includes or omits&quot;,
+      &quot;a_evidence&quot;: &quot;verbatim excerpt from Response A, &lt;=20 words&quot;,
+      &quot;b_evidence&quot;: &quot;verbatim excerpt from Response B, &lt;=20 words&quot;,
+      &quot;instruction_anchor&quot;: &quot;verbatim excerpt from the instruction, or null&quot;,
+      &quot;materiality&quot;: &quot;material&quot;,
+      &quot;materiality_reason&quot;: &quot;&quot;
+    },
+    {
+      &quot;id&quot;: 2,
+      &quot;a_side&quot;: &quot;...&quot;,
+      &quot;b_side&quot;: &quot;...&quot;,
+      &quot;a_evidence&quot;: &quot;...&quot;,
+      &quot;b_evidence&quot;: &quot;...&quot;,
+      &quot;instruction_anchor&quot;: null,
+      &quot;materiality&quot;: &quot;immaterial&quot;,
+      &quot;materiality_reason&quot;: &quot;length only; the instruction sets no length limit&quot;
+    }
+  ]
+}
+</pre>
+</span></span></span></foreignobject></g></g></svg>

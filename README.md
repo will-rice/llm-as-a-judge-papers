@@ -9,10 +9,13 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 986 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 989 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-24T18:05:47+00:00 | arxiv:2611.33065v1 | [Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges](papers/arxiv-2611-33065v1--c7ea97c6a764.md)                                              | arxiv       |
+| 2026-11-24T17:32:40+00:00 | arxiv:2611.33012v1 | [Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study](papers/arxiv-2611-33012v1--fd4227956bd4.md)                                                                       | arxiv       |
+| 2026-11-24T08:17:22+00:00 | arxiv:2611.32166v1 | [RightDiff: Learning Generative Reward Models to Judge by the Right Differences](papers/arxiv-2611-32166v1--6a08cd065b3a.md)                                                              | arxiv       |
 | 2026-11-23T16:16:40+00:00 | arxiv:2611.30925v1 | [PRIMEAPE: A Multilingual Benchmark for Fine-Grained Meta-Evaluation of Judge Models](papers/arxiv-2611-30925v1--8d1e6c521c67.md)                                                         | arxiv       |
 | 2026-11-23T14:19:52+00:00 | arxiv:2611.30742v1 | [Transport-Safe Evaluation of LLM Agents: Trajectory-Dependent Judge Error and Anytime-Valid Auditing](papers/arxiv-2611-30742v1--118cda323ddf.md)                                        | arxiv       |
 | 2026-11-23T03:41:03+00:00 | arxiv:2611.29975v1 | [Aligning Judge Models to Be Logically Consistent Multi-Rule Interpreters](papers/arxiv-2611-29975v1--c1438b3cc0e0.md)                                                                    | arxiv       |
@@ -40,9 +43,6 @@ The 30 most recent of 986 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-11-06T09:39:50+00:00 | arxiv:2611.09222v1 | [Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language](papers/arxiv-2611-09222v1--02241845581f.md)                                     | arxiv       |
 | 2026-11-06T09:22:29+00:00 | arxiv:2611.09203v2 | [Copies Are Not Confirmations: How News Duplication Fools LLM Judges and Continual Learners](papers/arxiv-2611-09203v2--e0feaba29a90.md)                                                  | arxiv       |
 | 2026-11-06T06:20:50+00:00 | arxiv:2611.09047v1 | [Grounding-Aware Judge Reward Reinforcement Learning for Out-of-Domain Face Anti-Spoofing](papers/arxiv-2611-09047v1--9b056991c0b0.md)                                                    | arxiv       |
-| 2026-11-04T20:48:34+00:00 | arxiv:2611.07126v1 | [Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning](papers/arxiv-2611-07126v1--7b1e336a2523.md)                                                          | arxiv       |
-| 2026-11-04T20:38:52+00:00 | arxiv:2611.07123v1 | [PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems](papers/arxiv-2611-07123v1--ca4c773d21e3.md)                                                                         | arxiv       |
-| 2026-11-03T21:47:19+00:00 | arxiv:2611.05662v1 | [Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge](papers/arxiv-2611-05662v1--1580cf3047a6.md)                                                                              | arxiv       |
 
 <!-- papers-index:end -->
 
