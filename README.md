@@ -9,10 +9,11 @@ https://www.alphaxiv.org/shared/folder/01a1e1de-9793-73fb-b76c-f504e2a234f9
 
 # Papers
 
-The 30 most recent of 989 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 990 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                                                     | Source      |
 | ------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 2026-11-25T16:05:46+00:00 | arxiv:2611.34617v1 | [Evaluating More with Less: Black-Box Test Selection for AI Agents](papers/arxiv-2611-34617v1--2fca85813c9e.md)                                                                           | arxiv       |
 | 2026-11-24T18:05:47+00:00 | arxiv:2611.33065v1 | [Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges](papers/arxiv-2611-33065v1--c7ea97c6a764.md)                                              | arxiv       |
 | 2026-11-24T17:32:40+00:00 | arxiv:2611.33012v1 | [Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study](papers/arxiv-2611-33012v1--fd4227956bd4.md)                                                                       | arxiv       |
 | 2026-11-24T08:17:22+00:00 | arxiv:2611.32166v1 | [RightDiff: Learning Generative Reward Models to Judge by the Right Differences](papers/arxiv-2611-32166v1--6a08cd065b3a.md)                                                              | arxiv       |
@@ -42,7 +43,6 @@ The 30 most recent of 989 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-11-06T10:43:03+00:00 | arxiv:2611.09291v1 | [AutoRefine: Auto-Calibrating Code Judges from Workflow Outcomes](papers/arxiv-2611-09291v1--4851c7614d88.md)                                                                             | arxiv       |
 | 2026-11-06T09:39:50+00:00 | arxiv:2611.09222v1 | [Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language](papers/arxiv-2611-09222v1--02241845581f.md)                                     | arxiv       |
 | 2026-11-06T09:22:29+00:00 | arxiv:2611.09203v2 | [Copies Are Not Confirmations: How News Duplication Fools LLM Judges and Continual Learners](papers/arxiv-2611-09203v2--e0feaba29a90.md)                                                  | arxiv       |
-| 2026-11-06T06:20:50+00:00 | arxiv:2611.09047v1 | [Grounding-Aware Judge Reward Reinforcement Learning for Out-of-Domain Face Anti-Spoofing](papers/arxiv-2611-09047v1--9b056991c0b0.md)                                                    | arxiv       |
 
 <!-- papers-index:end -->
 
